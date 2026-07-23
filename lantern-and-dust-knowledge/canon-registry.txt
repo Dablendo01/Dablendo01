@@ -1,0 +1,71 @@
+LANTERN & DUST — CANON REGISTRY (names & places already used — DO NOT REUSE)
+Last updated: story #6 (The Undertaker's Kindness). Check this BEFORE naming any
+character or town in a new story. Add each new story's names after finalizing.
+Avoid near-collisions too (Sam/Samuel, Eli/Elias) — the video automator matches
+character names by word and confuses lookalikes.
+
+=====================================================================
+STORY 1 — "They Called Her Ruined When She Came Home After 13 Years"
+Setting: unnamed frontier town
+Characters: Della Mercer (lead), Royce, Silas, the Aunt, the Young Gunman,
+            the Lieutenant
+
+STORY 2 — "They Ran the Widow Out of Town for Poisoning Her Husband" (Cedar Gulch)
+Setting: Cedar Gulch
+Characters: Nora (lead widow), Elias Reed, Cyrus Pell, Sam, Maddie, Mrs. Tilghman
+
+STORY 3 — "Lonely Rancher Let a Widow Pay for Flour With Her Wedding Ring"
+Setting: Hollow Fork
+Characters: Ruth Calloway (later Ruth Kade), Josiah Kade, Harmon Frye,
+            Sadie (variant Ingredient: Sah), Samuel Kade (dead son), Mary
+
+STORY 4 — "Lonely Rancher Paid $3 for the Silent Girl No One Would Bid On"
+Setting: Bitter Creek (Ash Fork also mentioned)
+Characters: Etta Rose (lead), Gideon Boone, Cole Ashby, Eli Boone (dead brother),
+            Judge (the black stallion)
+
+STORY 5 — "Supper's Free for Anyone Who's Hungry" (Dry Wells)
+Setting: Dry Wells
+Characters: Marta Voss (lead), Henry Voss (dead husband), Cornelius Hartwell
+            (alias "Neil"; Ingredients: Hartwell + Cornelius), Aldous Crane,
+            Tobias (orphan boy), Prudence Gale
+
+STORY 6 — "The Undertaker's Kindness" (Granite Flat)
+Setting: Granite Flat
+Characters: Abel Thorne (lead), Amos Caldwell (secret silver king), Vernon Price,
+            Quincey Adair (lawyer), Cora Quinn (seamstress), Lila Thorne (dead wife),
+            Daniel Caldwell (dead son), Hobb (mason), the livery boy
+  NOTE: renamed from the first draft — Elias Thorne -> Abel Thorne,
+  Nora Quinn -> Cora Quinn, Bitter Creek -> Granite Flat (collided with
+  Cedar Gulch's Elias Reed / Nora and The $3 Bride's Bitter Creek).
+
+=====================================================================
+BLOCKED FIRST NAMES (any spelling/diminutive counts as a repeat):
+Della, Royce, Silas, Nora, Elias, Cyrus, Sam, Samuel, Maddie, Ruth, Josiah,
+Harmon, Sadie, Mary, Etta, Gideon, Cole, Eli, Marta, Henry, Cornelius, Neil,
+Aldous, Tobias, Prudence, Abel, Amos, Vernon, Quincey, Cora, Lila, Daniel, Hobb
+
+BLOCKED SURNAMES:
+Mercer, Reed, Pell, Tilghman, Calloway, Kade, Frye, Rose, Boone, Ashby, Voss,
+Hartwell, Crane, Gale, Thorne, Caldwell, Price, Adair, Quinn
+
+BLOCKED TOWN NAMES:
+Cedar Gulch, Hollow Fork, Bitter Creek, Ash Fork, Dry Wells, Granite Flat
+
+=====================================================================
+KNOWN LEGACY OVERLAPS (published, do not fix — just don't add to them):
+- Sam (Cedar Gulch) / Samuel Kade (Ring & Name)
+- Eli Boone (Bride) / Elias Reed (Cedar Gulch)
+These predate the registry. The no-reuse rule applies strictly from story 6 on.
+
+=====================================================================
+SAFE-NAME SUGGESTIONS FOR STORY 7+ (none used above — first names):
+Men: Ezra, Nathaniel, Caleb, Amos-no(used), Owen, Wyatt, Gideon-no(used),
+     Thaddeus, Levi, Jonah, August, Rufus, Isaiah, Malcolm, Everett, Clement
+Women: Adeline, Winifred, Clara, Hester, Josephine, Verna, Louisa, Effie,
+       Margaret, Susannah, Beatrice, Adelaide, Frances, Opal, Cordelia
+Surnames: Ashford, Beckett, Dunmore, Harlan, Winslow, Carraway, Tate,
+          Ellery, Radcliffe, Sennett, Vance, Holloway, Merritt, Cobb
+Towns: Sagebrush, Poplar Bend, Red Fork, Ambrose, Cottonwood, Larkspur,
+       Miller's Crossing, Copper Hollow, Sweetwater, Pine Hollow, Dun Ridge
+(Move any into the BLOCKED lists once a story actually uses them.)
