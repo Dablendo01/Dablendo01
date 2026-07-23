@@ -87,19 +87,55 @@ def scenes_from_srt(cues, target, mn, mx):
             merged.append(list(sc))
     return [tuple(x) for x in merged]
 
-def split_sentences(text):
+def _split_long(sentence, max_words):
+    """Break an over-long sentence at clause boundaries (comma/semicolon/dash)."""
+    words = sentence.split()
+    if len(words) <= max_words:
+        return [sentence]
+    # split into clauses, then greedily pack clauses up to max_words
+    clauses = re.split(r'(?<=[,;:])\s+|\s+—\s+|\s+-\s+', sentence)
+    out, buf = [], []
+    for c in clauses:
+        if not c.strip():
+            continue
+        if buf and len(' '.join(buf + [c]).split()) > max_words:
+            out.append(' '.join(buf))
+            buf = [c]
+        else:
+            buf.append(c)
+    if buf:
+        out.append(' '.join(buf))
+    # any remaining monster clause: hard-wrap by word count
+    final = []
+    for piece in out:
+        pw = piece.split()
+        if len(pw) <= max_words:
+            final.append(piece)
+        else:
+            for i in range(0, len(pw), max_words):
+                final.append(' '.join(pw[i:i+max_words]))
+    return final
+
+def split_sentences(text, max_words=999):
     # collapse whitespace, keep [SECTION]/(re-hook) markers out of the timing
     text = re.sub(r'\[[^\]]*\]', ' ', text)
     text = re.sub(r'\((?:re-hook)[^)]*\)', ' ', text)
     text = re.sub(r'\s+', ' ', text).strip()
     parts = re.split(r'(?<=[.!?])\s+', text)
-    return [p.strip() for p in parts if p.strip()]
+    sents = [p.strip() for p in parts if p.strip()]
+    out = []
+    for s in sents:
+        out.extend(_split_long(s, max_words))
+    return out
 
 def scenes_from_script(path, total_seconds, target, mn, mx):
     text = open(path, encoding='utf-8').read()
-    sents = split_sentences(text)
-    total_words = sum(len(s.split()) for s in sents)
+    # first pass to estimate wps, then split long sentences to ~max seconds of words
+    prelim = split_sentences(text)
+    total_words = sum(len(s.split()) for s in prelim)
     wps = total_words / total_seconds if total_seconds else 2.9
+    max_words = max(8, int(mx * wps))
+    sents = split_sentences(text, max_words=max_words)
     scenes = []
     t = 0.0
     cur_words = 0
