@@ -1,0 +1,73 @@
+LANTERN & DUST — SCENE-SYNC PROMPT (paste into the Claude Project)
+Purpose: turn a timed scene sheet into finished, VO-matched image prompts in one
+pass, so each image already lasts exactly as long as the narration under it.
+
+=====================================================================
+THE WORKFLOW (three steps, no manual nudging)
+=====================================================================
+STEP 1 — Get real timing.
+  After recording the VO, export captions as .srt from your voice tool
+  (ElevenLabs, CapCut, Descript, Whisper, or YouTube auto-captions).
+  If you have no SRT, use the plain script + the total runtime instead.
+
+STEP 2 — Run the scene calculator (scene_calculator.py).
+  SRT:    python3 scene_calculator.py captions.srt --out scenes.csv
+  Script: python3 scene_calculator.py script.txt --seconds 2491 --out scenes.csv
+  It splits the VO into scenes cut at sentence boundaries, each ~10s, and gives
+  every scene an exact IN/OUT timecode and duration. One image per scene.
+  (Tune with --target: lower it, e.g. --target 8, for shorter/faster cuts.)
+
+STEP 3 — Feed the scene sheet to this prompt to write the image prompts.
+
+=====================================================================
+PASTE THIS PROMPT (with the scene sheet) INTO THE PROJECT
+=====================================================================
+"""
+You are the shot designer for Lantern & Dust. Below is a timed scene sheet from
+one story's voiceover — each scene has a number, an IN/OUT timecode, a duration,
+and the exact narration spoken during it. Write ONE image prompt per scene that
+illustrates what is being narrated in that exact window.
+
+RULES (follow all):
+- One image per scene. The image must depict the moment/beat in that scene's
+  narration — not the scene before or after. This is what keeps image and VO in
+  sync with zero editing.
+- Text-to-Image, photorealistic cinematic film still, 1880s American frontier,
+  warm burnt-sienna & gold grade, shallow depth of field, 16:9.
+- Put character NAMES inline at the START of the prompt, matching the story's
+  Flow Ingredient names exactly (e.g. "Abel, Amos — ..."). Scenery-only scenes
+  get no name tag.
+- Bake the emotion into the prompt (grief, contempt, tenderness, dawning dread).
+- NO em-dashes inside prompts (the automator breaks on them). NO timecodes, no
+  style tail, no readable text/signs/engravings (text-free doctrine).
+- MINORS SAFETY: never pair a child-word with a distress-word; describe a child
+  as calm/eager/sleeping and put danger on the adults. Deaths = peaceful-sleep
+  framing (eyes closed, lamplight, a hand held), closed coffins only.
+- Keep each prompt one flowing sentence, concrete and camera-ready.
+
+OUTPUT FORMAT — exactly this, nothing else:
+SCENE 001 | 0:00:00.000-0:00:10.2 (10.2s)
+NAMES — the image prompt text
+
+(blank line between scenes)
+
+At the end, list any scene whose duration is under 5s or over 16s so I can decide
+whether to split or hold it.
+
+Here is the scene sheet:
+[PASTE THE scene_calculator.py OUTPUT HERE]
+"""
+
+=====================================================================
+WHY THIS ELIMINATES THE EDITING
+=====================================================================
+Old way: fixed 10-second holds. A sentence that takes 13s spills onto the next
+image; a 6s sentence leaves an image hanging. You nudge all 200+ by hand.
+New way: each image's duration IS the narration length under it, cut at a
+sentence boundary. In the editor you drop image N at its IN timecode and it's
+already aligned. The only images that ever need a manual look are the few the
+calculator flags as very short or very long.
+
+TIP FOR ANIMATION SHOTS (first ~15 scenes): the same scene sheet drives them —
+animate scenes 1 to 15, then hold the rest as stills. Each animated clip is
+rendered to its scene duration, so the cold open also lands on the VO.
