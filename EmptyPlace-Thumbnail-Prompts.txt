@@ -1,0 +1,76 @@
+LANTERN & DUST — THE EMPTY PLACE — DETAILED THUMBNAIL PROMPTS
+Text-free cinematic doctrine. This is the screamer — the thumbnail matters more than
+usual. Generate at 16:9, pull 4-5 takes, keep the one that aches at 168px wide.
+Reuse Flow Ingredients so faces match the video.
+
+
+=====================================================================
+PRIMARY — "THE EMPTY PLACE" (recommended — the whole story in one frame)
+The single most shareable image: twenty years of a mother's waiting, wordless.
+Ingredients to load: Winnie
+=====================================================================
+
+Cinematic photorealistic film still, 16:9 YouTube thumbnail, no text.
+A poor lamplit 1880s frontier kitchen at dusk. LEFT: Winnie, a careworn gray-haired
+old woman in a threadbare shawl, sits alone at a small plank table, thin hands folded,
+gazing across the table with quiet aching hope. RIGHT, the focus of her gaze: a second
+place fully and carefully set — a plate squared to the table edge, a cup turned upright,
+and pulled up to it a small handmade child's chair with a running horse carved into the
+back — and the small chair is empty. A single oil lamp between them.
+Lighting: one warm low golden oil-lamp glow pooling on the empty set place and the small
+chair, the mother's hopeful face lit soft, deep shadow around, burnt-sienna and gold
+grade, shallow depth of field, the empty chair and the mother's face the two focal
+points, 50mm, rule-of-thirds. Aching, tender, cinematic.
+Negative: no text, no letters, no captions, no watermark, no modern objects, no cartoon.
+
+
+=====================================================================
+ALT A — "THE KNOCK" (the instant before "Mama")
+The reunion beat; maximum emotional payoff in a face. Strong scroll-stopper.
+Ingredients to load: Winnie + Jonah
+=====================================================================
+
+Cinematic photorealistic film still, 16:9 YouTube thumbnail, no text.
+A poor frontier doorway at dusk. Winnie, a small careworn old woman in a shawl, stands
+in her lamplit open doorway looking up, her worn hand just rising toward the face of the
+man on the step. On the step: Jonah, a tall grown man in a plain dark coat, hat held in
+both hands, his strong lined face crumpling on the edge of tears as he looks down at her.
+Cold blue dusk behind him, warm gold lamplight from inside spilling out onto his face.
+The instant of recognition, before either can speak.
+Lighting: hard cold blue dusk behind the man vs warm golden interior lamplight washing
+his face and her upturned one, burnt-sienna and gold grade, shallow depth of field, both
+faces large and clearly lit, 50mm, cinematic and overwhelming.
+Negative: no text, no letters, no watermark, no modern objects, no cartoon.
+
+
+=====================================================================
+ALT B — "THE SCAR" (a body known by touch)
+Extreme intimacy; the recognition. Quietest and most tender option.
+Ingredients to load: Winnie + Jonah
+=====================================================================
+
+Cinematic photorealistic film still, 16:9 YouTube thumbnail, no text.
+Extreme close two-shot by firelight. A mother's weathered thumb rests against a small
+old pale scar at the left corner of a grown man's jaw; her lined face is streaming with
+tears and utterly certain; his eyes are closed, his composure gone. Warm firelight close
+on the two faces, everything else dark.
+Lighting: warm gold firelight, faces very close and tender, deep shadow around,
+burnt-sienna and gold grade, shallow depth of field on the touching hand and the scar,
+85mm, intimate and devastating.
+Negative: no text, no letters, no watermark, no modern objects, no cartoon.
+
+
+=====================================================================
+USAGE NOTES
+=====================================================================
+- RUN PRIMARY FIRST and give it the most tries. "The Empty Place" is the whole video in
+  one glance — an old woman, a set table, an empty child's chair — and it makes the
+  viewer *need* to know who the chair is for. That is the click. It is also intensely
+  shareable, which is what a screamer needs.
+- The small child's chair with the carved running horse must read clearly even small —
+  it is the story's heart. If the frame gets busy, simplify to Winnie + the set place +
+  the empty chair + the lamp; nothing else is needed.
+- Faces judged at 168px — one emotional moment, faces large, light doing the work.
+- All three obey the text-free standard; the long title carries the words.
+- Never accept a take where Winnie or Jonah drifts from their Ingredient; Jonah's jaw
+  scar (ALT B) must match his portrait for the recognition to land.

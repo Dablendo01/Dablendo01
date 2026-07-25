@@ -1,0 +1,138 @@
+LANTERN & DUST — THE EMPTY PLACE — DIRECT PORTRAIT PROMPTS
+Generate each prompt once. Save the result as a Flow Ingredient with the EXACT name shown.
+These names match the shot list inline tags: Winnie | Jonah | Radcliffe | Thomas | Effie
+Global look for scenes: photorealistic cinematic film still, warm firelit/dusk grade, burnt-sienna & gold, shallow depth of field, 16:9.
+
+NOTE ON FLASHBACKS: Young Jonah (age 6) and young Winnie (age 28, the happy years)
+appear only in flashback and use generic wording in the shot list ("a small boy",
+"a young mother"), so no separate young Ingredients are needed — use Jonah for the
+present-day adult and Winnie for present-day, and let flashback shots describe the
+young versions. Grade all flashbacks softer and warmer (the happy past) or colder
+(the winter of the taking) to separate them from the present.
+
+
+=====================================================================
+CHARACTER BIBLE (anchors — reuse verbatim in shots for consistency)
+=====================================================================
+
+WINIFRED "WINNIE" HOLLOWAY — the waiting mother (lead)
+Role/arc: widowed young when fever takes her husband; her six-year-old son is taken
+by the banker to settle the debt and shipped east; for twenty years she scrubs floors,
+is mocked as mad, and sets his place at Sunday supper — until the day he comes home.
+ANCHOR: a 52-year-old white woman, a careworn gentle face lined with patience and old
+grief, faded blue-gray eyes still holding a stubborn hope, gray hair pinned back under
+a worn dark headscarf, thin work-roughened hands, wearing a plain patched dark dress
+and apron under a threadbare gray shawl, quiet unbroken dignity
+
+JONAH HOLLOWAY — the stolen son, returned (co-lead)
+Role/arc: taken from his mother at six, renamed, raised loveless and lied to in a cold
+eastern house; escapes, reclaims his true name, becomes a circuit judge; uncovers the
+truth and comes home twenty years later not knowing if she is alive or ever wanted him.
+ANCHOR: a 32-year-old white man, a strong lined handsome face carrying an old buried
+sorrow, deep-set thoughtful gray eyes, dark hair going gray at the temples, clean-shaven
+with a firm jaw and a small old pale scar at the left corner of the jaw, tall and
+dignified, wearing a good plain dark coat and white collar, a held tenderness under a
+courtroom composure
+
+MALCOLM RADCLIFFE — the antagonist (the banker who took the boy)
+Role/arc: owns the Sweetwater bank and half the town; forecloses on the widow and takes
+her son as a creditor, wrapping the theft in Christian charity; prospers for twenty
+years as a pillar; ruined at last when the boy returns a judge and opens his books.
+ANCHOR: a 68-year-old white man, big and soft and prosperous, a smooth benevolent-seeming
+face with cold pale eyes and a mouth used to getting its way, thick silver hair, wearing
+fine severe black broadcloth with a heavy gold watch chain, soft uncallused hands folded
+piously, an air of respectable Scripture-quoting cruelty
+
+THOMAS HOLLOWAY — the husband (memories only)
+Role/arc: Winnie's husband, a farrier and a gentle good man who built their son a little
+chair; dies of the fever in the story's first winter; appears only in warm golden
+flashbacks of the happy years.
+ANCHOR: a 30-year-old white man, a warm open sunburned face with laugh lines and kind
+brown eyes, sandy hair, a strong easy farrier's build, wearing a leather farrier's apron
+over a rolled-sleeve work shirt, gentle and unhurried, a man who sings under his breath
+
+EFFIE DELL — the faithful neighbor (secondary)
+Role/arc: a poor widow herself; the one soul who never mocked Winnie, who left bread on
+her step for twenty years and sat with her across the terrible second plate and said
+"I know he's coming home"; lives to see it true.
+ANCHOR: a 55-year-old white woman, a plain kind weathered face with steady warm eyes and
+faint smile lines, gray hair under a plain bonnet, work-worn, wearing a plain worn dark
+dress and a brown shawl, humble and faithful
+
+
+=====================================================================
+DIRECT PORTRAIT PROMPTS (copy-paste, one per Ingredient)
+=====================================================================
+
+INGREDIENT NAME: Winnie
+
+Cinematic portrait of a 52-year-old white woman, a careworn gentle face lined with
+patience and old grief, faded blue-gray eyes still holding a stubborn hope, gray hair
+pinned back under a worn dark headscarf, thin work-roughened hands, wearing a plain
+patched dark dress and apron under a threadbare gray shawl, neutral quietly hopeful
+expression looking straight at camera, soft even natural light, plain warm-grey
+background, photorealistic, sharp facial detail, shallow depth of field, 1880s frontier,
+head-and-shoulders, 16:9
+
+
+INGREDIENT NAME: Jonah
+
+Cinematic portrait of a 32-year-old white man, a strong lined handsome face carrying an
+old buried sorrow, deep-set thoughtful gray eyes, dark hair going gray at the temples,
+clean-shaven with a firm jaw and a small old pale scar at the left corner of the jaw,
+wearing a good plain dark coat and white collar, neutral composed expression looking
+straight at camera, soft even natural light, plain warm-grey background, photorealistic,
+sharp facial detail, shallow depth of field, 1880s frontier circuit judge,
+head-and-shoulders, 16:9
+
+
+INGREDIENT NAME: Radcliffe
+
+Cinematic portrait of a 68-year-old white man, big and soft and prosperous, a smooth
+benevolent-seeming face with cold pale eyes and a mouth used to getting its way, thick
+silver hair, wearing fine severe black broadcloth with a heavy gold watch chain, soft
+uncallused hands, neutral piously self-satisfied expression looking straight at camera,
+soft even natural light, plain warm-grey background, photorealistic, sharp facial detail,
+shallow depth of field, 1880s frontier banker, head-and-shoulders, 16:9
+
+
+INGREDIENT NAME: Thomas
+
+Cinematic portrait of a 30-year-old white man, a warm open sunburned face with laugh
+lines and kind brown eyes, sandy hair, a strong easy build, wearing a leather farrier's
+apron over a rolled-sleeve work shirt, warm gentle expression looking straight at camera,
+soft even natural light, plain warm-grey background, photorealistic, sharp facial detail,
+shallow depth of field, 1880s frontier farrier, head-and-shoulders, 16:9
+
+
+INGREDIENT NAME: Effie
+
+Cinematic portrait of a 55-year-old white woman, a plain kind weathered face with steady
+warm eyes and faint smile lines, gray hair under a plain bonnet, work-worn, wearing a
+plain worn dark dress and a brown shawl, neutral warm expression looking straight at
+camera, soft even natural light, plain warm-grey background, photorealistic, sharp facial
+detail, shallow depth of field, 1880s frontier, head-and-shoulders, 16:9
+
+
+=====================================================================
+NOTES
+=====================================================================
+- Generate 2-3 takes per character and keep the clearest, most front-facing one.
+- Keep the warm-grey background + soft even light identical across all five.
+- THE KEY PROP is the child's chair: "a small handmade wooden child's chair with a
+  running horse carved into the back." It is the emotional object of the whole story —
+  render it warm and specific and let it recur (empty at the set table; by the hearth;
+  pulled up for grandchildren at the end). No readable text anywhere — text-free.
+- THE SET SECOND PLACE (plate, cup turned upright, the small chair) is the thumbnail and
+  the spine. Compose it to ache: one warm lamp, the empty chair catching the light.
+- JONAH's small jaw scar is the recognition key at the climax (the mother finds it by
+  touch). Keep it consistent and subtle on his Ingredient so the close-up pays off.
+- MINORS-FILTER CAUTION (important for the shot list): young Jonah (age 6) appears only
+  in flashback. The happy paddock/bread scenes are safe. THE TAKING is the one risky
+  beat — build it from the MOTHER's side: her arms held by two men, her face, the coach
+  window, "a small child's hand against the glass," "a small boy led toward a coach."
+  Never pair a child-word with a distress-word (no "screaming child" etc.); put the
+  anguish on Winnie and the grip on the sheriff and Radcliffe. The reunion is all adults.
+- RADCLIFFE reads as a benevolent pillar on the surface and cold underneath — that
+  contrast (kind mask, ledger eyes) is his whole character; don't make him a snarling
+  villain, make him respectable, which is worse.
