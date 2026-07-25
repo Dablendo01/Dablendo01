@@ -1,0 +1,77 @@
+LANTERN & DUST — THE BRIDE THEY SENT BACK — DETAILED THUMBNAIL PROMPTS
+Text-free cinematic doctrine. Generate at 16:9, pull 3-4 takes, keep the one whose
+faces read clearly at small size. Reuse Flow Ingredients so faces match the video.
+
+
+=====================================================================
+PRIMARY — "THE REJECTION" (recommended)
+Dignity under public cruelty; the injustice-led hook that this niche clicks on.
+Ingredients to load: Hester + Dunmore
+=====================================================================
+
+Cinematic photorealistic film still, 16:9 YouTube thumbnail, no text.
+A dusty 1880s frontier main street in flat hard morning light. CENTER foreground:
+Hester, a plain dignified woman with a pale healed burn scar along her jaw and neck,
+in a dust-gray traveling dress, standing alone holding a carpet bag in both hands,
+chin up, gray eyes wet but unflinching. RIGHT, close and larger: Dunmore, a pink
+well-fed man in a loud checked waistcoat and heavy gold watch chain, waving her off
+with a dismissive disgusted gesture, sneering. BACKGROUND: blurred townsfolk watching
+from wooden boardwalks, a stagecoach behind her.
+Lighting: cold flat exposing morning sun, hard shadows, a faint warm rim on Hester to
+separate her from the cold, burnt-sienna and gold grade pulled cool, shallow depth of
+field, both faces large and clearly lit, 50mm, rule-of-thirds. Emotional, unjust,
+cinematic.
+Negative: no text, no letters, no captions, no watermark, no modern objects, no cartoon.
+
+
+=====================================================================
+ALT A — "THE OFFER"
+Two marked people meeting; the turn. Warm-vs-cold, most emotionally distinctive.
+Ingredients to load: Ezra + Hester
+=====================================================================
+
+Cinematic photorealistic film still, 16:9 YouTube thumbnail, no text.
+A dusty 1880s frontier street. LEFT foreground: Ezra, a very big burned blacksmith in
+a soot-darkened leather apron, a healed scar taking the left side of his face, standing
+hat in his curled scarred hand, reaching gently for a carpet bag, his ruined face open
+and kind. RIGHT: Hester, the marked plain woman in dust-gray, turning to him with wary
+stunned hope, her own scar catching the light. Between them a single beat of two
+misjudged people recognizing something.
+Lighting: warm golden side light cutting across the cold gray street, burnt-sienna and
+gold grade, long soft shadows, shallow depth of field, both scarred faces large and
+tenderly lit, 50mm, cinematic.
+Negative: no text, no letters, no watermark, no modern objects, no cartoon.
+
+
+=====================================================================
+ALT B — "THE LEDGER"
+The reversal; a gentle person's quiet power. High-satisfaction option.
+Ingredients to load: Hester + Dunmore
+=====================================================================
+
+Cinematic photorealistic film still, 16:9 YouTube thumbnail, no text.
+Inside a lamplit 1880s mercantile. CENTER: Hester, the marked woman in her gray dress,
+standing straight-backed at a counter with an open ledger flat before her, one scarred
+hand resting on the page, calm and unanswerable, looking level across the counter.
+RIGHT foreground: Dunmore, the pink well-fed man, his smug face gone gray and stricken
+as he stares down at the open book, cornered. Warm lamplight, ledger pages bright.
+Lighting: warm golden lamplight, hard side shadows, burnt-sienna and gold grade,
+shallow depth of field with the open ledger and Hester's steady face sharpest, 50mm,
+tense and satisfying.
+Negative: no text, no letters, no readable figures on the ledger, no watermark, no
+modern objects, no cartoon.
+
+
+=====================================================================
+USAGE NOTES
+=====================================================================
+- Run PRIMARY first — injustice-led thumbnails are what pulled clicks on the channel's
+  best video. If the crowd renders messy at small size, drop them and let Hester vs
+  Dunmore carry it.
+- Render both leads' burn scars healed and dignified, never grotesque — the whole
+  story dies if they read as monstrous instead of misjudged.
+- All three obey the text-free standard: the long title does the verbal work.
+- Faces are judged at 168px wide — keep the frame to one clear emotional moment,
+  faces large, light doing the storytelling.
+- Never accept a take where Hester or Ezra drifts from their Ingredient face; the scar
+  placement (her left jaw, his left cheek) must stay consistent with the video.

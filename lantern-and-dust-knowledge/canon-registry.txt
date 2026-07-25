@@ -1,5 +1,5 @@
 LANTERN & DUST — CANON REGISTRY (names & places already used — DO NOT REUSE)
-Last updated: story #6 (The Undertaker's Kindness). Check this BEFORE naming any
+Last updated: story #7 (The Bride They Sent Back). Check this BEFORE naming any
 character or town in a new story. Add each new story's names after finalizing.
 Avoid near-collisions too (Sam/Samuel, Eli/Elias) — the video automator matches
 character names by word and confuses lookalikes.
@@ -39,18 +39,25 @@ Characters: Abel Thorne (lead), Amos Caldwell (secret silver king), Vernon Price
   Nora Quinn -> Cora Quinn, Bitter Creek -> Granite Flat (collided with
   Cedar Gulch's Elias Reed / Nora and The $3 Bride's Bitter Creek).
 
+STORY 7 — "The Bride They Sent Back" (Poplar Bend)
+Setting: Poplar Bend (flashback town: Ballard's Crossing)
+Characters: Hester Merritt / Hester Vance (lead), Ezra Vance (scarred blacksmith),
+            Everett Dunmore (antagonist), Arletta Poole (cold replacement bride),
+            old Beckett (land agent, minor)
+
 =====================================================================
 BLOCKED FIRST NAMES (any spelling/diminutive counts as a repeat):
 Della, Royce, Silas, Nora, Elias, Cyrus, Sam, Samuel, Maddie, Ruth, Josiah,
 Harmon, Sadie, Mary, Etta, Gideon, Cole, Eli, Marta, Henry, Cornelius, Neil,
-Aldous, Tobias, Prudence, Abel, Amos, Vernon, Quincey, Cora, Lila, Daniel, Hobb
+Aldous, Tobias, Prudence, Abel, Amos, Vernon, Quincey, Cora, Lila, Daniel, Hobb,
+Hester, Ezra, Everett, Arletta, Beckett
 
 BLOCKED SURNAMES:
 Mercer, Reed, Pell, Tilghman, Calloway, Kade, Frye, Rose, Boone, Ashby, Voss,
-Hartwell, Crane, Gale, Thorne, Caldwell, Price, Adair, Quinn
+Hartwell, Crane, Gale, Thorne, Caldwell, Price, Adair, Quinn, Merritt, Vance, Dunmore, Poole
 
 BLOCKED TOWN NAMES:
-Cedar Gulch, Hollow Fork, Bitter Creek, Ash Fork, Dry Wells, Granite Flat
+Cedar Gulch, Hollow Fork, Bitter Creek, Ash Fork, Dry Wells, Granite Flat, Poplar Bend, Ballard's Crossing
 
 =====================================================================
 KNOWN LEGACY OVERLAPS (published, do not fix — just don't add to them):
@@ -59,13 +66,14 @@ KNOWN LEGACY OVERLAPS (published, do not fix — just don't add to them):
 These predate the registry. The no-reuse rule applies strictly from story 6 on.
 
 =====================================================================
-SAFE-NAME SUGGESTIONS FOR STORY 7+ (none used above — first names):
-Men: Ezra, Nathaniel, Caleb, Amos-no(used), Owen, Wyatt, Gideon-no(used),
-     Thaddeus, Levi, Jonah, August, Rufus, Isaiah, Malcolm, Everett, Clement
-Women: Adeline, Winifred, Clara, Hester, Josephine, Verna, Louisa, Effie,
-       Margaret, Susannah, Beatrice, Adelaide, Frances, Opal, Cordelia
-Surnames: Ashford, Beckett, Dunmore, Harlan, Winslow, Carraway, Tate,
-          Ellery, Radcliffe, Sennett, Vance, Holloway, Merritt, Cobb
-Towns: Sagebrush, Poplar Bend, Red Fork, Ambrose, Cottonwood, Larkspur,
-       Miller's Crossing, Copper Hollow, Sweetwater, Pine Hollow, Dun Ridge
-(Move any into the BLOCKED lists once a story actually uses them.)
+SAFE-NAME BANK FOR STORY 8+ (still unused — first names):
+Men: Nathaniel, Caleb, Owen, Wyatt, Thaddeus, Levi, Jonah, August, Rufus,
+     Isaiah, Malcolm, Clement
+Women: Adeline, Winifred, Clara, Josephine, Verna, Louisa, Effie, Margaret,
+       Susannah, Beatrice, Adelaide, Frances, Opal, Cordelia
+Surnames: Ashford, Harlan, Winslow, Carraway, Tate, Ellery, Radcliffe,
+          Sennett, Holloway, Cobb
+Towns: Sagebrush, Red Fork, Ambrose, Cottonwood, Larkspur, Miller's Crossing,
+       Copper Hollow, Sweetwater, Pine Hollow, Dun Ridge
+(Move any into the BLOCKED lists once a story actually uses them. Story 7 used
+Ezra/Hester/Everett/Beckett/Vance/Merritt/Dunmore/Poole/Poplar Bend, now blocked above.)

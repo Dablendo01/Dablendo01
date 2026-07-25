@@ -1,0 +1,125 @@
+LANTERN & DUST — THE BRIDE THEY SENT BACK — DIRECT PORTRAIT PROMPTS
+Generate each prompt once. Save the result as a Flow Ingredient with the EXACT name shown.
+These names match the shot list inline tags: Hester | Ezra | Dunmore | Arletta
+Global look for scenes: photorealistic cinematic film still, warm firelit/dusk grade, burnt-sienna & gold, shallow depth of field, 16:9.
+
+NOTE: The two leads are both SCARRED — that is the point of the story. Render the
+scars as healed, dignified, and human, never grotesque. Young-Ezra (the burned
+drifter, 10 years earlier) and young-Hester (the baker's daughter) appear only in
+flashback and use generic wording in the shot list, so no separate Ingredients are
+needed — use Ezra and Hester for present-day and let the flashback shots describe
+"a young" version.
+
+
+=====================================================================
+CHARACTER BIBLE (anchors — reuse verbatim in shots for consistency)
+=====================================================================
+
+HESTER MERRITT (later HESTER VANCE) — the rejected bride (lead)
+Role/arc: a marked, plain mail-order bride publicly rejected at the depot for not
+matching her ten-year-old photograph; married by the scarred blacksmith instead;
+a mill-keeper's and baker's-daughter head for figures; ruins the greedy man who
+threw her away by reading his crooked books; once, long ago, fed and bandaged a
+burned young drifter she has forgotten.
+ANCHOR: a 33-year-old white woman, a plain steady handsome face with calm gray eyes
+and dark hair pinned back simply under a plain bonnet, a smooth pale healed burn scar
+along the left jaw and down the neck and across the back of the right hand, straight
+backed and quietly unflinching, wearing a modest dust-gray traveling dress with a
+high collar
+
+EZRA VANCE — the scarred blacksmith (co-lead)
+Role/arc: burned in a smithy fire at 25, drifted marked and hungry, was shown one
+great kindness by a bakery girl and carried her brass medal for ten years while he
+built himself into the best smith for forty miles; steps forward to marry the
+rejected bride, never telling her he has been looking for her face for a decade.
+ANCHOR: a 40-year-old white man, very big and heavy through the shoulders, a broad
+plain face with a healed burn scar taking the left cheek jaw and neck and pulling
+slightly at the eye, deep quiet brown eyes, dark hair and a short beard both flecked
+with gray, a curled scarred right hand, wearing a soot-darkened leather blacksmith's
+apron over a rolled-sleeve work shirt
+
+EVERETT DUNMORE — the antagonist (the man who sent her back)
+Role/arc: the prosperous freight and mercantile man of Poplar Bend; orders a bride by
+a flattering photograph and rejects her in the street for her marked face; out of
+spite calls the note on the smithy; ruined when the wife he threw away reads his
+crooked ledgers aloud to the town.
+ANCHOR: a 48-year-old white man, well-fed and pink-faced and pleased with himself,
+small shrewd eyes and a fleshy self-satisfied mouth, sandy hair thinning and combed
+over, wearing a loud checked waistcoat with a heavy gold watch chain thick as a
+bridle rein, soft uncallused hands, an air of catalogue-ordered prosperity
+
+ARLETTA POOLE — the replacement bride (secondary)
+Role/arc: the younger, prettier bride Dunmore sends east for after rejecting Hester;
+turns out cold, grasping, and loveless; the living proof that a man who buys by the
+picture gets a winter.
+ANCHOR: a 26-year-old white woman, a conventionally pretty but cold sharp face with
+pale calculating eyes and a small hard mouth, glossy dark ringlets, wearing an
+expensive fashionable dress and too much jewelry, an air of bored discontent
+
+
+=====================================================================
+DIRECT PORTRAIT PROMPTS (copy-paste, one per Ingredient)
+=====================================================================
+
+INGREDIENT NAME: Hester
+
+Cinematic portrait of a 33-year-old white woman, a plain steady handsome face with calm
+gray eyes and dark hair pinned back simply under a plain bonnet, a smooth pale healed
+burn scar along the left jaw and down the neck and across the back of the right hand,
+straight backed and quietly unflinching, wearing a modest dust-gray high-collared
+traveling dress, neutral composed expression looking straight at camera, soft even
+natural light, plain warm-grey background, photorealistic, sharp facial detail, shallow
+depth of field, 1880s frontier, head-and-shoulders, 16:9
+
+
+INGREDIENT NAME: Ezra
+
+Cinematic portrait of a 40-year-old white man, very big and heavy through the shoulders,
+a broad plain face with a healed burn scar taking the left cheek jaw and neck and
+pulling slightly at the eye, deep quiet brown eyes, dark hair and a short beard both
+flecked with gray, a curled scarred right hand, wearing a soot-darkened leather
+blacksmith's apron over a rolled-sleeve work shirt, neutral gentle expression looking
+straight at camera, soft even natural light, plain warm-grey background, photorealistic,
+sharp facial detail, shallow depth of field, 1880s frontier blacksmith, head-and-shoulders, 16:9
+
+
+INGREDIENT NAME: Dunmore
+
+Cinematic portrait of a 48-year-old white man, well-fed and pink-faced and pleased with
+himself, small shrewd eyes and a fleshy self-satisfied mouth, sandy hair thinning and
+combed over, wearing a loud checked waistcoat with a heavy gold watch chain, soft
+uncallused hands, neutral smug expression looking straight at camera, soft even natural
+light, plain warm-grey background, photorealistic, sharp facial detail, shallow depth of
+field, 1880s frontier merchant, head-and-shoulders, 16:9
+
+
+INGREDIENT NAME: Arletta
+
+Cinematic portrait of a 26-year-old white woman, a conventionally pretty but cold sharp
+face with pale calculating eyes and a small hard mouth, glossy dark ringlets, wearing an
+expensive fashionable dress and too much jewelry, neutral bored discontented expression
+looking straight at camera, soft even natural light, plain warm-grey background,
+photorealistic, sharp facial detail, shallow depth of field, 1880s frontier, head-and-shoulders, 16:9
+
+
+=====================================================================
+NOTES
+=====================================================================
+- Generate 2-3 takes per character and keep the clearest, most front-facing one — that
+  locks the face best as an Ingredient.
+- Keep the warm-grey background + soft even light identical across all four so they
+  blend consistently into scenes.
+- THE SCARS ARE THE STORY. Render Hester's and Ezra's burn scars as smooth, healed,
+  pale, and dignified — a human mark, not a horror effect. They should read as
+  "someone the world misjudged," not as monstrous. This is essential; a grotesque
+  render breaks the entire emotional premise.
+- The BRASS SAINT CHRISTOPHER MEDAL is the key prop, not a character: in scene prompts
+  describe it as "a small worn brass medal on a bit of ribbon." Never show readable
+  engraving — text-free doctrine applies to props too.
+- FLASHBACK (Ballard's Crossing, ten years earlier): young Ezra is "a starved young
+  burned drifter, gaunt, scar fresh and raw" and young Hester is "a plain quick young
+  woman of twenty with flour on her apron." Grade flashbacks softer and cooler (a cold
+  March) to separate them from the warm present.
+- ARLETTA is the visual foil: cold pretty and overdressed against Hester's warm plain
+  steadiness. Useful in the "he got a winter" beat and as a thumbnail contrast.
+- No minors in this story — no minors-filter risk.
