@@ -34,6 +34,12 @@ RULES (follow all):
   sync with zero editing.
 - Text-to-Image, photorealistic cinematic film still, 1880s American frontier,
   warm burnt-sienna & gold grade, shallow depth of field, 16:9.
+- PERIOD ANCHOR ON EVERY LINE (required): each prompt must END with an explicit
+  era tag so it renders old-west even when pasted alone with no file header.
+  Append verbatim to every prompt: ", 1880s American Old West frontier,
+  period-accurate frontier clothing and props, no modern objects, no
+  contemporary clothing". Interiors, close-ups, and hands/props shots are the
+  ones that go modern without it, so NONE may be skipped.
 - Put character NAMES inline at the START of the prompt, matching the story's
   Flow Ingredient names exactly (e.g. "Abel, Amos — ..."). Scenery-only scenes
   get no name tag.

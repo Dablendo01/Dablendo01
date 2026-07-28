@@ -181,14 +181,19 @@ PROMPTS = [
 "A lit oil lantern beside a set and welcoming table at night, warm gold spilling into the dark, the closing signature image",
 ]
 
+# Period anchor stamped on EVERY prompt so each line renders old-west even when
+# pasted individually (no file header to rely on). Fixes modern-setting renders.
+ANCHOR = ", 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing"
+
 def run():
     rows = list(csv.DictReader(open("EmptyPlace-Scenes.csv")))
     assert len(rows) == len(PROMPTS), f"{len(rows)} scenes vs {len(PROMPTS)} prompts"
+    stamped = [p + ANCHOR for p in PROMPTS]
     out = []
-    for r, p in zip(rows, PROMPTS):
+    for r, p in zip(rows, stamped):
         out.append(f"SCENE {int(r['scene']):03d} | {r['in']}-{r['out']} ({float(r['dur_s']):.1f}s)\n{p}")
     open("EmptyPlace-ShotList.txt", "w").write("\n\n\n".join(out) + "\n")
-    open("EmptyPlace-Prompts-Only.txt", "w").write("\n\n\n".join(PROMPTS) + "\n")
+    open("EmptyPlace-Prompts-Only.txt", "w").write("\n\n\n".join(stamped) + "\n")
     durs = [float(r["dur_s"]) for r in rows]
     print(f"{len(rows)} scenes | {sum(durs)/60:.1f} min | {sum(durs):.0f}s (VO 37:31 = 2251s) | "
           f"shortest {min(durs):.1f}s longest {max(durs):.1f}s")
