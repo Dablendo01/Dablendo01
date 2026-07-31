@@ -63,22 +63,30 @@ VISUAL IDENTITY (for thumbnails/branding)
 Palette: warm dusk — burnt sienna, gold, charcoal, cream.
 Logo motif: a single glowing oil lantern, dust in the light, dark background.
 
-THUMBNAIL DOCTRINE — TEXT-FREE, MAXIMUM DRAMA + CLARITY (niche standard; never suggest overlay text)
+THUMBNAIL DOCTRINE — TEXT-FREE, CINEMATIC TWO-HANDER (VERIFIED against in-niche winners 2026-07-31)
 - NO text overlay ever. The long descriptive title does the verbal work; the image
-  carries the curiosity gap visually.
-- ONE instantly readable, DRAMATIC emotional moment that makes a scrolling viewer
-  need to click and then stay. The face is the click: a large, well-lit human FACE
-  at its emotional peak — shame, defiance, stunned recognition, a mother's fury,
-  pleading, tenderness.
-- One clear action/story beat, nothing cluttered. Test at 168px wide: if you can't
-  read the emotion in half a second, simplify.
-- Warm-vs-cold light contrast is the house look: lamplight/firelight against snow,
-  dusk, rain, or shadow.
-- Consistent burnt-sienna/gold grade on EVERY thumbnail — with no text, the color
-  grade is the channel's recognizable brand in the feed.
-- The antagonist or a jeering crowd may appear, but must NEVER steal focus from the
-  woman's face. No giant distracting foreground objects (hands, props) that read as
-  a blob at small size.
-- Audience is 45+, often on TV screens: a clean film-still reads premium; meme-style
-  text reads cheap to this demographic.
-- Photorealistic, high contrast, single focal subject, 16:9.
+  carries the curiosity gap visually. (This is CONFIRMED — every top in-niche outlier
+  is text-free.)
+- PROVEN WINNING COMPOSITION (from Callahan's Wild West, our niche twin — their four
+  biggest videos, 609K/173K/131K/111K, all share it): a WOMAN and a MAN facing each
+  other, standing APART, she on one side and he on the other, a charged emotional GAP
+  between them. A cinematic MEDIUM-WIDE film still (half/full figures), NOT a single
+  face close-up. The tension is read from body language and the distance, not a
+  screaming expression.
+  * Woman: clearly visible, modest period dress in ONE saturated color (deep purple,
+    red, blue) so she pops against dusty browns.
+  * Man: rugged rancher/cowboy/protector or the reveal figure (marshal, judge),
+    work clothes, often holding his hat.
+  * On humiliation stories, put the JEERING CROWD / whole town watching in the
+    blurred background (the 609K champion does exactly this) — it stages the shame.
+  * Real Old West setting: boardwalk, porch, fence line, town street, train platform.
+- NOTE — this SUPERSEDES the earlier "one giant single FACE" rule. The single-face
+  close-up is a reaction-channel convention and was UNVERIFIED; it lost to the
+  two-hander in every head-to-head on the twin channel. Keep a single strong face
+  only as a B-test, not the default.
+- Test at 168px wide: the two figures + the gap + who's watching must read in half a
+  second. Photorealistic, natural frontier daylight (their winners are bright, not
+  dark), 16:9.
+- House grade: warm burnt-sienna/gold where it fits — but do NOT force darkness; the
+  proven winners are bright daylight film stills. Consistency of the two-hander
+  composition is the brand, more than the grade.

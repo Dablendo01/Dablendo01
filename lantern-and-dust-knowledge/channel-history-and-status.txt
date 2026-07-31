@@ -124,6 +124,23 @@ in that file to bend any African-tales outlier into the Old West.
   (did the first-90s doctrine raise the ~33% floor?).
 
 =====================================================================
+7b. NICHE TWIN / COMPETITOR TO WATCH (found via live research 2026-07-31)
+=====================================================================
+CALLAHAN'S WILD WEST STORIES — @CallahansWildWest — UC4eZyp91VZ21PY6qWPjeXNg.
+Started Aug 2025, ~4.6K subs, 32 videos, avg ~50K views, faceless AI Old West
+emotional fiction. OUR EXACT NICHE, a few months ahead of us. What their real data
+teaches (all verified view counts, see humiliation-title-bank VERIFIED section):
+- TITLES: quoted-dialogue hook up front + em-dash + withheld payoff. Their 609K/12x
+  champion = "Can You Cook?" He Asked the Humiliated Bride. Humiliation/shame titles
+  beat sweet-romance titles on the SAME channel (romance ones sit at 2-15K). Warm-
+  question hooks ("Have You Eaten?", "Can You Teach My Children?") over-perform.
+- THUMBS: text-free man+woman TWO-HANDER, charged gap, medium-wide daylight film
+  still, crowd watching on humiliation stories (see updated thumbnail doctrine).
+- LENGTH: their hits are 17-28 min (shorter than our 33-42). Not proven causal;
+  watch our AVD, don't blindly cut length.
+Re-check this channel every few weeks for new outliers and title/thumb moves.
+
+=====================================================================
 8. TOOLS + WHERE THE MASTER FILES LIVE
 =====================================================================
 - scene_calculator.py: turns a VO (SRT or script+runtime) into a timed scene sheet so

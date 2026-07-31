@@ -92,13 +92,17 @@ TITLE RULES (curiosity gap is mandatory)
 - Include a vivid concrete image or a number.
 - Lead with the underdog or the injustice, not the reward. Max one ALL-CAPS word.
 
-THUMBNAILS — TEXT-FREE, MAXIMUM DRAMA + CLARITY
-- NO overlay text ever; the long title does the verbal work.
-- ONE instantly readable, dramatic emotional moment that makes the viewer click and
-  stay: a large, well-lit FACE at its peak (shame, defiance, stunned recognition, a
-  mother's fury) — the face is the click. One clear action, nothing cluttered,
-  readable at 168px. Warm-vs-cold light, burnt-sienna & gold grade, photorealistic,
-  16:9. Antagonist/jeering crowd may appear but must never steal focus from her face.
+THUMBNAILS — TEXT-FREE, CINEMATIC TWO-HANDER (VERIFIED vs in-niche winners 2026-07-31)
+- NO overlay text ever; the long title does the verbal work. (Confirmed by data.)
+- PROVEN WINNING SHOT (Callahan's Wild West, our niche twin — their 609K/173K/131K/111K
+  videos all use it): a WOMAN and a MAN facing each other, standing APART, a charged
+  emotional GAP between them; medium-wide cinematic film still (half/full figures), NOT
+  a single-face close-up. Woman in ONE saturated-color period dress so she pops; man is
+  the rancher/protector or reveal figure (marshal/judge) often holding his hat. On
+  humiliation stories, stage the JEERING CROWD / whole town watching in the blurred
+  background. Bright natural frontier daylight, photorealistic, 16:9, readable at 168px.
+- This SUPERSEDES the old "one giant FACE" rule (that was a reaction-channel convention,
+  unverified, and lost head-to-head). Keep a single strong face only as a B-test.
 
 PRODUCTION / IMAGE-PROMPT RULES
 - Every image prompt in a shot list must END with a period anchor so it renders
