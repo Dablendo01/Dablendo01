@@ -1,0 +1,77 @@
+LANTERN & DUST — RETENTION CHECKLIST
+Claude must self-audit every script against this before delivering.
+Goal hierarchy: (1) hook in 15s, (2) maximize Average View Duration, (3) payoff that earns a subscribe.
+
+=====================================================================
+0. THE FIRST 90 SECONDS (intro-cliff doctrine — highest priority)
+=====================================================================
+Channel data (video #1 retention curve): the story holds a FLAT ~33% from min 6 to
+the final line — but HALF the audience leaves in the first ~2 minutes. All
+recoverable watch time lives in the first 90 seconds. Every script must pass:
+[ ] SENTENCE ONE names a PERSON + an ACT or INJUSTICE. Never weather, landscape, or
+    "the town of X was...". The lead (or the wrong done to her) is on screen from word one.
+[ ] The title's promise is recognizable within the first TWO sentences (~10 seconds).
+[ ] A "stay" beat lands inside the first 60 seconds (promise line or forward-pull tease).
+[ ] A first mini-turn ("because here is what nobody knew...") by ~0:60.
+[ ] By ~1:30 the open loop is set AND the underdog has done one concrete sympathetic thing.
+[ ] PRODUCTION: narrator's first word within 3 seconds of 0:00; first SHOT shows the
+    lead/person, not an establishing wide; cold-open shots animated, never static.
+
+=====================================================================
+1. SCRIPT STRUCTURE (default 6,700–7,400 words ≈ 38–42 min at ~174 wpm)
+=====================================================================
+[ ] COLD OPEN (0:00–0:25): start mid-crisis or mid-injustice. No "in the year 18__,"
+    no scene-setting throat-clearing. The first sentence must create a question.
+[ ] PROMISE LINE (~0:30): one sentence telling the viewer the emotional payoff for staying.
+[ ] OPEN LOOP stated early: the single question the whole video answers.
+[ ] ACT 1: establish a sympathetic underdog + clear stakes. Viewer must root for them by 60s.
+[ ] ACT 2: escalation, complication, the twist, the darkest moment.
+[ ] MID-ROLL CLIFF at ~50%: a mini-cliffhanger to survive the drop-off zone.
+[ ] ACT 3: reversal + reveal (identity/fortune/rescue) + PUBLIC VINDICATION + catharsis.
+[ ] CLOSING LINE: warm, resonant final beat + soft theme-tied subscribe nudge.
+
+=====================================================================
+2. RE-HOOK RULE
+=====================================================================
+[ ] A forward-pull line every 2–3 minutes. Examples:
+    "But what he found in the cellar would change everything."
+    "She didn't know the man at the door already knew her name."
+[ ] No 30-second stretch without an unanswered question pulling the viewer forward.
+
+=====================================================================
+3. LINE-LEVEL WRITING RULES
+=====================================================================
+[ ] Open loops > closed loops. Never resolve the core mystery before Act 3.
+[ ] Concrete sensory detail (dust, lamplight, cold, creaking porch) over abstraction.
+[ ] Write for the EAR — narrated. Short sentences for tension; vary rhythm.
+[ ] One escalating emotion per scene. Earn tears; don't announce them.
+[ ] Reveal backstory through action/dialogue, never info-dump.
+[ ] Period-plausible but plain dialogue. Avoid "howdy partner" cartoon cliché.
+[ ] Max ~6 named characters (each becomes a Flow Ingredient); names simple, distinct,
+    and checked against canon-registry.txt (no reuse, no lookalikes).
+
+=====================================================================
+4. COMMON RETENTION KILLERS (flag and fix)
+=====================================================================
+[ ] Slow open (anything before the person/injustice in the first sentence) -> cut it.
+[ ] Early payoff (revealing the twist/identity too soon) -> delay to Act 3.
+[ ] Sagging middle (no cliff at 50%) -> add a mini-cliffhanger.
+[ ] Flat narration stretch (>30s of description, no question) -> insert a re-hook.
+[ ] Too many characters/names -> merge or cut.
+[ ] Abstract feelings ("she was sad") -> replace with action/detail.
+
+=====================================================================
+5. AUDIT OUTPUT FORMAT (when auditing a draft)
+=====================================================================
+- List each issue with its approximate timestamp/section.
+- Give a specific line-level rewrite for each, not general advice.
+- End with a 1–10 retention score and the top 3 fixes that would raise it most.
+
+=====================================================================
+6. OUTPUT DISCIPLINE FOR FINISHED SCRIPTS
+=====================================================================
+[ ] Output ONLY narration text in clean spoken paragraphs.
+[ ] Use [SECTION] markers: [COLD OPEN] [ACT 1] [ACT 2] [MID-ROLL CLIFF] [ACT 3] [CLOSING].
+[ ] Put (re-hook) notes in parentheses the narrator can ignore.
+[ ] Add estimated runtime at the top.
+[ ] End with 3 text-free cinematic thumbnail concepts (scene + facial emotion + lighting).

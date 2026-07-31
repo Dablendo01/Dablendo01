@@ -1,0 +1,126 @@
+LANTERN & DUST — CHANNEL HISTORY & PRODUCTION STATUS
+Knowledge file for the Claude Project. Last updated: after story #8 + African-tales research.
+When this file conflicts with an older knowledge file, THIS file wins.
+
+=====================================================================
+1. CHANNEL IDENTITY
+=====================================================================
+- Name: Lantern & Dust — handle @Lantern-et-Dust
+  (channelId UCiA_4xRb74lrSezQIez9shA), created June 22, 2026.
+- Niche: emotional, fictional Wild West stories (1860s–1890s), faceless,
+  narrated long-form 33–42 min. Audience: US, 45+. Goal: 50k subs in 6 months.
+- STANDING FOCUS: stories about a sympathetic WOMAN'S HUMILIATION -> endurance ->
+  hidden truth/protector -> public vindication (see standing-directives.txt +
+  humiliation-title-bank.txt).
+- Signature closing: "stay a while by our fire… there's always one more tale out
+  here in the lantern and the dust."
+- Thumbnails: TEXT-FREE, dramatic, clear — one large emotional face, warm-vs-cold
+  light, burnt-sienna & gold, readable at 168px.
+- Stories are original dramatized fiction; never claimed as true history.
+
+=====================================================================
+2. STATE OF THE CHANNEL
+=====================================================================
+- Cold-start phase. Video 1 (Della) is the proof point: strong retention (13:47->
+  14:22 AVD, ~36–37% on a 38-min video, ~9% likes, 5.5–5.9% CTR). The format works;
+  VOLUME is the lever. Breakout in this niche typically arrives between uploads ~15
+  and ~30 — do NOT stop before video 20.
+- LIVE: videos 1–6 (Della, Cedar Gulch, Ring & Name, $3 Bride, Supper's Free,
+  Undertaker's Kindness).
+- CHANNEL BASELINE (Jul 12): 291 impressions / 5.5% CTR / 12:49 AVD / 82.8% from
+  YouTube recommending — every rate green; only impression VOLUME is small.
+- STILL TO FIX at channel level: clean the About description (drop inline hashtags),
+  upload scripts as captions on every video, add playlist link to all descriptions,
+  do the one-time binge-chain setup (playlist + end screens + 2 cards at ~40%/~85%).
+
+=====================================================================
+3. STORY CATALOG
+=====================================================================
+LIVE:
+#1 Della Mercer — "They Called Her Ruined…" (unnamed town). 38:39.
+#2 Nora — "They Ran the Widow Out… Poisoning Her Husband" (Cedar Gulch). 34:20.
+#3 Ruth & Josiah Kade — "Lonely Rancher… Wedding Ring" (Hollow Fork). 32:59.
+#4 Etta & Gideon Boone — "Paid $3 for the Silent Girl" (Bitter Creek). 38:53.
+#5 Marta Voss — "Supper's Free… He Owned the Railroad" (Dry Wells). VO 38:28.
+#6 Abel Thorne — "The Undertaker's Kindness… Who Paid for the Headstone" (Granite Flat). VO 41:31.
+FULLY BUILT, READY TO ASSEMBLE/UPLOAD (script+portraits+thumbnails+SEO+synced shot
+list+cold-open animation):
+#7 Hester Merritt & Ezra Vance — "The Bride They Sent Back" (Poplar Bend). VO 35:49, 159 scenes.
+#8 Winnie Holloway — "The Empty Place" (the screamer, mother/stolen son) (Sweetwater).
+   VO 37:31, 172 scenes. The breakout swing — give it the best VO + thumbnail pass.
+BACKLOG / PITCHED (not yet written): The Schoolteacher's Debt (Formula D), The
+Midwife They Called a Witch, ONE OLD PREACHER (P7), The Dog That Met Every Train
+(animal tearjerker), The Saloon Swamper's Hands, Blood Money, They Buried My
+Husband Twice. Plus 36 ready titles in humiliation-title-bank.txt.
+
+=====================================================================
+4. PRODUCTION PIPELINE (repeat for every story)
+=====================================================================
+1. Premise from the women-humiliation focus; title from humiliation-title-bank /
+   P1–P7 patterns.
+2. Full script ~6,700–7,400 words (≈ 40 min) with [SECTION] markers, (re-hook) every
+   2–3 min, mid-roll cliff, lantern CTA. Obey the INTRO-CLIFF doctrine (first 90s).
+3. NO-MISTAKES PASS: timeline/number check; canon-registry name check; period sweep;
+   intro-cliff check; filter-safety scan.
+4. Character bible + direct portrait prompts (one Flow Ingredient per character;
+   variant states = separate Ingredients).
+5. Record VO -> send exact runtime.
+6. VO-SYNCED shot list via scene_calculator.py: feed narration-only text (or the
+   .srt for frame-exact) -> each image's duration = the narration under it. Author
+   one prompt per scene, names inline, no em-dashes, text-free props, and STAMP THE
+   PERIOD ANCHOR on every line (", 1880s American Old West frontier, period-accurate…
+   no modern objects"). Audit for duplicates + filter risks.
+7. Thumbnails: 3 text-free, dramatic, face-forward concepts from Ingredients.
+8. SEO package: description, ~25 tags, 7 hashtags, pinned comment.
+9. Cold-open animation prompts (scenes 1–15): motion-only over the stills.
+10. Upload checklist: playlist slot #2, end-screen template, 2 cards (~40%/~85%),
+    description footer, captions from script, pin the comment.
+
+=====================================================================
+5. HARD RULES (do not violate)
+=====================================================================
+- CANON: never reuse a character first/surname or town from a past story (see
+  canon-registry.txt, current through story 8). Avoid near-collisions.
+- INTRO-CLIFF: person+injustice in sentence one; title promise by ~10s; stay-beat by
+  60s; first shot is the person, not a wide.
+- PERIOD ANCHOR on every image-prompt line (fixes modern-setting renders).
+- VEO AUTOMATOR: names inline; no em-dashes inside prompt bodies.
+- MINORS FILTER: never pair a child-word with a distress-word; peril on adults.
+- DEATH SCENES: peaceful-sleep framing, closed coffins.
+- TEXT-FREE applies to props too (no readable signs/engravings/ledgers).
+- Woman is the sympathetic underdog we root FOR, never the villain "taught a lesson."
+
+=====================================================================
+6. TITLE PATTERNS + THE BEND STRATEGY
+=====================================================================
+P1 "Lonely [rancher]…" · P2 $number transaction · P3 em-dash pivot · P4 quote-led ·
+P5 "…not knowing who she was" hidden identity · P6 rejected woman + defiance ·
+P7 CAPS "ONE [ROLE]".  Plus humiliation-title-bank patterns A–I bent from
+African-tales outliers (the same engine at 10–30x scale). Use the translation key
+in that file to bend any African-tales outlier into the Old West.
+
+=====================================================================
+7. GROWTH PLAN + STANDING REMINDERS
+=====================================================================
+- Ship 2–3/week without changing format; volume is the algorithm trigger. Judge
+  packaging only after ~2–3 weeks of impressions. Feed classification: captions,
+  one binge playlist, end screens + cards, clean About page. Seed honest first
+  clicks (genuine competitor comments, western-fiction communities). Never: sub4sub,
+  bought views, self-clicks that bounce, Shorts spam.
+- WHEN STORY 8 IS IN PRODUCTION / after story 10 goes live: the user will send a full
+  analytics screenshot for a deep review. Compare vs the Jul 12 baseline (291 imp /
+  5.5% CTR / 12:49 AVD / 82.8% recommended); check if videos 2–4 got their own tests;
+  score CTR by title pattern; re-audit the intro cliff on the newest retention curves
+  (did the first-90s doctrine raise the ~33% floor?).
+
+=====================================================================
+8. TOOLS + WHERE THE MASTER FILES LIVE
+=====================================================================
+- scene_calculator.py: turns a VO (SRT or script+runtime) into a timed scene sheet so
+  images/animations match the voiceover with no manual nudging. scene-calc-prompt.txt
+  is the paired prompt for writing per-scene image prompts.
+- All scripts, shot lists, portraits, SEO, and knowledge files are versioned in the
+  GitHub repo Dablendo01/Dablendo01 (branch claude/affectionate-hawking-e88wn2).
+  NOTE: the remote can't be pushed to yet (app lacks Read&write on Contents); until
+  that's granted, the ephemeral workspace resets and untracked files are lost — so
+  keep the Project's uploaded copies as the backup and re-sync after each update.
