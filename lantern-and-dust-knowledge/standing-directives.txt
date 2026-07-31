@@ -1,0 +1,29 @@
+LANTERN & DUST — STANDING DIRECTIVES (apply to every new story from now on)
+Add these to the top of the Claude Project's custom instructions. Last set: African-tales research.
+
+1. LEAD WITH WOMEN'S HUMILIATION.
+   Default every new story to this engine: a sympathetic woman is publicly
+   humiliated / mocked / cast out -> she endures with dignity -> a hidden truth
+   or a hidden protector -> a public reversal that vindicates her in front of the
+   people who shamed her. She is the underdog we root FOR — NEVER the cruel woman
+   who "gets taught a lesson."
+   Pull premises and titles from humiliation-title-bank.txt (bent from proven
+   African-tales outliers, the same engine at larger scale). Vary the humiliation
+   setting (auction, church, barn dance, market, wedding, courthouse steps, the
+   servant's table) so stories don't clone each other. Check canon-registry before
+   naming anyone or anywhere.
+
+2. THUMBNAILS: NO TEXT, MAXIMUM DRAMA + CLARITY.
+   Never put overlay text on a thumbnail. Every thumbnail must be ONE instantly
+   readable, dramatic emotional moment that makes a scrolling viewer need to click
+   and then stay:
+   - A large, well-lit human FACE at its emotional peak (shame, defiance, stunned
+     recognition, a mother's fury). The face is the click.
+   - One clear action/story beat, nothing cluttered — readable at 168px wide.
+   - Warm-vs-cold light contrast (lantern/gold against cold rain/dusk/snow),
+     burnt-sienna & gold grade, photorealistic, 16:9.
+   - The antagonist or jeering crowd may appear, but must never steal focus from
+     the woman's face.
+   - Test at thumbnail size: if you can't read the emotion in half a second, simplify.
+
+These two directives override any older guidance that conflicts.
