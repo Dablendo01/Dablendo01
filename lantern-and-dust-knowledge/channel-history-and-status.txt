@@ -14,8 +14,10 @@ When this file conflicts with an older knowledge file, THIS file wins.
   humiliation-title-bank.txt).
 - Signature closing: "stay a while by our fire… there's always one more tale out
   here in the lantern and the dust."
-- Thumbnails: TEXT-FREE, dramatic, clear — one large emotional face, warm-vs-cold
-  light, burnt-sienna & gold, readable at 168px.
+- Thumbnails: TEXT-FREE, cinematic TWO-HANDER — a woman + antagonist/protector facing
+  across a charged gap, medium-wide daylight film still, crowd watching on humiliation
+  stories (VERIFIED vs in-niche winners; single-face is a B-test only). Warm-vs-cold
+  light, burnt-sienna & gold, readable at 168px. See brand-voice.txt for full doctrine.
 - Stories are original dramatized fiction; never claimed as true history.
 
 =====================================================================
@@ -82,7 +84,8 @@ Husband Twice. Plus 36 ready titles in humiliation-title-bank.txt.
    one prompt per scene, names inline, no em-dashes, text-free props, and STAMP THE
    PERIOD ANCHOR on every line (", 1880s American Old West frontier, period-accurate…
    no modern objects"). Audit for duplicates + filter risks.
-7. Thumbnails: 3 text-free, dramatic, face-forward concepts from Ingredients.
+7. Thumbnails: 3 text-free, cinematic TWO-HANDER concepts (woman + man across a charged
+   gap, crowd watching); single-face only as a B-test. See brand-voice.txt.
 8. SEO package: description, ~25 tags, 7 hashtags, pinned comment.
 9. Cold-open animation prompts (scenes 1–15): motion-only over the stills.
 10. Upload checklist: playlist slot #2, end-screen template, 2 cards (~40%/~85%),
