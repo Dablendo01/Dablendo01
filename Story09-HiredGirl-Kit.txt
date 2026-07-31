@@ -68,7 +68,13 @@ objects, no text."
 =====================================================================
 3. TITLE OPTIONS (10 ranked; hard cap 100 chars; withhold the payoff)
 =====================================================================
-1. The Town Mocked the Hired Girl Who Ate in the Barn — Then the Judge Read the Will  [B] (bank #7) — RECOMMENDED. 84 chars.
+>>> RECOMMENDED (modeled on VERIFIED in-niche 12x champion — Callahan's Wild West
+    "Can You Cook?" He Asked the Humiliated Bride: quoted-dialogue hook + em-dash):
+0a. "The Help Eats in the Barn" She Said—Then the Judge Read the Will Aloud  [V1] 70
+0b. "Let Her Eat in the Barn With the Horses" They Laughed—Then the Will Was Read  [V1/V4] 78
+0c. "She Eats in the Barn" — The Whole Town Laughed Until the Judge Read the Will  [V1] 76
+--- original declarative options (secondary) ---
+1. The Town Mocked the Hired Girl Who Ate in the Barn — Then the Judge Read the Will  [B] (bank #7). 84 chars.
 2. They Made the Orphan Girl Eat in the Barn for Two Years — Then the Will Was Read  [B/D] 79
 3. Everyone Laughed at the Hired Girl Who Ate With the Horses — Until the Will Was Read  [B] 84
 4. They Called Her Nothing and Fed Her in the Barn — She Owned the Whole Valley  [A] 76
