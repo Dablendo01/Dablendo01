@@ -48,6 +48,16 @@ list+cold-open animation):
 #7 Hester Merritt & Ezra Vance — "The Bride They Sent Back" (Poplar Bend). VO 35:49, 159 scenes.
 #8 Winnie Holloway — "The Empty Place" (the screamer, mother/stolen son) (Sweetwater).
    VO 37:31, 172 scenes. The breakout swing — give it the best VO + thumbnail pass.
+PRE-VO KIT DONE (script+bible+portraits+3 thumbnails+SEO+titles; awaiting VO runtime
+before shot list + cold-open animation):
+#9 Clara Winslow — "The Town Mocked the Hired Girl Who Ate in the Barn — Then the Judge
+   Read the Will" (Cottonwood). Women-humiliation engine (bank #7, pattern B). ~40 min.
+   Files: Story09-HiredGirl-Script.txt + Story09-HiredGirl-Kit.txt.
+#10 Josephine Ellery — "He Sat His Cast-Off Bride at the Back to Laugh — Then the
+   Marshal Took Off His Hat to Her" (Larkspur/Northern Range). Wedding reversal (bank
+   #9, pattern C). ~40 min. Files: Story10-CastOffBride-Script.txt + -Kit.txt.
+   >>> After #10 goes live: user sends full analytics screenshot for the deep review
+       (compare vs Jul 12 baseline; re-audit intro cliff on newest curves).
 BACKLOG / PITCHED (not yet written): The Schoolteacher's Debt (Formula D), The
 Midwife They Called a Witch, ONE OLD PREACHER (P7), The Dog That Met Every Train
 (animal tearjerker), The Saloon Swamper's Hands, Blood Money, They Buried My

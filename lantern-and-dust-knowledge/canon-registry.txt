@@ -1,5 +1,5 @@
 LANTERN & DUST — CANON REGISTRY (names & places already used — DO NOT REUSE)
-Last updated: story #8 (The Empty Place). Check this BEFORE naming any
+Last updated: story #10 (Cast-Off Bride). Check this BEFORE naming any
 character or town in a new story. Add each new story's names after finalizing.
 Avoid near-collisions too (Sam/Samuel, Eli/Elias) — the video automator matches
 character names by word and confuses lookalikes.
@@ -52,21 +52,40 @@ Characters: Winifred "Winnie" Holloway (lead, the waiting mother), Jonah Hollowa
             banker), Thomas Holloway (dead husband, flashback), Effie Dell (faithful
             neighbor). Young Jonah (age 6) appears in flashback only.
 
+STORY 9 — "The Town Mocked the Hired Girl Who Ate in the Barn" (Cottonwood)
+Setting: Cottonwood valley
+Characters: Clara Winslow (lead, hired girl/heir), Cordelia Tate (rich lonely widow/
+            benefactor; frail variant Ingredient), Louisa Sennett (antagonist wife),
+            Rufus Sennett (her husband), Judge Thaddeus Harlan (reads the will),
+            Levi (young ranch hand ally, later her husband)
+
+STORY 10 — "He Sat His Cast-Off Bride at the Back to Laugh" (Larkspur + Northern Range)
+Setting: Larkspur (town) + the Northern Range
+Characters: Josephine Ellery (lead, cast-off wife/secret heiress; stunned variant),
+            Caleb Carraway (villain groom), Adelaide Vestry (second bride, redeemed),
+            August Vestry (banker, her father), Marshal Isaiah Cobb (U.S. Marshal,
+            reveal figure), Beatrice (boardinghouse widow ally). Uncle Augustus Ellery
+            (dead, unseen — shares the Ellery surname by design as her blood kin).
+
 =====================================================================
 BLOCKED FIRST NAMES (any spelling/diminutive counts as a repeat):
 Della, Royce, Silas, Nora, Elias, Cyrus, Sam, Samuel, Maddie, Ruth, Josiah,
 Harmon, Sadie, Mary, Etta, Gideon, Cole, Eli, Marta, Henry, Cornelius, Neil,
 Aldous, Tobias, Prudence, Abel, Amos, Vernon, Quincey, Cora, Lila, Daniel, Hobb,
 Hester, Ezra, Everett, Arletta, Beckett,
-Winifred, Winnie, Jonah, Malcolm, Thomas, Effie
+Winifred, Winnie, Jonah, Malcolm, Thomas, Effie,
+Clara, Cordelia, Louisa, Rufus, Thaddeus, Levi,
+Josephine, Caleb, Adelaide, August, Augustus, Isaiah, Beatrice
 
 BLOCKED SURNAMES:
 Mercer, Reed, Pell, Tilghman, Calloway, Kade, Frye, Rose, Boone, Ashby, Voss,
 Hartwell, Crane, Gale, Thorne, Caldwell, Price, Adair, Quinn, Merritt, Vance, Dunmore, Poole,
-Holloway, Radcliffe, Dell
+Holloway, Radcliffe, Dell,
+Winslow, Tate, Sennett, Harlan, Ellery, Carraway, Vestry, Cobb
 
 BLOCKED TOWN NAMES:
-Cedar Gulch, Hollow Fork, Bitter Creek, Ash Fork, Dry Wells, Granite Flat, Poplar Bend, Ballard's Crossing, Sweetwater
+Cedar Gulch, Hollow Fork, Bitter Creek, Ash Fork, Dry Wells, Granite Flat, Poplar Bend, Ballard's Crossing, Sweetwater,
+Cottonwood, Larkspur, Northern Range
 
 =====================================================================
 KNOWN LEGACY OVERLAPS (published, do not fix — just don't add to them):
@@ -75,12 +94,17 @@ KNOWN LEGACY OVERLAPS (published, do not fix — just don't add to them):
 These predate the registry. The no-reuse rule applies strictly from story 6 on.
 
 =====================================================================
-SAFE-NAME BANK FOR STORY 9+ (still unused — first names):
-Men: Nathaniel, Caleb, Owen, Wyatt, Thaddeus, Levi, August, Rufus, Isaiah, Clement
-Women: Adeline, Clara, Josephine, Verna, Louisa, Margaret, Susannah, Beatrice,
-       Adelaide, Frances, Opal, Cordelia
-Surnames: Ashford, Harlan, Winslow, Carraway, Tate, Ellery, Sennett, Cobb
-Towns: Sagebrush, Red Fork, Ambrose, Cottonwood, Larkspur, Miller's Crossing,
-       Copper Hollow, Pine Hollow, Dun Ridge
-(Move any into the BLOCKED lists once a story actually uses them. Story 8 used
-Winnie/Jonah/Malcolm/Thomas/Effie/Holloway/Radcliffe/Dell/Sweetwater, now blocked above.)
+SAFE-NAME BANK FOR STORY 11+ (still unused — first names):
+Men: Nathaniel, Owen, Wyatt, Clement (+ new: Ambrose, Silas-NO, Ephraim, Jasper,
+     Emmett, Lucas, Warren, Gideon-NO, Hollis)
+Women: Adeline, Verna, Margaret, Susannah, Frances, Opal (+ new: Winifred-NO,
+     Estelle, Ada, Hattie, Georgiana, Millicent, Rowena, Delphine)
+Surnames: Ashford, Sennett-NO, Cobb-NO (still open: new only — Larkin, Whitmore,
+     Prescott, Bramble, Hargrove, Fenn, Sutter, Calloway-NO, Ainsley, Marsh)
+Towns: Sagebrush, Red Fork, Miller's Crossing, Copper Hollow, Pine Hollow, Dun Ridge
+       (+ new: Juniper Flat, Silverton-check, Elk Bend, Coyote Wells, Millbrook)
+(Move any into the BLOCKED lists once a story actually uses them. Stories 9-10 used
+Clara/Winslow/Cordelia/Tate/Louisa/Rufus/Sennett/Thaddeus/Harlan/Levi/Cottonwood and
+Josephine/Ellery/Caleb/Carraway/Adelaide/August/Vestry/Isaiah/Cobb/Beatrice/Larkspur/
+Northern Range, now blocked above. "-NO" marks a bank suggestion that turned out to
+collide; skip those.)
