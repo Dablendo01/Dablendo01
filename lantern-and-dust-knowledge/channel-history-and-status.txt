@@ -50,12 +50,14 @@ list+cold-open animation):
    VO 37:31, 172 scenes. The breakout swing — give it the best VO + thumbnail pass.
 PRE-VO KIT DONE (script+bible+portraits+3 thumbnails+SEO+titles; awaiting VO runtime
 before shot list + cold-open animation):
-#9 Clara Winslow — "The Town Mocked the Hired Girl Who Ate in the Barn — Then the Judge
-   Read the Will" (Cottonwood). Women-humiliation engine (bank #7, pattern B). ~40 min.
-   Files: Story09-HiredGirl-Script.txt + Story09-HiredGirl-Kit.txt.
-#10 Josephine Ellery — "He Sat His Cast-Off Bride at the Back to Laugh — Then the
-   Marshal Took Off His Hat to Her" (Larkspur/Northern Range). Wedding reversal (bank
-   #9, pattern C). ~40 min. Files: Story10-CastOffBride-Script.txt + -Kit.txt.
+#9 Clara Winslow — "The Help Eats in the Barn" She Said — Then the Judge Read the Will
+   Aloud (Cottonwood). Women-humiliation, quoted-dialogue title (verified format). VO 22:57,
+   94 scenes. Files: Story09-HiredGirl-Script/-Kit/-ShotList/-Prompts-Only/-Animation-1-15/
+   -Thumbnail-Prompts. NOTE: VO ran short of the 38-42 min house length.
+#10 Josephine Ellery — "Sit Her at the Back" He Told Them — Then the Marshal Crossed the
+   Church and Bowed (Larkspur/Northern Range). Wedding-to-shame reversal, quoted-dialogue
+   title (verified). VO 23:01, 96 scenes. Files: Story10-CastOffBride-Script/-Kit/-ShotList/
+   -Prompts-Only/-Animation-1-15/-Thumbnail-Prompts. NOTE: VO ran short of house length.
    >>> After #10 goes live: user sends full analytics screenshot for the deep review
        (compare vs Jul 12 baseline; re-audit intro cliff on newest curves).
 BACKLOG / PITCHED (not yet written): The Schoolteacher's Debt (Formula D), The

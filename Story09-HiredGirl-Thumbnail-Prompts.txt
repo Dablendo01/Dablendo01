@@ -1,0 +1,59 @@
+LANTERN & DUST — STORY 9 — REFRESHED TITLE + THUMBNAIL PROMPTS
+Engine: women-humiliation -> hidden truth -> public vindication (hired girl / the will).
+Titles use the VERIFIED quoted-dialogue format (Callahan's 12x champion pattern).
+Thumbnails use the VERIFIED text-free TWO-HANDER: woman + antagonist/protector facing
+across a charged gap, medium-wide daylight film still, crowd watching, NO text.
+
+=====================================================================
+REFRESHED TITLE (quoted-dialogue hook, em-dash pivot, withheld payoff, <=100 chars)
+=====================================================================
+LEAD:  "The Help Eats in the Barn" She Said — Then the Judge Read the Will Aloud   (70)
+ALT A: "Let Her Eat in the Barn With the Horses" They Laughed — Then the Will Was Read   (79)
+ALT B: "She Doesn't Eat in Here" — Two Years Later the Judge Read the Hired Girl the Will   (85)
+ALT C (warm-question variant, softest): "Have You Eaten, Child?" the Old Widow Asked — Then She Signed the Will   (69)
+
+Recommendation: LEAD for the humiliation punch; A/B test ALT C, since warm-question
+quotes ("Can You Cook?", "Have You Eaten?") are the single strongest hook in the niche.
+
+=====================================================================
+THUMBNAIL PROMPT 1 — THE BARN HUMILIATION (primary; stages the wrong, crowd watching)
+=====================================================================
+Photorealistic cinematic 16:9 film still, 1880s American Old West. LEFT third: Clara, a
+19-year-old hired girl in a plain gray wool dress and white apron, standing just outside
+a dark barn holding a dented tin supper plate, brown hair pinned back, face composed and
+quietly wounded but dignified, cool blue dusk light and a low warm lantern glow on her.
+RIGHT third: Louisa Sennett, a handsome cold woman about 40 in a fine dark high-collared
+dress, standing in the warm golden doorway of a bright house, chin lifted, a small cruel
+smile, one hand on the door. A charged empty gap of frozen snowy yard between the two
+women. BACKGROUND between them, softly blurred: the Sennett family and party guests at a
+warm lit supper table turned to watch. Warm-vs-cold light contrast, burnt-sienna and gold
+grade, high detail on both faces, single clear story beat, readable at 168px. NO text, no
+watermark, no modern objects, period-accurate frontier clothing and props.
+
+=====================================================================
+THUMBNAIL PROMPT 2 — THE READING (the reversal; woman + judge + stunned crowd)
+=====================================================================
+Photorealistic cinematic 16:9 film still, 1880s American Old West courthouse. LEFT: Clara,
+a 19-year-old woman in a plain gray dress, standing stunned with one hand near her mouth,
+lit warm gold from a tall window, dignified and overwhelmed. RIGHT: Judge Thaddeus Harlan,
+a stern white-whiskered old man in a dark judicial coat and small spectacles, holding an
+open folded document (blank, unreadable), looking toward her across a charged gap. BETWEEN
+and BEHIND them, blurred cool-blue, a packed courtroom of townsfolk turned to stare, with
+Louisa Sennett in mourning black among them going pale. Warm-vs-cold contrast, burnt-sienna
+and gold grade, faces sharp, one clear beat, readable at 168px. NO text, no watermark, no
+modern objects, period-accurate frontier clothing and props.
+
+=====================================================================
+THUMBNAIL PROMPT 3 — WOMAN-VS-WOMAN STANDOFF (B-test; tightest emotional contrast)
+=====================================================================
+Photorealistic cinematic 16:9 film still, 1880s American Old West farmyard. LEFT: Clara,
+19, plain gray dress and apron, tin plate in her hands, calm and level, chin steady, lit
+cool with a warm lantern edge, the dark barn behind her. RIGHT: Louisa Sennett, ~40, fine
+dark dress, cold sneer, arms folded, the bright warm house behind her. A charged snowy gap
+between them, a few servants and townsfolk watching blurred in the mid-ground. The plain
+girl reads as the stronger, more sympathetic face. Warm-vs-cold light, burnt-sienna/gold
+grade, high facial detail, readable at 168px. NO text, no watermark, no modern objects,
+period-accurate frontier clothing and props.
+
+NOTE: keep the color grade identical across all three so the channel reads consistent in
+the feed. Render the woman's face brightest and sharpest; the crowd stays a soft blur.
