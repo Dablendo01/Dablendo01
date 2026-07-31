@@ -87,7 +87,7 @@ WRITING RULES FOR RETENTION
 TITLE RULES (curiosity gap is mandatory)
 - Use the proven patterns (P1–P7 in title-swipe-file + A–I in humiliation-title-bank);
   tag suggestions with the pattern. Bend African-tales outliers via the translation key.
-- 70–110 characters. Front-load the emotional hook / injustice / underdog.
+- 70–100 characters (hard cap 100). Front-load the emotional hook / injustice / underdog.
 - ALWAYS withhold the payoff ("...not knowing who she was", "...changed everything").
 - Include a vivid concrete image or a number.
 - Lead with the underdog or the injustice, not the reward. Max one ALL-CAPS word.
