@@ -1,76 +1,61 @@
-LANTERN & DUST — THE EMPTY PLACE — DETAILED THUMBNAIL PROMPTS
-Text-free cinematic doctrine. This is the screamer — the thumbnail matters more than
-usual. Generate at 16:9, pull 4-5 takes, keep the one that aches at 168px wide.
-Reuse Flow Ingredients so faces match the video.
-
-
-=====================================================================
-PRIMARY — "THE EMPTY PLACE" (recommended — the whole story in one frame)
-The single most shareable image: twenty years of a mother's waiting, wordless.
-Ingredients to load: Winnie
-=====================================================================
-
-Cinematic photorealistic film still, 16:9 YouTube thumbnail, no text.
-A poor lamplit 1880s frontier kitchen at dusk. LEFT: Winnie, a careworn gray-haired
-old woman in a threadbare shawl, sits alone at a small plank table, thin hands folded,
-gazing across the table with quiet aching hope. RIGHT, the focus of her gaze: a second
-place fully and carefully set — a plate squared to the table edge, a cup turned upright,
-and pulled up to it a small handmade child's chair with a running horse carved into the
-back — and the small chair is empty. A single oil lamp between them.
-Lighting: one warm low golden oil-lamp glow pooling on the empty set place and the small
-chair, the mother's hopeful face lit soft, deep shadow around, burnt-sienna and gold
-grade, shallow depth of field, the empty chair and the mother's face the two focal
-points, 50mm, rule-of-thirds. Aching, tender, cinematic.
-Negative: no text, no letters, no captions, no watermark, no modern objects, no cartoon.
-
+LANTERN & DUST — STORY 8 "THE EMPTY PLACE" — REFRESHED TITLE + THUMBNAILS
+THE SCREAMER — the breakout swing; the thumbnail matters more than usual.
+Refreshed to the VERIFIED format: quoted-dialogue title + text-free thumbnails. This story
+is unusual: its single most shareable image is the empty set place (single-subject), so we
+lead with a TWO-HANDER reunion primary AND keep the empty-chair as a strong co-primary.
+Generate 4-5 takes each; keep the one that aches at 168px. Reuse Ingredients for face match.
 
 =====================================================================
-ALT A — "THE KNOCK" (the instant before "Mama")
-The reunion beat; maximum emotional payoff in a face. Strong scroll-stopper.
-Ingredients to load: Winnie + Jonah
+REFRESHED TITLE (quoted-dialogue hook, em-dash pivot, withheld payoff, <=100 chars)
 =====================================================================
+LEAD:  "My Boy Is Coming Home" She Said for Twenty Years — The Town Called Her Mad, Then He Rode In   (93)
+ALT A: "Set a Place for My Son" the Old Woman Said — For Twenty Years the Chair Sat Empty   (82)
+ALT B (mockery line): "Old Mad Winnie" They Laughed — She'd Set Her Stolen Son's Place for Twenty Years   (82)
+ALT C (vulnerable plea): "Please, He'll Come" She Whispered — Twenty Years She Set a Place for a Stolen Boy   (88)
 
-Cinematic photorealistic film still, 16:9 YouTube thumbnail, no text.
-A poor frontier doorway at dusk. Winnie, a small careworn old woman in a shawl, stands
-in her lamplit open doorway looking up, her worn hand just rising toward the face of the
-man on the step. On the step: Jonah, a tall grown man in a plain dark coat, hat held in
-both hands, his strong lined face crumpling on the edge of tears as he looks down at her.
-Cold blue dusk behind him, warm gold lamplight from inside spilling out onto his face.
-The instant of recognition, before either can speak.
-Lighting: hard cold blue dusk behind the man vs warm golden interior lamplight washing
-his face and her upturned one, burnt-sienna and gold grade, shallow depth of field, both
-faces large and clearly lit, 50mm, cinematic and overwhelming.
-Negative: no text, no letters, no watermark, no modern objects, no cartoon.
-
+Recommendation: LEAD (faithful-hope quote + the reveal tease). ALT C leans on the proven
+"She Whispered" vulnerable-plea phrasing (Old West History's 272K champion). A/B those two.
 
 =====================================================================
-ALT B — "THE SCAR" (a body known by touch)
-Extreme intimacy; the recognition. Quietest and most tender option.
-Ingredients to load: Winnie + Jonah
+THUMBNAIL 1 — THE RETURN (primary two-hander; the reunion in one frame)
+Ingredients: Winnie + Jonah
 =====================================================================
-
-Cinematic photorealistic film still, 16:9 YouTube thumbnail, no text.
-Extreme close two-shot by firelight. A mother's weathered thumb rests against a small
-old pale scar at the left corner of a grown man's jaw; her lined face is streaming with
-tears and utterly certain; his eyes are closed, his composure gone. Warm firelight close
-on the two faces, everything else dark.
-Lighting: warm gold firelight, faces very close and tender, deep shadow around,
-burnt-sienna and gold grade, shallow depth of field on the touching hand and the scar,
-85mm, intimate and devastating.
-Negative: no text, no letters, no watermark, no modern objects, no cartoon.
-
+Photorealistic cinematic 16:9 film still, 1880s American Old West poor kitchen at dusk.
+LEFT: Winnie, a careworn gray-haired old woman in a threadbare shawl, rising from a small
+plank table with a trembling hand to her mouth, face breaking with stunned disbelieving
+hope, warm oil-lamp light on her. RIGHT: Jonah, a tall grave man about 26 in a fine dark
+circuit-judge's coat, standing in the doorway, hat in hand, looking at her, cool daylight
+behind him. BETWEEN them on the table: a second place fully set with a small handmade
+child's chair carved with a running horse, empty. The stolen boy grown, come home to the
+empty place. Warm-vs-cold contrast (warm lamp vs cold doorway), burnt-sienna/gold grade,
+both faces sharp, one clear beat, readable at 168px. NO text, no watermark, no modern
+objects, period-accurate frontier clothing and props.
 
 =====================================================================
-USAGE NOTES
+THUMBNAIL 2 — THE EMPTY PLACE (co-primary; the single most shareable image)
+Ingredients: Winnie
 =====================================================================
-- RUN PRIMARY FIRST and give it the most tries. "The Empty Place" is the whole video in
-  one glance — an old woman, a set table, an empty child's chair — and it makes the
-  viewer *need* to know who the chair is for. That is the click. It is also intensely
-  shareable, which is what a screamer needs.
-- The small child's chair with the carved running horse must read clearly even small —
-  it is the story's heart. If the frame gets busy, simplify to Winnie + the set place +
-  the empty chair + the lamp; nothing else is needed.
-- Faces judged at 168px — one emotional moment, faces large, light doing the work.
-- All three obey the text-free standard; the long title carries the words.
-- Never accept a take where Winnie or Jonah drifts from their Ingredient; Jonah's jaw
-  scar (ALT B) must match his portrait for the recognition to land.
+Photorealistic cinematic 16:9 film still, 1880s American Old West poor lamplit kitchen at
+dusk. LEFT: Winnie, careworn gray-haired old woman in a threadbare shawl, sits alone at a
+small plank table, thin hands folded, gazing across with quiet aching hope. RIGHT, the
+focus of her gaze: a second place fully and carefully set, a plate squared to the table
+edge, a cup turned upright, and pulled up to it a small handmade child's chair with a
+running horse carved into the back, and the small chair is empty. A single oil lamp
+between them. One warm low golden glow pooling on the empty set place, cold blue dusk at
+the window. Burnt-sienna/gold grade, her face sharp and aching, readable at 168px. NO
+text, no watermark, no modern objects, period-accurate frontier clothing and props.
+
+=====================================================================
+THUMBNAIL 3 — MAD WINNIE AND THE TOWN (humiliation two-hander B-test)
+Ingredients: Winnie + Radcliffe
+=====================================================================
+Photorealistic cinematic 16:9 film still, 1880s American Old West town street, flat daylight.
+LEFT: Winnie, a careworn old woman clutching her shawl, dignified and quietly enduring, warm
+rim light. RIGHT: Malcolm Radcliffe, a big soft prosperous banker in fine black broadcloth
+with cold pious eyes, looking down at her with false benevolence. A charged gap between them;
+blurred townsfolk on the boardwalk half-mocking, half-looking-away. Warm-vs-cold contrast,
+burnt-sienna/gold grade, her face brightest and sharpest, readable at 168px. NO text, no
+watermark, no modern objects, period-accurate frontier clothing and props.
+
+NOTE: TEST THUMBNAIL 1 (reunion) vs THUMBNAIL 2 (empty place) as the headline pair — this
+is the breakout swing, so run both. Keep the grade identical across all three.
