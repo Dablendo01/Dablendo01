@@ -79,6 +79,17 @@ Characters: Adeline Whitmore (widow on trial, lead), Clement Sutter (dead attack
             Ambrose Sutter (antagonist, his rich father), Dr. Nathaniel Ashford (protector,
             the doctor), Opal Marsh (neighbor ally). Circuit judge (unnamed, outside authority).
 
+STORY 13 — "She'll Wed the Blind Man …" (Juniper Flat)
+Setting: Juniper Flat
+Characters: Susannah Truett (plain mocked lead), Ephraim Vickery (blind rancher, secretly rich),
+            Rowena Amory (mocking belle), Warren Vickery (greedy nephew), Emmett (foreman, minor).
+
+STORY 14 — "Lift Your Veil or Leave …" (Winter Ridge)
+Setting: Winter Ridge
+Characters: Estelle Ransome (veiled widow lead / secret benefactor; +veiled variant),
+            Millicent Prewitt (mocking church matron), Ada Renfro (poor young mother saved),
+            Hollis (banker who keeps her secret).
+
 =====================================================================
 BLOCKED FIRST NAMES (any spelling/diminutive counts as a repeat):
 Della, Royce, Silas, Nora, Elias, Cyrus, Sam, Samuel, Maddie, Ruth, Josiah,
@@ -88,18 +99,20 @@ Hester, Ezra, Everett, Arletta, Beckett,
 Winifred, Winnie, Jonah, Malcolm, Thomas, Effie,
 Clara, Cordelia, Louisa, Rufus, Thaddeus, Levi,
 Josephine, Caleb, Adelaide, August, Augustus, Isaiah, Beatrice,
-Verna, Hattie, Jasper, Owen, Fenn, Adeline, Clement, Ambrose, Nathaniel, Opal
+Verna, Hattie, Jasper, Owen, Fenn, Adeline, Clement, Ambrose, Nathaniel, Opal,
+Susannah, Ephraim, Rowena, Emmett, Warren, Estelle, Millicent, Ada, Hollis
 
 BLOCKED SURNAMES:
 Mercer, Reed, Pell, Tilghman, Calloway, Kade, Frye, Rose, Boone, Ashby, Voss,
 Hartwell, Crane, Gale, Thorne, Caldwell, Price, Adair, Quinn, Merritt, Vance, Dunmore, Poole,
 Holloway, Radcliffe, Dell,
 Winslow, Tate, Sennett, Harlan, Ellery, Carraway, Vestry, Cobb,
-Larkin, Bramble, Hargrove, Prescott, Whitmore, Sutter, Ashford, Marsh
+Larkin, Bramble, Hargrove, Prescott, Whitmore, Sutter, Ashford, Marsh,
+Truett, Vickery, Amory, Ransome, Prewitt, Renfro
 
 BLOCKED TOWN NAMES:
 Cedar Gulch, Hollow Fork, Bitter Creek, Ash Fork, Dry Wells, Granite Flat, Poplar Bend, Ballard's Crossing, Sweetwater,
-Cottonwood, Larkspur, Northern Range, Elk Bend, Copper Hollow
+Cottonwood, Larkspur, Northern Range, Elk Bend, Copper Hollow, Juniper Flat, Winter Ridge
 
 =====================================================================
 KNOWN LEGACY OVERLAPS (published, do not fix — just don't add to them):
