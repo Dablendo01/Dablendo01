@@ -18,7 +18,9 @@ recoverable watch time lives in the first 90 seconds. Every script must pass:
     lead/person, not an establishing wide; cold-open shots animated, never static.
 
 =====================================================================
-1. SCRIPT STRUCTURE (default 6,700–7,400 words ≈ 38–42 min at ~174 wpm)
+1. SCRIPT STRUCTURE (LOCKED TARGET 33–40 min => ~5,900–6,500 words; narrator ~155–177 wpm)
+   [ ] LENGTH CHECK: script is ~5,900–6,500 words. Recent 9–14 came in SHORT (17–24 min) —
+       do not repeat. If a draft is under ~5,700 words, it will run short: deepen it before delivery.
 =====================================================================
 [ ] COLD OPEN (0:00–0:25): start mid-crisis or mid-injustice. No "in the year 18__,"
     no scene-setting throat-clearing. The first sentence must create a question.
