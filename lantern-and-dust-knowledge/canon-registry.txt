@@ -67,6 +67,18 @@ Characters: Josephine Ellery (lead, cast-off wife/secret heiress; stunned varian
             reveal figure), Beatrice (boardinghouse widow ally). Uncle Augustus Ellery
             (dead, unseen — shares the Ellery surname by design as her blood kin).
 
+STORY 11 — "She Can't Even Talk … Named the Killer in Ink" (Elk Bend)
+Setting: Elk Bend
+Characters: Verna Larkin (mute lead, laundry girl/witness), Hattie Bramble (murdered kind
+            widow), Jasper Hargrove (killer, trusted deacon), Owen Prescott (schoolteacher
+            protector), Sheriff Fenn (minor). Circuit judge (unnamed).
+
+STORY 12 — "Build the Gallows Now … Before the Jury Ever Spoke" (Copper Hollow)
+Setting: Copper Hollow
+Characters: Adeline Whitmore (widow on trial, lead), Clement Sutter (dead attacker),
+            Ambrose Sutter (antagonist, his rich father), Dr. Nathaniel Ashford (protector,
+            the doctor), Opal Marsh (neighbor ally). Circuit judge (unnamed, outside authority).
+
 =====================================================================
 BLOCKED FIRST NAMES (any spelling/diminutive counts as a repeat):
 Della, Royce, Silas, Nora, Elias, Cyrus, Sam, Samuel, Maddie, Ruth, Josiah,
@@ -75,17 +87,19 @@ Aldous, Tobias, Prudence, Abel, Amos, Vernon, Quincey, Cora, Lila, Daniel, Hobb,
 Hester, Ezra, Everett, Arletta, Beckett,
 Winifred, Winnie, Jonah, Malcolm, Thomas, Effie,
 Clara, Cordelia, Louisa, Rufus, Thaddeus, Levi,
-Josephine, Caleb, Adelaide, August, Augustus, Isaiah, Beatrice
+Josephine, Caleb, Adelaide, August, Augustus, Isaiah, Beatrice,
+Verna, Hattie, Jasper, Owen, Fenn, Adeline, Clement, Ambrose, Nathaniel, Opal
 
 BLOCKED SURNAMES:
 Mercer, Reed, Pell, Tilghman, Calloway, Kade, Frye, Rose, Boone, Ashby, Voss,
 Hartwell, Crane, Gale, Thorne, Caldwell, Price, Adair, Quinn, Merritt, Vance, Dunmore, Poole,
 Holloway, Radcliffe, Dell,
-Winslow, Tate, Sennett, Harlan, Ellery, Carraway, Vestry, Cobb
+Winslow, Tate, Sennett, Harlan, Ellery, Carraway, Vestry, Cobb,
+Larkin, Bramble, Hargrove, Prescott, Whitmore, Sutter, Ashford, Marsh
 
 BLOCKED TOWN NAMES:
 Cedar Gulch, Hollow Fork, Bitter Creek, Ash Fork, Dry Wells, Granite Flat, Poplar Bend, Ballard's Crossing, Sweetwater,
-Cottonwood, Larkspur, Northern Range
+Cottonwood, Larkspur, Northern Range, Elk Bend, Copper Hollow
 
 =====================================================================
 KNOWN LEGACY OVERLAPS (published, do not fix — just don't add to them):
