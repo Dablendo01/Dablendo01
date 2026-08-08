@@ -90,6 +90,11 @@ PRE-VO KIT DONE — SUSPENSE BATCH (script+bible+portraits+titles+SEO+thumbnails
 NOTE: scripts 9-14 ran 17-24 min (SHORT). 15-16 corrected to 33-40 min. User DIRECTIVE (locked): keep ALL FUTURE scripts
 at 33-40 min (~5,900-6,500 words). 9-14 already recorded, ship as-is; from #15 on, hit the
 target length. Shorter videos cap watch time; this is the fix.
+>>> SCRIPTING PAUSE (user directive): do NOT draft new stories (#17+) until roughly HALF the
+    current drafts (7-16) are LIVE. Resume scripting only when the user says so. When resuming,
+    first do the analytics deep-dive (below) and let live data reshape the next premises/titles.
+    Until then, work = help ship 7-16 (renders, thumbnails, descriptions, scheduling, analytics).
+
 BACKLOG / PITCHED (not yet written): The Schoolteacher's Debt (Formula D), The
 Midwife They Called a Witch, ONE OLD PREACHER (P7), The Dog That Met Every Train
 (animal tearjerker), The Saloon Swamper's Hands, Blood Money, They Buried My
