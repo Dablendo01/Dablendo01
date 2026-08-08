@@ -1,0 +1,84 @@
+LANTERN & DUST — 4-WEEK PUBLISH CALENDAR
+Built 2026-08-08 (Sat). Cadence: 2 uploads/week, TUESDAY + FRIDAY, 6:00 PM ET.
+Why this cadence: volume is the algorithm lever at cold start; consistent fixed
+days/times train the browse feed and returning viewers. Never batch-dump. Each video
+is an independent test, so more at-bats = faster learning. Hold this for 3+ months.
+
+Publish time note: 6:00 PM ET catches the US 45+ audience in the evening wind-down.
+Use Studio -> Schedule (set the exact date/time) so it goes out consistently even if
+you are away. Do NOT publish manually "whenever."
+
+=====================================================================
+THE SCHEDULE
+=====================================================================
+WEEK 1  (ship the two strongest first — best chance one catches and lifts the channel)
+  Tue Aug 11, 6:00 PM ET  ->  #8  THE EMPTY PLACE  (breakout swing / the screamer)
+        Title: "My Boy Is Coming Home" She Said for Twenty Years — The Town Called Her Mad, Then He Rode In
+        Thumbnail: A/B the REUNION two-hander vs the EMPTY-CHAIR image (run both).
+  Fri Aug 14, 6:00 PM ET  ->  #7  THE BRIDE THEY SENT BACK
+        Title: "Please, Just Look at Me" She Said — They Sent the Bride Back Over a Scar and a Photograph
+        Thumbnail: THE REJECTION two-hander (Hester vs Dunmore, crowd watching).
+
+WEEK 2
+  Tue Aug 18, 6:00 PM ET  ->  #9  THE HIRED GIRL
+        Title: "The Help Eats in the Barn" She Said — Then the Judge Read the Will Aloud
+        Thumbnail: THE BARN HUMILIATION two-hander (Clara vs Louisa, family watching).
+  Fri Aug 21, 6:00 PM ET  ->  #10 THE CAST-OFF BRIDE
+        Title: "Sit Her at the Back" He Told Them — Then the Marshal Crossed the Church and Bowed
+        Thumbnail: THE HAT two-hander (Josephine + Marshal Cobb, congregation watching).
+
+WEEK 3  (needs NEW production — build during Weeks 1-2, see deadlines below)
+  Tue Aug 25, 6:00 PM ET  ->  #11  (title from humiliation-title-bank; canon-check names)
+  Fri Aug 28, 6:00 PM ET  ->  #12  (title from humiliation-title-bank)
+
+WEEK 4
+  Tue Sep 01, 6:00 PM ET  ->  #13  (to be written)
+  Fri Sep 04, 6:00 PM ET  ->  #14  (to be written)
+
+=====================================================================
+ORDER RATIONALE
+=====================================================================
+- #8 first: strongest emotional hook + the verified breakout swing. At cold start there
+  is no "momentum" to save it for — publish your best to maximize a catch that lifts all.
+- #7 second: its title mirrors the 272K / 38.7x niche champion phrasing ("Please...").
+- #9, #10 in week 2: solid, and they vary the setting (barn/courthouse, wedding/marshal)
+  so the catalog does not feel repetitive.
+- Spread, do not dump: if #8 catches, new viewers browse the channel — you want fresh
+  uploads still coming, not an empty shelf.
+
+=====================================================================
+PRODUCTION DEADLINES (so Weeks 3-4 stay fed — the ready queue empties after #10)
+=====================================================================
+To hold 2/week past Aug 21, stories #11-#14 must be produced during Weeks 1-2. Per story:
+  1. Pick title/premise from humiliation-title-bank.txt (canon-check names first).
+  2. Claude writes the ~7,000-word script (aim for the 38-42 min house length this time).
+  3. You record the VO -> send exact runtime.
+  4. Claude runs scene_calculator -> shot list + cold-open animation + thumbnails + SEO.
+  5. You render stills + thumbnail -> schedule.
+Target: have #11 fully rendered by Aug 24, #12 by Aug 27, #13 by Aug 31, #14 by Sep 03.
+If production slips, DROP TO 1/week (Fridays only) rather than break the rhythm with a gap.
+Consistency beats frequency: a reliable 1/week is better than 2/week with holes.
+
+=====================================================================
+PER-UPLOAD CHECKLIST (do every time)
+=====================================================================
+[ ] Title = the verified quoted-dialogue line above (<=100 chars).
+[ ] Thumbnail = text-free two-hander, warm-vs-cold, readable at 168px (A/B when noted).
+[ ] Description: emotional hook in line 1 (NOT "analysis/breakdown"); story paragraph;
+    lantern CTA; subscribe + playlist link; disclaimer; 7 hashtags. (Chapters optional —
+    holding until ~20 videos to protect AVD.)
+[ ] Add to the ONE binge playlist; set it as the next in the series.
+[ ] End screen (last 20s) + 2 cards (~40% and ~85%) pointing to the previous story.
+[ ] Upload the script as captions (.srt or plain text) — helps classification.
+[ ] Pin the comment (the question prompt from the SEO file).
+[ ] Tags: 10-15 relevant, relevance over vidIQ score.
+[ ] Schedule for the Tue/Fri 6:00 PM ET slot — do not publish ad hoc.
+
+=====================================================================
+AFTER #10 GOES LIVE (Aug 21+)
+=====================================================================
+Send Claude a full analytics screenshot for the deep review: compare vs the Jul 12
+baseline (291 imp / 5.5% CTR / 12:49 AVD / 82.8% recommended); score CTR by title
+pattern; re-audit the intro cliff on the newest retention curves; check whether the
+verified titles/thumbnails moved CTR. Do NOT judge packaging before ~2-3 weeks of
+impressions accumulate. Do not stop before video 20.
