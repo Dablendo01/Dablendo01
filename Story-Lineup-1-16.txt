@@ -23,9 +23,6 @@ LIVE (published on the channel)
 =====================================================================
 READY TO UPLOAD (script + VO + shot list + cold-open animation + title + thumbnails + SEO)
 =====================================================================
-#7  Hester Merritt & Ezra Vance — "Please, Just Look at Me" She Said — They Sent the Bride
-    Back Over a Scar and a Photograph  · Poplar Bend · VO 35:49 · 159 scenes
-    Engine: rejected/scarred mail-order bride → the scarred blacksmith + his secret.
 #8  Winnie Holloway — "My Boy Is Coming Home" She Said for Twenty Years — The Town Called
     Her Mad, Then He Rode In  · Sweetwater · VO 37:31 · 172 scenes   ** THE BREAKOUT SWING **
     Engine: mother/stolen-son reunion (the "screamer"). Give it the best thumbnail pass.
@@ -58,8 +55,8 @@ RECOMMENDED PUBLISH ORDER (per the 3/week calendar — strongest first)
 =====================================================================
 Lead with the two strongest to maximize a catch, then vary settings so the feed
 doesn't feel same-y. Suggested sequence for the ready queue:
-  #8  (breakout swing)  ->  #7 (272K-pattern title)  ->  #9  ->  #10
-  ->  #11  ->  #12  ->  #15  ->  #16  ->  #13  ->  #14
+  #8 (breakout swing) -> #9 -> #10 -> #11 -> #12 -> #15 -> #16 -> #13 -> #14
+  (#7 now LIVE.)
 (9-14 run short at ~17-24 min; 15-16 are full 33-40 min. Mix so length varies.)
 
 =====================================================================
@@ -70,6 +67,6 @@ Humiliation/vindication is the standing engine; the VARIANT differs each time:
   hidden-wealth spouse (13) · secret benefactor (14) · public shaming (15) ·
   mother/child (8) · kindness→reveal (5, 6). Alternate variants when scheduling.
 
-STATUS SUMMARY: 6 LIVE, 10 READY (7-16 fully packed). No script/shot-list work pending.
+STATUS SUMMARY: 7 LIVE, 9 READY (8-16 fully packed). No script/shot-list work pending.
 Next lever = renders + scheduling. Trigger to resume scripting: ~half of 7-12 live +
 a full analytics screenshot for the deep-dive.

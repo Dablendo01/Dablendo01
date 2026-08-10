@@ -27,8 +27,9 @@ When this file conflicts with an older knowledge file, THIS file wins.
   14:22 AVD, ~36–37% on a 38-min video, ~9% likes, 5.5–5.9% CTR). The format works;
   VOLUME is the lever. Breakout in this niche typically arrives between uploads ~15
   and ~30 — do NOT stop before video 20.
-- LIVE: videos 1–6 (Della, Cedar Gulch, Ring & Name, $3 Bride, Supper's Free,
-  Undertaker's Kindness).
+- LIVE: videos 1–7 (Della, Cedar Gulch, Ring & Name, $3 Bride, Supper's Free,
+  Undertaker's Kindness, Bride They Sent Back). #7 is the FIRST of the new verified-format
+  batch (quoted-dialogue title + two-hander thumbnail) to go live — watch its CTR/AVD vs 1-6.
 - CHANNEL BASELINE (Jul 12): 291 impressions / 5.5% CTR / 12:49 AVD / 82.8% from
   YouTube recommending — every rate green; only impression VOLUME is small.
 - STILL TO FIX at channel level: clean the About description (drop inline hashtags),
