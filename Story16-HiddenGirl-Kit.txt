@@ -22,26 +22,23 @@ LAVINIA BRACKEN — the favored daughter. 16. Pretty, accomplished, empty; raise
 (County-seat lawyer appears late, unnamed, as the honest outside authority.)
 
 =====================================================================
-2. PORTRAIT PROMPTS (period-anchored)
+2. PORTRAIT PROMPTS — GOOGLE FLOW INGREDIENTS (clean character references)
 =====================================================================
-NELL: "Nell, a plain smudged frontier girl of about 17 in a too-small cast-off dress, a
-pitchfork in hand in a lantern-lit barn, a quick luminous spirited face under the dust, warm
-low light, photorealistic cinematic portrait, 1880s American Old West frontier, period-accurate
-clothing, no modern objects, no text."
-ISAAC: "Isaac Weld, a clean handsome young frontier rancher of about 22, good work clothes, a
-quiet watchful easy face, leaning in a barn doorway, warm light, photorealistic cinematic
-portrait, 1880s American Old West frontier, period-accurate clothing, no modern objects, no text."
-AUGUSTA: "Augusta Bracken, a handsome cold controlling frontier matron of about 45, fine dark
-dress and bonnet, a respectable superior face hiding fear, parlor light, photorealistic
-cinematic portrait, 1880s American Old West frontier, period-accurate clothing, no modern
-objects, no text."
-HORACE: "Horace Bracken, a prosperous blustering frontier man of about 48, fine coat and watch
-chain, a cowardly self-satisfied face, dim study light, photorealistic cinematic portrait,
-1880s American Old West frontier, period-accurate clothing, no modern objects, no text."
-LAVINIA: "Lavinia Bracken, a pretty accomplished empty frontier girl of about 16 in a fine
-ribboned dress, a practiced pleasant face with nothing behind it, bright parlor light,
-photorealistic cinematic portrait, 1880s American Old West frontier, period-accurate clothing,
-no modern objects, no text."
+HOW TO USE IN FLOW: one prompt per Ingredient. These are neutral front-facing portraits on a
+plain backdrop (not scenes) so Flow locks the FACE + COSTUME and transfers it into every
+shot-list scene. Generate 2-3 takes each, keep the sharpest most front-facing face; keep the
+trailing style line identical across the cast so they match. (Variants: generate the base
+first, then reference it for the variant so the face matches.)
+
+NELL: "Nell, a plain smudged frontier girl of about 17, a quick luminous spirited face under a little dust, a too-small cast-off dress, hair tied simply, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
+
+ISAAC: "Isaac Weld, a clean handsome young frontier rancher of about 22, a quiet watchful easy face, good plain work clothes, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
+
+AUGUSTA: "Augusta Bracken, a handsome cold controlling frontier matron of about 45, a respectable superior face hiding fear, a fine dark dress and bonnet, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
+
+HORACE: "Horace Bracken, a prosperous blustering frontier man of about 48, a cowardly self-satisfied face, a fine coat and watch chain, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
+
+LAVINIA: "Lavinia Bracken, a pretty accomplished empty frontier girl of about 16, a practiced pleasant face with nothing behind it, a fine ribboned dress, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
 
 =====================================================================
 3. TITLE OPTIONS (10 ranked; verified quoted-dialogue format; <=100 chars)

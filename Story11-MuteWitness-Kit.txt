@@ -22,24 +22,23 @@ SHERIFF FENN — minor. ~50. Tired, slow, not evil; believes the man who can tal
 (Circuit judge appears late, unnamed, as the outside authority.)
 
 =====================================================================
-2. PORTRAIT PROMPTS (period-anchored; photoreal cinematic, warm-vs-cold)
+2. PORTRAIT PROMPTS — GOOGLE FLOW INGREDIENTS (clean character references)
 =====================================================================
-VERNA: "Verna, a 19-year-old frontier laundry girl, plain gray work dress, thin, quick dark
-watchful eyes, rough red hands, brown hair pinned simply, an intelligent silent face, soft
-lamplight, photorealistic cinematic portrait, 1880s American Old West frontier, period-accurate
-clothing, no modern objects, no text."
-HATTIE: "Hattie, a sharp kind frontier widow of about 70, gray hair in a bun, plain dark dress
-and apron, weathered warm face with shrewd eyes, tidy lamplit kitchen, photorealistic cinematic
-portrait, 1880s American Old West frontier, period-accurate clothing, no modern objects, no text."
-JASPER: "Jasper Hargrove, a handsome charming frontier man of about 40, neat dark coat and vest,
-easy warm smile that does not reach cold pale eyes, respectable deacon look, photorealistic
-cinematic portrait, 1880s American Old West frontier, period-accurate clothing, no modern objects, no text."
-OWEN: "Owen Prescott, a bookish Eastern schoolteacher of about 28, slight build, round spectacles,
-ink-stained fingers, mild intelligent face, waistcoat, warm lamplight, photorealistic cinematic
-portrait, 1880s American Old West frontier, period-accurate clothing, no modern objects, no text."
-SHERIFF FENN: "Sheriff Fenn, a tired slow frontier lawman of about 50, worn coat and tin star,
-heavy plain honest face, flat daylight, photorealistic cinematic portrait, 1880s American Old
-West frontier, period-accurate clothing, no modern objects, no text."
+HOW TO USE IN FLOW: one prompt per Ingredient. These are neutral front-facing portraits on a
+plain backdrop (not scenes) so Flow locks the FACE + COSTUME and transfers it into every
+shot-list scene. Generate 2-3 takes each, keep the sharpest most front-facing face; keep the
+trailing style line identical across the cast so they match. (Variants: generate the base
+first, then reference it for the variant so the face matches.)
+
+VERNA: "Verna, a 19-year-old frontier laundry girl, an intelligent silent watchful expression, quick dark eyes, a plain gray work dress, brown hair pinned simply, rough red work-worn hands, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
+
+HATTIE: "Hattie, a sharp kind frontier widow of about 70, a weathered warm face with shrewd eyes, gray hair in a bun, a plain dark dress and apron, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
+
+JASPER: "Jasper Hargrove, a handsome charming frontier man of about 40, an easy warm smile that does not reach cold pale eyes, a neat dark coat and vest, a respectable deacon look, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
+
+OWEN: "Owen Prescott, a bookish Eastern schoolteacher of about 28, a mild intelligent face, slight build, round spectacles, ink-stained fingers, a waistcoat, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
+
+SHERIFF FENN: "Sheriff Fenn, a tired slow frontier lawman of about 50, a heavy plain honest face, a worn coat and a tin star, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
 
 =====================================================================
 3. TITLE OPTIONS (10 ranked; verified quoted-dialogue format; <=100 chars)

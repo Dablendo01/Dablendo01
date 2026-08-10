@@ -24,44 +24,27 @@ BEATRICE — ally. ~65. Boardinghouse widow who takes Josephine in and lends her
   funeral shawl; sharp, warm, loyal. Gray hair, plain dark dress, kind shrewd eyes.
 
 =====================================================================
-2. PORTRAIT PROMPTS (one Ingredient each; period-anchored)
+2. PORTRAIT PROMPTS — GOOGLE FLOW INGREDIENTS (clean character references)
 =====================================================================
-JOSEPHINE (base): "Josephine, a dignified frontier woman of about 28, one good plain
-dark dress with a borrowed dark shawl, brown hair pinned neat, calm unafraid face,
-straight back, soft window light in a church, photorealistic cinematic portrait,
-1880s American Old West frontier, period-accurate frontier clothing, no modern
-objects, no text."
+HOW TO USE IN FLOW: one prompt per Ingredient. These are neutral front-facing portraits on a
+plain backdrop (not scenes) so Flow locks the FACE + COSTUME and transfers it into every
+shot-list scene. Generate 2-3 takes each, keep the sharpest most front-facing face; keep the
+trailing style line identical across the cast so they match. (Variants: generate the base
+first, then reference it for the variant so the face matches.)
 
-JOSEPHINE (stunned variant): "Josephine, a frontier woman of about 28 seated in a
-plain chair in a borrowed shawl, face turning upward with stunned dawning
-recognition, eyes wide, warm gold light, photorealistic cinematic portrait, 1880s
-American Old West frontier, period-accurate clothing, no modern objects, no text."
+JOSEPHINE (base): "Josephine, a dignified frontier woman of about 28, a calm unafraid expression, one good plain dark dress with a modest borrowed dark shawl, brown hair pinned neat, straight bearing, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
 
-CALEB: "Caleb, a charming greedy frontier man of about 35, pale wedding coat and
-vest, slick oiled charm draining to shock on his face, standing at a church altar,
-photorealistic cinematic portrait, 1880s American Old West frontier, period-accurate
-clothing, no modern objects, no text."
+JOSEPHINE (stunned variant — same face as base): "Josephine, the same woman of about 28, her face turning up with stunned dawning recognition and wide eyes, one good plain dark dress and a borrowed dark shawl, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
 
-ADELAIDE: "Adelaide, a pretty protected young bride of about 20, white period wedding
-dress and veil, careless confident face beginning to shake with doubt, church light,
-photorealistic cinematic portrait, 1880s American Old West frontier, period-accurate
-clothing, no modern objects, no text."
+CALEB: "Caleb Carraway, a charming greedy frontier man of about 35, slick oiled charm, a pale wedding coat and vest, neat hair, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
 
-AUGUST VESTRY: "August Vestry, a cold prosperous frontier banker of about 55, fine
-dark suit and watch chain, calculating ledger eyes, church pew, photorealistic
-cinematic portrait, 1880s American Old West frontier, period-accurate clothing, no
-modern objects, no text."
+ADELAIDE: "Adelaide Vestry, a pretty protected young bride of about 20, a careless confident expression, a white period wedding dress and veil, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
 
-MARSHAL COBB: "Marshal Isaiah Cobb, a hard fair weathered U.S. Marshal of about 50,
-dust-covered long coat from days of riding, metal star on his chest, holding his hat
-against his chest, gentled serious face, church doorway light, photorealistic
-cinematic portrait, 1880s American Old West frontier, period-accurate clothing, no
-modern objects, no text."
+AUGUST VESTRY: "August Vestry, a cold prosperous frontier banker of about 55, calculating ledger eyes, a fine dark suit and watch chain, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
 
-BEATRICE: "Beatrice, a sharp warm frontier boardinghouse widow of about 65, gray
-hair pinned back, plain dark dress, kind shrewd loyal eyes, photorealistic cinematic
-portrait, 1880s American Old West frontier, period-accurate clothing, no modern
-objects, no text."
+MARSHAL COBB: "Marshal Isaiah Cobb, a hard fair weathered U.S. Marshal of about 50, a gentled serious face, a dust-covered long coat and a metal star on his chest, holding his hat against his chest, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
+
+BEATRICE: "Beatrice, a sharp warm frontier boardinghouse widow of about 65, kind shrewd loyal eyes, gray hair pinned back, a plain dark dress, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
 
 =====================================================================
 3. TITLE OPTIONS (10 ranked; hard cap 100 chars; withhold the payoff)

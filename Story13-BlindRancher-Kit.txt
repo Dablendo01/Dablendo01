@@ -19,24 +19,23 @@ WARREN VICKERY — antagonist (greedy nephew). ~30. Ephraim's smiling grasping n
 EMMETT — ally. ~60. Ephraim's loyal old foreman. Weathered, steady, few words.
 
 =====================================================================
-2. PORTRAIT PROMPTS (period-anchored)
+2. PORTRAIT PROMPTS — GOOGLE FLOW INGREDIENTS (clean character references)
 =====================================================================
-SUSANNAH: "Susannah, a plain kind frontier woman of about 31, modest dark dress, brown hair
-pinned plain, a warm watchful dignified face, soft daylight, photorealistic cinematic portrait,
-1880s American Old West frontier, period-accurate clothing, no modern objects, no text."
-EPHRAIM: "Ephraim Vickery, a blind frontier rancher of about 38, clouded pale blind eyes,
-straight quiet bearing, worn range clothes, weathered handsome face, warm ranch light,
-photorealistic cinematic portrait, 1880s American Old West frontier, period-accurate clothing,
-no modern objects, no text."
-ROWENA: "Rowena Amory, a vain pretty frontier town belle of about 28, fine dress and bonnet,
-a cutting cold smile, boardwalk daylight, photorealistic cinematic portrait, 1880s American
-Old West frontier, period-accurate clothing, no modern objects, no text."
-WARREN: "Warren Vickery, a smiling grasping frontier man of about 30, neat coat, false warm
-smile and calculating eyes, dim light, photorealistic cinematic portrait, 1880s American Old
-West frontier, period-accurate clothing, no modern objects, no text."
-EMMETT: "Emmett, a weathered loyal old ranch foreman of about 60, dusty range clothes and hat,
-steady quiet face, golden ranch light, photorealistic cinematic portrait, 1880s American Old
-West frontier, period-accurate clothing, no modern objects, no text."
+HOW TO USE IN FLOW: one prompt per Ingredient. These are neutral front-facing portraits on a
+plain backdrop (not scenes) so Flow locks the FACE + COSTUME and transfers it into every
+shot-list scene. Generate 2-3 takes each, keep the sharpest most front-facing face; keep the
+trailing style line identical across the cast so they match. (Variants: generate the base
+first, then reference it for the variant so the face matches.)
+
+SUSANNAH: "Susannah, a plain kind frontier woman of about 31, a warm watchful dignified face, a modest dark dress, brown hair pinned plain, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
+
+EPHRAIM: "Ephraim Vickery, a blind frontier rancher of about 38, clouded pale blind eyes and a straight quiet bearing, a weathered handsome face, worn range clothes, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
+
+ROWENA: "Rowena Amory, a vain pretty frontier town belle of about 28, a cutting cold smile, a fine dress and bonnet, glossy hair, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
+
+WARREN: "Warren Vickery, a smiling grasping frontier man of about 30, a false warm smile and calculating eyes, a neat coat, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
+
+EMMETT: "Emmett, a weathered loyal old ranch foreman of about 60, a steady quiet face, dusty range clothes and a hat, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
 
 =====================================================================
 3. TITLE OPTIONS (10 ranked; verified quoted-dialogue format; <=100 chars)

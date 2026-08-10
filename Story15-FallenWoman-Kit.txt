@@ -24,26 +24,23 @@ THE FIRST GIRL — Pyke's earlier victim (unnamed / name her at record if wanted
 THE BABY — Frances's infant son; always held/loved, NEVER paired with peril (minors filter).
 
 =====================================================================
-2. PORTRAIT PROMPTS (period-anchored)
+2. PORTRAIT PROMPTS — GOOGLE FLOW INGREDIENTS (clean character references)
 =====================================================================
-FRANCES: "Frances, a soft-faced trusting frontier woman of about 19 holding a baby to her
-chest, plain worn dress, brown hair pinned simply, dignity and quiet hurt in her face, pale
-daylight, photorealistic cinematic portrait, 1880s American Old West frontier, period-accurate
-clothing, no modern objects, no text."
-WYATT: "Wyatt Stroud, a big weathered widowed rancher of about 35, worn trail coat, quiet
-decent watchful face, calloused hands, dusty daylight, photorealistic cinematic portrait,
-1880s American Old West frontier, period-accurate clothing, no modern objects, no text."
-ROLAND PYKE: "Roland Pyke, a handsome pious frontier deacon of about 45, fine black coat and
-vest, a respectable sorrowful face hiding cold calculation, church light, photorealistic
-cinematic portrait, 1880s American Old West frontier, period-accurate clothing, no modern
-objects, no text."
-DELPHINE: "Delphine Coombs, a big iron-cornered frontier church matron of about 50, severe dark
-dress and bonnet, righteous superior face, churchyard daylight, photorealistic cinematic
-portrait, 1880s American Old West frontier, period-accurate clothing, no modern objects, no text."
-FIRST GIRL (veiled variant): "A dignified frontier woman of about 30 in mourning-style dark
-dress with a veil she is lifting from a steady unafraid face, courtroom or church light,
-photorealistic cinematic portrait, 1880s American Old West frontier, period-accurate clothing,
-no modern objects, no text."
+HOW TO USE IN FLOW: one prompt per Ingredient. These are neutral front-facing portraits on a
+plain backdrop (not scenes) so Flow locks the FACE + COSTUME and transfers it into every
+shot-list scene. Generate 2-3 takes each, keep the sharpest most front-facing face; keep the
+trailing style line identical across the cast so they match. (Variants: generate the base
+first, then reference it for the variant so the face matches.)
+
+FRANCES: "Frances, a soft-faced trusting frontier woman of about 19, dignity and quiet hurt in her face, a plain worn dress, brown hair pinned simply, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
+
+WYATT: "Wyatt Stroud, a big weathered widowed rancher of about 35, a quiet decent watchful face, a worn trail coat, calloused hands, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
+
+ROLAND PYKE: "Roland Pyke, a handsome pious frontier deacon of about 45, a respectable sorrowful face hiding cold calculation, a fine black coat and vest, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
+
+DELPHINE: "Delphine Coombs, a big iron-cornered frontier church matron of about 50, a righteous superior face, a severe dark dress and bonnet, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
+
+FIRST GIRL: "A dignified frontier woman of about 30, a steady unafraid face, lifting a dark mourning veil back from her face, a plain dark dress, head-and-shoulders character reference portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
 
 =====================================================================
 3. TITLE OPTIONS (10 ranked; verified quoted-dialogue format; <=100 chars)
