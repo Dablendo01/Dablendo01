@@ -25,45 +25,65 @@ LEVI — ally. ~22. New young ranch hand who pulls out a chair for Clara; sees h
   worth before the money. Rough range clothes, open honest face; marries her later.
 
 =====================================================================
-2. PORTRAIT PROMPTS (one Ingredient each; period-anchored)
+2. PORTRAIT PROMPTS — GOOGLE FLOW INGREDIENTS (clean character references)
 =====================================================================
-Use a consistent photoreal cinematic look, warm-vs-cold frontier grade, 16:9 base.
+HOW TO USE IN FLOW: paste ONE prompt per Ingredient. These are deliberately written as
+neutral, front-facing character portraits on a plain backdrop (not scenes) so Flow captures
+the FACE + COSTUME cleanly and can transfer that character into every shot-list scene later.
+Generate 2-3 takes each and keep the sharpest, most front-facing face. Keep the trailing
+style line identical across all characters so the set matches. 9:16 or square framing is fine
+for an Ingredient; the video itself is 16:9.
+COMMON STYLE LINE (ends every prompt): "head-and-shoulders character reference portrait,
+centered, facing camera, plain softly blurred neutral backdrop, soft even studio lighting,
+sharp detailed face, full costume visible, photorealistic cinematic, 1880s American Old West,
+period-accurate clothing, no modern objects, no text, no props, no scene."
 
-CLARA (base): "Clara, a 19-year-old frontier hired girl, plain gray work dress and
-white apron, brown hair pinned back simply, chapped hands, quiet dignified
-heartbroken face, soft lantern light, photorealistic cinematic portrait, 1880s
-American Old West frontier, period-accurate frontier clothing, no modern objects,
-no text."
+CLARA (base): "Clara, a 19-year-old frontier hired girl, calm dignified expression, plain
+gray wool work dress and white apron, brown hair pinned back simply with a few loose strands,
+chapped work-worn hands, head-and-shoulders character reference portrait, centered, facing
+camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face,
+full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate
+clothing, no modern objects, no text, no props, no scene."
 
-CORDELIA (base): "Cordelia, a proud sharp-eyed widow of about 78, long white hair,
-fine faded shawl over a dark high-collared dress, weathered guarded face, seated by
-a fire in a grand but cold ranch parlor, photorealistic cinematic portrait, 1880s
-American Old West frontier, period-accurate clothing, no modern objects, no text."
+CORDELIA (base): "Cordelia, a proud sharp-eyed widow of about 78, guarded dignified
+expression, long white hair, a fine faded shawl over a dark high-collared Victorian dress,
+weathered proud face, head-and-shoulders character reference portrait, centered, facing
+camera, plain softly blurred neutral backdrop, soft even studio lighting, sharp detailed face,
+full costume visible, photorealistic cinematic, 1880s American Old West, period-accurate
+clothing, no modern objects, no text, no props, no scene."
 
-CORDELIA (frail variant): "Cordelia, a frail widow of about 78, wrapped in a shawl,
-trembling hand resting on a pen at a lamplit writing desk at night, tired resolute
-face, warm low lamplight, photorealistic cinematic portrait, 1880s American Old West
-frontier, period-accurate clothing, no modern objects, no text."
+CORDELIA (frail variant — same woman, must match the base Cordelia's face): "Cordelia, the
+same widow of about 78 now frail and near death, tired resolute pale expression, wispy white
+hair, wrapped in a shawl over a plain nightdress, thin frail hands, head-and-shoulders
+character reference portrait, centered, facing camera, plain softly blurred neutral backdrop,
+soft even low studio lighting, sharp detailed face, full costume visible, photorealistic
+cinematic, 1880s American Old West, period-accurate clothing, no modern objects, no text, no
+props, no scene."
 
-LOUISA: "Louisa, a cold handsome socially ambitious frontier woman of about 40, dark
-careful high-collared dress, hair pinned severe, soft cruel half-smile, sharp
-appraising eyes, lamplit parlor, photorealistic cinematic portrait, 1880s American
-Old West frontier, period-accurate clothing, no modern objects, no text."
+LOUISA: "Louisa Sennett, a cold handsome socially ambitious frontier woman of about 40, a
+faint cold half-smile and sharp appraising eyes, dark careful high-collared dress, hair pinned
+severe, head-and-shoulders character reference portrait, centered, facing camera, plain softly
+blurred neutral backdrop, soft even studio lighting, sharp detailed face, full costume
+visible, photorealistic cinematic, 1880s American Old West, period-accurate clothing, no
+modern objects, no text, no props, no scene."
 
-RUFUS: "Rufus, a self-satisfied frontier rancher of about 45, good black coat and
-vest, thumbs hooked in his vest, smug closed face, photorealistic cinematic
-portrait, 1880s American Old West frontier, period-accurate clothing, no modern
-objects, no text."
+RUFUS: "Rufus Sennett, a self-satisfied frontier rancher of about 45, smug closed expression,
+good black coat and vest, thumbs hooked in his vest, head-and-shoulders character reference
+portrait, centered, facing camera, plain softly blurred neutral backdrop, soft even studio
+lighting, sharp detailed face, full costume visible, photorealistic cinematic, 1880s American
+Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
 
-JUDGE HARLAN: "Judge Thaddeus Harlan, a stern fair territorial judge of about 65,
-white whiskers, dark judicial coat, small spectacles, hard flat honest eyes,
-courthouse light, photorealistic cinematic portrait, 1880s American Old West
-frontier, period-accurate clothing, no modern objects, no text."
+JUDGE HARLAN: "Judge Thaddeus Harlan, a stern fair territorial judge of about 65, hard flat
+honest eyes, white whiskers, dark judicial coat, small round spectacles, head-and-shoulders
+character reference portrait, centered, facing camera, plain softly blurred neutral backdrop,
+soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic,
+1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
 
-LEVI: "Levi, a young frontier ranch hand of about 22, rough range clothes, dusty hat
-in hand, open honest kind face, warm evening light, photorealistic cinematic
-portrait, 1880s American Old West frontier, period-accurate clothing, no modern
-objects, no text."
+LEVI: "Levi, a young frontier ranch hand of about 22, open honest kind expression, rough range
+clothes and a worn work shirt, tousled hair, a dusty hat held at his chest, head-and-shoulders
+character reference portrait, centered, facing camera, plain softly blurred neutral backdrop,
+soft even studio lighting, sharp detailed face, full costume visible, photorealistic cinematic,
+1880s American Old West, period-accurate clothing, no modern objects, no text, no props, no scene."
 
 =====================================================================
 3. TITLE OPTIONS (10 ranked; hard cap 100 chars; withhold the payoff)
