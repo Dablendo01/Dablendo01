@@ -1,0 +1,179 @@
+# -*- coding: utf-8 -*-
+# Story 15 "The Fallen Woman" — VO-synced shot list builder.
+# Pairs authored prompts with scene_calculator.py timecodes (narration-only, 38:26 = 2306s).
+# Ingredients: Frances | Wyatt | Roland Pyke | Delphine | the first girl (veiled+unveiled) | baby.
+# SENSITIVE: seduction/abandonment kept IMPLIED and restrained (no graphic content). The baby
+# is only held/loved/tended; its fever framed on the mother and cradle, NEVER a child-distress
+# pairing. Letters/papers TEXT-FREE. Names inline. No mid-body em-dashes. 151 prompts, 1:1.
+import csv
+
+PROMPTS = [
+"Frances — A young woman of nineteen walks down the middle of a dusty Main Street holding a baby tight to her chest, townsfolk lined both sides in Sunday best, a shaming parade, hard morning light",  # 1
+"Frances — Close on a young woman walking with her baby, chin lifted as high as she can hold it, dignity under a whole town's stare, hard daylight",  # 2
+"Townsfolk lined along a frontier street sneering and spitting a cruel word at a passing young mother, ugly righteousness, flat daylight",  # 3
+"Respectable churchwomen rising in a clapboard church and driving a young mother out down the aisle, cold piety, pale window light",  # 4
+"Young girls watching wide-eyed from a boardwalk as a shamed young mother is paraded past, a cruel lesson, flat daylight",  # 5
+"Wyatt — A big weathered quiet rancher stands on a boardwalk watching the shaming, an old hard decency stirring behind his eyes, flat morning light",  # 6
+"Frances, Wyatt — A shamed young mother with a baby and a quiet rancher with a heavy coat, the two poles of a coming reckoning, hard daylight",  # 7
+"Frances — A hopeful trusting girl of nineteen newly arrived in a frontier town, before the shame, soft daylight",  # 8
+"Frances — A young woman sweeps and tends a small frontier general store for her uncle, content in honest work, warm store light",  # 9
+"Frances — A young woman keeps the ledgers at a store counter, respectable and industrious, warm daylight",  # 10
+"Frances — A young woman writes a letter home by lamplight with a hopeful face, singing softly to herself, warm glow (letter text not legible)",  # 11
+"Frances — A young woman stands grieving by a fresh grave in a bleak frontier churchyard, her uncle taken by fever, gray light",  # 12
+"Frances — A young woman stands alone in an emptied store being sold out from under her, adrift and penniless, cold light",  # 13
+"Frances — A young woman alone and uncertain on a hard frontier street, a respectable girl with no place left in the world, gray daylight",  # 14
+"Frances — Close on a soft trusting young woman's open face, raised to believe respectable men are what they seem, soft light",  # 15
+"Frances, Roland Pyke — A trusting young woman and a prominent respectable man in a doorway, a wolf's kindly interest beginning, dim foreshadowing light",  # 16
+"Roland Pyke — A handsome pious frontier deacon of about 45 in a fine black coat, prosperous and respectable, the town's finest hypocrite, church light",  # 17
+"Roland Pyke — A respectable man sits with a hard handsome wife and a pew full of children, a polished show of piety, pale church light",  # 18
+"Roland Pyke — A revered deacon receiving the deference of a frontier town, smug and untouchable, warm daylight",  # 19
+"Roland Pyke, Frances — A respectable deacon offers grave false sympathy to a grieving young woman in a store, kindness that costs him nothing, dim light",  # 20
+"Roland Pyke, Frances — A deacon shows a young woman a little rented house at the edge of town, seeming generous, gray daylight",  # 21
+"Roland Pyke — A deacon publicly seeing to a poor orphaned girl, the town approving of the fine Christian man, daylight",  # 22
+"Frances — A lonely young woman gratefully accepts a respectable man's help, reaching for kindness like a drowning person, dim warm light",  # 23
+"Roland Pyke, Frances — A deacon speaks gently and patiently to a young woman, quoting Scripture, the slow careful grooming of a wolf, dim parlor light",  # 24
+"Frances — Close on a troubled young woman's face, a line already crossed she cannot name, quiet dismay, dim light",  # 25
+"Roland Pyke, Frances — A man murmurs false promises to a young woman in dim light, a cold marriage and a true love, restrained and shadowed, low light",  # 26
+"Frances — A young woman listens, hopeful and deceived, believing the promises she cannot afford to disbelieve, dim warm light",  # 27
+"Frances — A young woman realizes with dawning fear that she is expecting a child, alone, dim light",  # 28
+"Roland Pyke — A cold calculating man hears whispers rising in the town and makes a cruel quick decision, dim study light",  # 29
+"Roland Pyke, Frances — A frightened young woman comes to a fine study to a deacon whose face has gone entirely to stone, dim lamplight",  # 30
+"Roland Pyke — A deacon speaks low and cold, denying everything so his wife will not hear, a mask of respectability, dim study light",  # 31
+"Roland Pyke — A cold man quietly threatens to run a young woman out of town as a harlot, cruelty behind the piety, dim light",  # 32
+"Roland Pyke, Frances — A deacon shuts a fine study door in a young woman's face, casting her off with a loud false kindness, dim hall light",  # 33
+"Frances — A desperate young woman stands at the door of the Ladies' Aid hoping for mercy woman to woman, gray daylight",  # 34
+"Delphine, Frances — A big iron-cornered church matron hears a young woman out with a closed-gate face and turns her away cold, dim room light",  # 35
+"Frances — A young woman great with child alone in a poor little rented house, tended only by a kind old midwife, dim lamplight",  # 36
+"Frances — A young mother holds her newborn baby close in a poor room, loving him and waiting for the town's judgment, warm dim light",  # 37
+"Roland Pyke — A deacon preaches gravely against sin from a pulpit, never naming the father, blaming a nameless drifter, pale church light",  # 38
+"A frontier town with every eye fixed hard on a shamed young mother while a smug deacon stands untouched, misdirected judgment, flat daylight",  # 39
+"Roland Pyke — A deacon walks at the very front of a gathering shaming mob, leading the cry, safe as a church, hard daylight",  # 40
+"Delphine — A big handsome iron-cornered frontier matron, queen of respectable society, cold and commanding, prim daylight",  # 41
+"Delphine — Close on a self-righteous matron's face taking pleasure in being good against a girl called bad, cold light",  # 42
+"Delphine — A righteous matron who needs a fallen woman to stand on like a footstool, cruel certainty, flat daylight",  # 43
+"Delphine — A matron rises first in a church and leads the shrill righteous women out into the street, driving a mother off, pale light",  # 44
+"Frances — A young mother walks down the middle of Main Street with her baby against her chest as the town lines up to watch her go, hard daylight",  # 45
+"Frances — A young mother keeps her feet moving down the street, not falling, not begging, unbroken, hard daylight",  # 46
+"Frances — Close on a young mother holding her baby and walking steady, the bravest thing in the town that year, hard light",  # 47
+"Frances — A dignified young mother walks through a sneering town that sees a sinner and not the cruelty she carries, hard daylight",  # 48
+"Wyatt — A quiet rancher on a boardwalk sees exactly what he is looking at, about to split the town in half, hard daylight",  # 49
+"Wyatt — A big weathered quiet rancher in his middle thirties who runs cattle past the north ridge and keeps to himself, dusty daylight",  # 50
+"Wyatt — A solitary rancher alone with his herd and his dogs on an open range, a clear-eyed man who stopped needing a town's good opinion, gold light",  # 51
+"Wyatt — A rancher stands on a boardwalk with a sack of flour on his shoulder watching a shaming parade, a slow anger coming to a boil, hard daylight",  # 52
+"Wyatt — Close on a rancher's hardening decent face as he watches an injustice, quiet fury, flat light",  # 53
+"Roland Pyke — A memory at dusk: a deacon's fine buggy on a lonely track that leads only to one little house, a secret, blue evening",  # 54
+"Wyatt, Roland Pyke — A rancher watches a deacon lead the mob and quietly does the arithmetic the whole town refused to do, hard daylight",  # 55
+"Wyatt — A rancher sets his sack of flour down on the boardwalk and steps down into the street, and the shaming parade stops, hard daylight",  # 56
+"Frances, Wyatt — A big rancher settles his own heavy trail coat around a shamed young mother and her baby the way you cover someone cold, a charged gap and a crowd, hard daylight",  # 57
+"Wyatt — A rancher speaks out loud to the whole silent street, a coat now around the shamed woman behind him, plain and unafraid, hard daylight",  # 58
+"Wyatt, Roland Pyke — A rancher lets his slow gaze rest down the street on a respectable deacon, the accusation unspoken, a charged gap, hard daylight",  # 59
+"Roland Pyke — Close on a respectable deacon's face flickering white for an instant, a mask nearly slipping, hard light",  # 60
+"A frontier crowd's faces shifting as a spoken suspicion takes hold, everyone realizing they had thought it all along, flat daylight",  # 61
+"Delphine, Wyatt — An outraged matron confronts a mild rancher over defending the fallen woman, he unruffled, tense daylight",  # 62
+"Wyatt, Delphine — A rancher answers a matron mildly that he named no one and she is the one who jumped to who, quiet steel, flat daylight",  # 63
+"Roland Pyke — A cornered clever deacon draws himself up in wounded dignity, summoning his practiced piety, dangerous, hard daylight",  # 64
+"Roland Pyke, Wyatt — A deacon twists it to make the rancher who covered her into just another wolf, oily and clever, flat daylight",  # 65
+"A frontier crowd breaking up muttering, choosing the comfortable lie, the matter left unresolved, gray daylight",  # 66
+"Frances — A young mother left alone and suspect in the street, a rancher's coat still around her shoulders, cold and uncleared, hard daylight",  # 67
+"Wyatt, Frances — A rancher turns and speaks quietly just to a shamed young mother, a plain honest offer, hard daylight",  # 68
+"Wyatt — A rancher speaks earnestly of honest work, a fair wage, and a room with a lock, giving his word she will be safe, hard daylight",  # 69
+"Wyatt — A rancher tips his hat and walks to his wagon, leaving the choice entirely to the young woman, hard daylight",  # 70
+"Frances — A young mother thinks hard and wary in her poor room a week later, half-starved, weighing an offer, dim light",  # 71
+"Frances — A young mother arrives at a big ranch house past the ridge with her bundle and her baby, a hard choice made, gray daylight",  # 72
+"Delphine — A matron carries scandalous gossip house to house along a town road, tongues running like spring creeks, flat daylight",  # 73
+"A weathered ranch house past a north ridge under open sky, beyond the reach of a town's eyes, gray daylight",  # 74
+"Frances — A young mother moves warily through a big quiet ranch house, safe for the first time yet waiting for a catch, dim interior light",  # 75
+"Frances, Wyatt — A guarded young mother keeps her baby close while a quiet rancher goes on being plainly decent, day after day, warm ranch light",  # 76
+"Wyatt, Frances — A rancher hands a young woman a fair wage in coin, treating her as a decent woman doing honest work, warm light",  # 77
+"Wyatt, Frances — A rancher and a young woman talk easily over the day's work, her opinion valued at last, warm daylight",  # 78
+"Wyatt — A rancher whittles a small pine horse for a baby who crawls safe on a mended sunny porch, quiet tenderness, golden light",  # 79
+"Frances — A worried young mother sits beside a cradle in lamplight through a hard winter night, tending a small child unwell, warm anxious glow",  # 80
+"Wyatt — A rancher pulls on his coat and rides out into a black snowy night to fetch the doctor, four hard hours through the storm, cold blue night",  # 81
+"Wyatt — A rancher sits up the whole night beside a cradle with a lantern and a cool cloth, watchful and tender, warm lamplight",  # 82
+"Wyatt — Close on a rancher's tender weary face by a cradle, doing for a child that is nothing to him by blood, warm glow",  # 83
+"Wyatt, Frances — A rancher watches a young mother and her baby with a quiet unspoken love, the best kind of love, warm light",  # 84
+"Curious riders passing a distant ranch on thin pretexts, a town that cannot let a story rest, flat daylight",  # 85
+"Church women driving out to peer at the fallen woman and finding only a decent wife cooking and raising a laughing child, gray daylight",  # 86
+"Delphine, Frances — A matron in a ranch yard looks a young woman up and down and finds only a clean house and a steady unflinching eye, flat daylight",  # 87
+"Frances, Wyatt — A young mother with a sleeping baby on a porch at red dusk, a rancher on the step a respectful distance off, warm evening light",  # 88
+"Frances — A young mother speaks quietly on a dusk porch without looking up, saying he never once asked her about any of it, warm dim light",  # 89
+"Wyatt, Frances — A rancher answers gently that it was not his to ask, and a young woman begins to weep at being treated as a whole person, warm evening light",  # 90
+"Wyatt, Frances — A rancher lets a young woman cry and does not reach for her, and the letting-be finally lets her trust a man again, warm dusk light",  # 91
+"Frances, Wyatt — A young mother slowly, painfully learning to trust the one man who asked nothing and gave everything, warm light",  # 92
+"Frances, Wyatt — A quiet spring wedding by a plain preacher two towns over, a wronged woman and a good man, warm light",  # 93
+"Roland Pyke — A deacon still respectable in his church, thanking God for his own righteousness, the wrong unpunished, pale church light",  # 94
+"Frances — A young wife still under the town's lingering judgment on a Sunday street, a shame not yet lifted, gray daylight",  # 95
+"A city lawyer with a leather folio riding a road toward a frontier town, carrying a hidden reckoning, gray daylight",  # 96
+"A bundle of old letters among a dead man's papers, the leavings of a former partner named Hollis, dim light (text not legible)",  # 97
+"Letters in a single unmistakable hand discovered among a dead man's affairs, damning, dim light (text not legible)",  # 98
+"A memory of an earlier young woman ruined and abandoned in another town years before, the wolf's first victim, faded dim light",  # 99
+"Roland Pyke — A cold satisfied man once wrote of managing an unpleasantness to keep his good name, a confession in all but the word, dim light (paper text not legible)",  # 100
+"Roland Pyke — A deacon revealed as a wolf with a pattern, a practiced destroyer who had done it before, cold portrait, dim light",  # 101
+"A city lawyer arrives in the county with papers in hand, an honest man on honest business, gray daylight",  # 102
+"A lawyer rides up to a weathered ranch house past the ridge, unknowingly carrying dynamite, gray daylight",  # 103
+"Wyatt — A rancher on his porch reads old letters and understands in a held breath that the proof has ridden up to his door, tense daylight (text not legible)",  # 104
+"Wyatt — A careful rancher thinks hard rather than act hasty, knowing how a town protects the man it reveres, dim light",  # 105
+"Wyatt — A rancher resolves to set the wrong right before the whole town in a way past wriggling out of, quiet purpose, warm light",  # 106
+"Wyatt — A rancher has the lawyer swear to the papers and quietly sends word to find the first ruined girl, careful planning, lamplit desk (text not legible)",  # 107
+"The first girl — A steady woman of about thirty reads a rancher's honest letter and is moved to learn she was not the only one, dim light (text not legible)",  # 108
+"The first girl — A woman finds a courage she never had, ready at last to speak to spare another, resolute, soft light",  # 109
+"A great county revival gathering at a frontier church, wagons and folding chairs, Roland Pyke central and resplendent, bright daylight",  # 110
+"Wyatt, Frances, the first girl veiled — A rancher and his wife slip into the back of a packed church while a veiled woman stands quiet near the aisle, pale daylight",  # 111
+"Roland Pyke — A deacon in his best black coat moves through a huge revival crowd receiving deference, the summit of his life, bright daylight",  # 112
+"Roland Pyke — A deacon basks in the deference of half a territory, blind in his certainty, bright daylight",  # 113
+"A packed revival church with a smug deacon at the front, oblivious to a rancher, a lawyer, and a veiled woman in the back, pale light",  # 114
+"Frances — An anxious young wife in a back pew afraid of what standing up in this church will cost, pale light",  # 115
+"Wyatt, Frances — A memory of the night before: a rancher takes his wife's hand and says it is not about what the town says of her, warm lamplight",  # 116
+"Wyatt — A rancher speaks earnestly that a wolf will do it again to some other girl unless someone who can stand does, warm dim light",  # 117
+"Frances — A young wife thinks of the next girl and puts on her good dress with quiet resolve, warm morning light",  # 118
+"Wyatt — A rancher stands up in the hush of a packed church as the deacon rises to pray, a plain carrying voice, pale window light",  # 119
+"Delphine — A matron springs up scandalized while the wider county crowd leans in wanting to hear, tense pale light",  # 120
+"A county crowd regarding a steady sober rancher with new respect, his word carrying weight, pale daylight",  # 121
+"Roland Pyke — A deacon at a pulpit unable to command a quieting room, the white flicker at his mouth again, pale light",  # 122
+"Wyatt — A rancher tells it plain to the church, that his wife was ruined by a man hiding behind the very pulpit, indicting, pale window light",  # 123
+"Wyatt — A rancher has a city lawyer stand to read out letters in the deacon's own hand, grave, pale daylight (text not legible)",  # 124
+"The lawyer reads damning letters aloud to a stunned church, a deacon's own pen exposing him, pale window light (text not legible)",  # 125
+"The first girl — A veiled woman rises in the crowd and lifts her veil, saying her name is on one of those letters, steady and unafraid, pale light",  # 126
+"The first girl — An unveiled woman testifies that everything the rancher says is true, that she carried it alone for eleven years, pale window light",  # 127
+"Roland Pyke — A cornered deacon begins to bluster as an unveiled woman vows to swear to it before any judge, pale light",  # 128
+"Roland Pyke — A deacon cries conspiracy and slander, but the room is turning and it is over, like a fever breaking, pale daylight",  # 129
+"Frances — A young wife sits in the back pew with her husband's arm around her and her healthy laughing child on her knee, living proof and vindicated, warm pale light",  # 130
+"A whole church of townsfolk turning their faces slowly and terribly from the wife they judged onto the deacon, pale light",  # 131
+"Roland Pyke — A deacon under the swung-round faces of the town he once ruled, finished more than any judge could make him, pale light",  # 132
+"Roland Pyke — A disgraced man leaves town within the month with a loaded wagon, his church seat empty and his wife white-lipped, gray daylight",  # 133
+"Frances — A wronged young woman who in the end brought the wolf's whole polished house down, quiet dignity, soft light",  # 134
+"Frances, the first girl — Two women sit together at a warm ranch kitchen table, both ruined once by the same careful hands, warm lamplight",  # 135
+"Frances, the first girl — Two women share a quiet understanding, each learning she was never the only one, warm glow",  # 136
+"Frances, the first girl — Two women give each other a healing no verdict could, a shame learned to be no fault, warm light",  # 137
+"The first girl — A woman rides out lighter than she came, freed of an eleven year lie, gray-gold morning",  # 138
+"The first girl — A woman departs having learned she was only young and preyed upon and no sinner at all, soft light",  # 139
+"Townsfolk walking past a certain church pew on a Sunday, made to remember how certain and how wrong they had been, pale light",  # 140
+"Frances — A townsperson apologizes to a young wife who forgives with a grace beyond the town that made her, warm daylight",  # 141
+"Delphine — A diminished matron who led the parade of shame, now scorned, gets what is worse for her kind than punishment, gray light",  # 142
+"Delphine — A humbled matron living on among people who watched her be righteously wrong, her committee lost, gray daylight",  # 143
+"Frances, Wyatt — A woman and a rancher living out their years past the ridge with more children about them, a full good life, golden light",  # 144
+"Frances — A grown tall kind young man beside his parents, the boy a town once called a sin, never made to feel it, warm daylight",  # 145
+"Frances — A new grieving cast-out girl finds her way to a ranch door past the ridge, seeking refuge, gray daylight",  # 146
+"Frances — A woman settles her own coat around a new grieving girl's shoulders, the kindness passed on, warm light",  # 147
+"Frances — A ranch door opening in welcome to the cast out, a voice of refuge, warm glow",  # 148
+"Frances, Wyatt, Roland Pyke — The three figures of the tale remembered, the paraded woman, the deacon, and the rancher who took off his coat, warm firelight",  # 149
+"A frontier boardwalk and a dusty street, the choice of who to be laid plain, gold long shadows",  # 150
+"A single glowing oil lantern on a plank table with dust drifting in its light against a dark background, the story closing, warm intimate glow",  # 151
+]
+
+ANCHOR = ", 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing"
+
+def run():
+    rows = list(csv.DictReader(open("Story15-Scenes.csv")))
+    assert len(rows) == len(PROMPTS), f"{len(rows)} scenes vs {len(PROMPTS)} prompts"
+    stamped = [p + ANCHOR for p in PROMPTS]
+    out = []
+    for r, p in zip(rows, stamped):
+        out.append(f"SCENE {int(r['scene']):03d} | {r['in']}-{r['out']} ({float(r['dur_s']):.1f}s)\n{p}")
+    open("Story15-FallenWoman-ShotList.txt", "w").write("\n\n\n".join(out) + "\n")
+    open("Story15-FallenWoman-Prompts-Only.txt", "w").write("\n\n\n".join(stamped) + "\n")
+    durs = [float(r["dur_s"]) for r in rows]
+    print(f"{len(rows)} scenes | {sum(durs)/60:.1f} min | {sum(durs):.0f}s (VO 38:26 = 2306s) | "
+          f"shortest {min(durs):.1f}s longest {max(durs):.1f}s")
+
+run()

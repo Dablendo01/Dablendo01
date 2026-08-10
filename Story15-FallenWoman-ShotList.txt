@@ -1,0 +1,602 @@
+SCENE 001 | 0:00:00.000-0:00:15.445 (15.4s)
+Frances — A young woman of nineteen walks down the middle of a dusty Main Street holding a baby tight to her chest, townsfolk lined both sides in Sunday best, a shaming parade, hard morning light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 002 | 0:00:15.445-0:00:25.854 (10.4s)
+Frances — Close on a young woman walking with her baby, chin lifted as high as she can hold it, dignity under a whole town's stare, hard daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 003 | 0:00:25.854-0:00:36.934 (11.1s)
+Townsfolk lined along a frontier street sneering and spitting a cruel word at a passing young mother, ugly righteousness, flat daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 004 | 0:00:36.934-0:00:58.758 (21.8s)
+Respectable churchwomen rising in a clapboard church and driving a young mother out down the aisle, cold piety, pale window light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 005 | 0:00:58.758-0:01:20.247 (21.5s)
+Young girls watching wide-eyed from a boardwalk as a shamed young mother is paraded past, a cruel lesson, flat daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 006 | 0:01:20.247-0:01:30.655 (10.4s)
+Wyatt — A big weathered quiet rancher stands on a boardwalk watching the shaming, an old hard decency stirring behind his eyes, flat morning light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 007 | 0:01:30.655-0:01:45.093 (14.4s)
+Frances, Wyatt — A shamed young mother with a baby and a quiet rancher with a heavy coat, the two poles of a coming reckoning, hard daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 008 | 0:01:45.093-0:02:04.903 (19.8s)
+Frances — A hopeful trusting girl of nineteen newly arrived in a frontier town, before the shame, soft daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 009 | 0:02:04.903-0:02:16.990 (12.1s)
+Frances — A young woman sweeps and tends a small frontier general store for her uncle, content in honest work, warm store light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 010 | 0:02:16.990-0:02:30.085 (13.1s)
+Frances — A young woman keeps the ledgers at a store counter, respectable and industrious, warm daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 011 | 0:02:30.085-0:02:48.216 (18.1s)
+Frances — A young woman writes a letter home by lamplight with a hopeful face, singing softly to herself, warm glow (letter text not legible), 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 012 | 0:02:48.216-0:03:03.325 (15.1s)
+Frances — A young woman stands grieving by a fresh grave in a bleak frontier churchyard, her uncle taken by fever, gray light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 013 | 0:03:03.325-0:03:17.763 (14.4s)
+Frances — A young woman stands alone in an emptied store being sold out from under her, adrift and penniless, cold light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 014 | 0:03:17.763-0:03:32.536 (14.8s)
+Frances — A young woman alone and uncertain on a hard frontier street, a respectable girl with no place left in the world, gray daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 015 | 0:03:32.536-0:03:48.988 (16.4s)
+Frances — Close on a soft trusting young woman's open face, raised to believe respectable men are what they seem, soft light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 016 | 0:03:48.988-0:04:03.426 (14.4s)
+Frances, Roland Pyke — A trusting young woman and a prominent respectable man in a doorway, a wolf's kindly interest beginning, dim foreshadowing light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 017 | 0:04:03.426-0:04:16.185 (12.8s)
+Roland Pyke — A handsome pious frontier deacon of about 45 in a fine black coat, prosperous and respectable, the town's finest hypocrite, church light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 018 | 0:04:16.185-0:04:36.666 (20.5s)
+Roland Pyke — A respectable man sits with a hard handsome wife and a pew full of children, a polished show of piety, pale church light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 019 | 0:04:36.666-0:04:48.082 (11.4s)
+Roland Pyke — A revered deacon receiving the deference of a frontier town, smug and untouchable, warm daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 020 | 0:04:48.082-0:05:03.527 (15.4s)
+Roland Pyke, Frances — A respectable deacon offers grave false sympathy to a grieving young woman in a store, kindness that costs him nothing, dim light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 021 | 0:05:03.527-0:05:16.286 (12.8s)
+Roland Pyke, Frances — A deacon shows a young woman a little rented house at the edge of town, seeming generous, gray daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 022 | 0:05:16.286-0:05:33.745 (17.5s)
+Roland Pyke — A deacon publicly seeing to a poor orphaned girl, the town approving of the fine Christian man, daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 023 | 0:05:33.745-0:05:44.154 (10.4s)
+Frances — A lonely young woman gratefully accepts a respectable man's help, reaching for kindness like a drowning person, dim warm light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 024 | 0:05:44.154-0:05:59.263 (15.1s)
+Roland Pyke, Frances — A deacon speaks gently and patiently to a young woman, quoting Scripture, the slow careful grooming of a wolf, dim parlor light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 025 | 0:05:59.263-0:06:14.708 (15.4s)
+Frances — Close on a troubled young woman's face, a line already crossed she cannot name, quiet dismay, dim light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 026 | 0:06:14.708-0:06:33.847 (19.1s)
+Roland Pyke, Frances — A man murmurs false promises to a young woman in dim light, a cold marriage and a true love, restrained and shadowed, low light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 027 | 0:06:33.847-0:06:50.970 (17.1s)
+Frances — A young woman listens, hopeful and deceived, believing the promises she cannot afford to disbelieve, dim warm light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 028 | 0:06:50.970-0:07:05.072 (14.1s)
+Frances — A young woman realizes with dawning fear that she is expecting a child, alone, dim light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 029 | 0:07:05.072-0:07:25.218 (20.1s)
+Roland Pyke — A cold calculating man hears whispers rising in the town and makes a cruel quick decision, dim study light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 030 | 0:07:25.218-0:07:40.999 (15.8s)
+Roland Pyke, Frances — A frightened young woman comes to a fine study to a deacon whose face has gone entirely to stone, dim lamplight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 031 | 0:07:40.999-0:07:51.743 (10.7s)
+Roland Pyke — A deacon speaks low and cold, denying everything so his wife will not hear, a mask of respectability, dim study light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 032 | 0:07:51.743-0:08:02.151 (10.4s)
+Roland Pyke — A cold man quietly threatens to run a young woman out of town as a harlot, cruelty behind the piety, dim light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 033 | 0:08:02.151-0:08:16.589 (14.4s)
+Roland Pyke, Frances — A deacon shuts a fine study door in a young woman's face, casting her off with a loud false kindness, dim hall light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 034 | 0:08:16.589-0:08:34.384 (17.8s)
+Frances — A desperate young woman stands at the door of the Ladies' Aid hoping for mercy woman to woman, gray daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 035 | 0:08:34.384-0:08:50.837 (16.4s)
+Delphine, Frances — A big iron-cornered church matron hears a young woman out with a closed-gate face and turns her away cold, dim room light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 036 | 0:08:50.837-0:09:05.946 (15.1s)
+Frances — A young woman great with child alone in a poor little rented house, tended only by a kind old midwife, dim lamplight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 037 | 0:09:05.946-0:09:20.719 (14.8s)
+Frances — A young mother holds her newborn baby close in a poor room, loving him and waiting for the town's judgment, warm dim light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 038 | 0:09:20.719-0:09:42.544 (21.8s)
+Roland Pyke — A deacon preaches gravely against sin from a pulpit, never naming the father, blaming a nameless drifter, pale church light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 039 | 0:09:42.544-0:09:55.974 (13.4s)
+A frontier town with every eye fixed hard on a shamed young mother while a smug deacon stands untouched, misdirected judgment, flat daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 040 | 0:09:55.974-0:10:12.426 (16.4s)
+Roland Pyke — A deacon walks at the very front of a gathering shaming mob, leading the cry, safe as a church, hard daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 041 | 0:10:12.426-0:10:28.879 (16.4s)
+Delphine — A big handsome iron-cornered frontier matron, queen of respectable society, cold and commanding, prim daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 042 | 0:10:28.879-0:10:46.002 (17.1s)
+Delphine — Close on a self-righteous matron's face taking pleasure in being good against a girl called bad, cold light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 043 | 0:10:46.002-0:10:57.418 (11.4s)
+Delphine — A righteous matron who needs a fallen woman to stand on like a footstool, cruel certainty, flat daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 044 | 0:10:57.418-0:11:14.542 (17.1s)
+Delphine — A matron rises first in a church and leads the shrill righteous women out into the street, driving a mother off, pale light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 045 | 0:11:14.542-0:11:32.337 (17.8s)
+Frances — A young mother walks down the middle of Main Street with her baby against her chest as the town lines up to watch her go, hard daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 046 | 0:11:32.337-0:11:43.082 (10.7s)
+Frances — A young mother keeps her feet moving down the street, not falling, not begging, unbroken, hard daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 047 | 0:11:43.082-0:11:54.162 (11.1s)
+Frances — Close on a young mother holding her baby and walking steady, the bravest thing in the town that year, hard light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 048 | 0:11:54.162-0:12:04.570 (10.4s)
+Frances — A dignified young mother walks through a sneering town that sees a sinner and not the cruelty she carries, hard daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 049 | 0:12:04.570-0:12:17.329 (12.8s)
+Wyatt — A quiet rancher on a boardwalk sees exactly what he is looking at, about to split the town in half, hard daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 050 | 0:12:17.329-0:12:34.789 (17.5s)
+Wyatt — A big weathered quiet rancher in his middle thirties who runs cattle past the north ridge and keeps to himself, dusty daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 051 | 0:12:34.789-0:12:55.606 (20.8s)
+Wyatt — A solitary rancher alone with his herd and his dogs on an open range, a clear-eyed man who stopped needing a town's good opinion, gold light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 052 | 0:12:55.606-0:13:11.386 (15.8s)
+Wyatt — A rancher stands on a boardwalk with a sack of flour on his shoulder watching a shaming parade, a slow anger coming to a boil, hard daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 053 | 0:13:11.386-0:13:27.167 (15.8s)
+Wyatt — Close on a rancher's hardening decent face as he watches an injustice, quiet fury, flat light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 054 | 0:13:27.167-0:13:39.926 (12.8s)
+Roland Pyke — A memory at dusk: a deacon's fine buggy on a lonely track that leads only to one little house, a secret, blue evening, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 055 | 0:13:39.926-0:14:00.743 (20.8s)
+Wyatt, Roland Pyke — A rancher watches a deacon lead the mob and quietly does the arithmetic the whole town refused to do, hard daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 056 | 0:14:00.743-0:14:15.852 (15.1s)
+Wyatt — A rancher sets his sack of flour down on the boardwalk and steps down into the street, and the shaming parade stops, hard daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 057 | 0:14:15.852-0:14:38.013 (22.2s)
+Frances, Wyatt — A big rancher settles his own heavy trail coat around a shamed young mother and her baby the way you cover someone cold, a charged gap and a crowd, hard daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 058 | 0:14:38.013-0:14:49.764 (11.8s)
+Wyatt — A rancher speaks out loud to the whole silent street, a coat now around the shamed woman behind him, plain and unafraid, hard daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 059 | 0:14:49.764-0:15:05.545 (15.8s)
+Wyatt, Roland Pyke — A rancher lets his slow gaze rest down the street on a respectable deacon, the accusation unspoken, a charged gap, hard daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 060 | 0:15:05.545-0:15:23.676 (18.1s)
+Roland Pyke — Close on a respectable deacon's face flickering white for an instant, a mask nearly slipping, hard light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 061 | 0:15:23.676-0:15:42.814 (19.1s)
+A frontier crowd's faces shifting as a spoken suspicion takes hold, everyone realizing they had thought it all along, flat daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 062 | 0:15:42.814-0:16:00.274 (17.5s)
+Delphine, Wyatt — An outraged matron confronts a mild rancher over defending the fallen woman, he unruffled, tense daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 063 | 0:16:00.274-0:16:11.690 (11.4s)
+Wyatt, Delphine — A rancher answers a matron mildly that he named no one and she is the one who jumped to who, quiet steel, flat daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 064 | 0:16:11.690-0:16:34.185 (22.5s)
+Roland Pyke — A cornered clever deacon draws himself up in wounded dignity, summoning his practiced piety, dangerous, hard daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 065 | 0:16:34.185-0:16:45.937 (11.8s)
+Roland Pyke, Wyatt — A deacon twists it to make the rancher who covered her into just another wolf, oily and clever, flat daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 066 | 0:16:45.937-0:17:00.711 (14.8s)
+A frontier crowd breaking up muttering, choosing the comfortable lie, the matter left unresolved, gray daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 067 | 0:17:00.711-0:17:11.791 (11.1s)
+Frances — A young mother left alone and suspect in the street, a rancher's coat still around her shoulders, cold and uncleared, hard daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 068 | 0:17:11.791-0:17:24.550 (12.8s)
+Wyatt, Frances — A rancher turns and speaks quietly just to a shamed young mother, a plain honest offer, hard daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 069 | 0:17:24.550-0:17:36.973 (12.4s)
+Wyatt — A rancher speaks earnestly of honest work, a fair wage, and a room with a lock, giving his word she will be safe, hard daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 070 | 0:17:36.973-0:17:47.381 (10.4s)
+Wyatt — A rancher tips his hat and walks to his wagon, leaving the choice entirely to the young woman, hard daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 071 | 0:17:47.381-0:17:58.126 (10.7s)
+Frances — A young mother thinks hard and wary in her poor room a week later, half-starved, weighing an offer, dim light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 072 | 0:17:58.126-0:18:09.206 (11.1s)
+Frances — A young mother arrives at a big ranch house past the ridge with her bundle and her baby, a hard choice made, gray daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 073 | 0:18:09.206-0:18:22.300 (13.1s)
+Delphine — A matron carries scandalous gossip house to house along a town road, tongues running like spring creeks, flat daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 074 | 0:18:22.300-0:18:35.731 (13.4s)
+A weathered ranch house past a north ridge under open sky, beyond the reach of a town's eyes, gray daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 075 | 0:18:35.731-0:18:54.533 (18.8s)
+Frances — A young mother moves warily through a big quiet ranch house, safe for the first time yet waiting for a catch, dim interior light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 076 | 0:18:54.533-0:19:13.672 (19.1s)
+Frances, Wyatt — A guarded young mother keeps her baby close while a quiet rancher goes on being plainly decent, day after day, warm ranch light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 077 | 0:19:13.672-0:19:27.102 (13.4s)
+Wyatt, Frances — A rancher hands a young woman a fair wage in coin, treating her as a decent woman doing honest work, warm light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 078 | 0:19:27.102-0:19:46.240 (19.1s)
+Wyatt, Frances — A rancher and a young woman talk easily over the day's work, her opinion valued at last, warm daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 079 | 0:19:46.240-0:20:02.357 (16.1s)
+Wyatt — A rancher whittles a small pine horse for a baby who crawls safe on a mended sunny porch, quiet tenderness, golden light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 080 | 0:20:02.357-0:20:13.101 (10.7s)
+Frances — A worried young mother sits beside a cradle in lamplight through a hard winter night, tending a small child unwell, warm anxious glow, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 081 | 0:20:13.101-0:20:25.860 (12.8s)
+Wyatt — A rancher pulls on his coat and rides out into a black snowy night to fetch the doctor, four hard hours through the storm, cold blue night, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 082 | 0:20:25.860-0:20:36.604 (10.7s)
+Wyatt — A rancher sits up the whole night beside a cradle with a lantern and a cool cloth, watchful and tender, warm lamplight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 083 | 0:20:36.604-0:20:49.363 (12.8s)
+Wyatt — Close on a rancher's tender weary face by a cradle, doing for a child that is nothing to him by blood, warm glow, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 084 | 0:20:49.363-0:21:03.465 (14.1s)
+Wyatt, Frances — A rancher watches a young mother and her baby with a quiet unspoken love, the best kind of love, warm light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 085 | 0:21:03.465-0:21:17.903 (14.4s)
+Curious riders passing a distant ranch on thin pretexts, a town that cannot let a story rest, flat daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 086 | 0:21:17.903-0:21:30.662 (12.8s)
+Church women driving out to peer at the fallen woman and finding only a decent wife cooking and raising a laughing child, gray daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 087 | 0:21:30.662-0:21:48.121 (17.5s)
+Delphine, Frances — A matron in a ranch yard looks a young woman up and down and finds only a clean house and a steady unflinching eye, flat daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 088 | 0:21:48.121-0:22:11.289 (23.2s)
+Frances, Wyatt — A young mother with a sleeping baby on a porch at red dusk, a rancher on the step a respectful distance off, warm evening light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 089 | 0:22:11.289-0:22:21.697 (10.4s)
+Frances — A young mother speaks quietly on a dusk porch without looking up, saying he never once asked her about any of it, warm dim light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 090 | 0:22:21.697-0:22:45.536 (23.8s)
+Wyatt, Frances — A rancher answers gently that it was not his to ask, and a young woman begins to weep at being treated as a whole person, warm evening light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 091 | 0:22:45.536-0:23:06.017 (20.5s)
+Wyatt, Frances — A rancher lets a young woman cry and does not reach for her, and the letting-be finally lets her trust a man again, warm dusk light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 092 | 0:23:06.017-0:23:20.455 (14.4s)
+Frances, Wyatt — A young mother slowly, painfully learning to trust the one man who asked nothing and gave everything, warm light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 093 | 0:23:20.455-0:23:36.236 (15.8s)
+Frances, Wyatt — A quiet spring wedding by a plain preacher two towns over, a wronged woman and a good man, warm light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 094 | 0:23:36.236-0:23:54.703 (18.5s)
+Roland Pyke — A deacon still respectable in his church, thanking God for his own righteousness, the wrong unpunished, pale church light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 095 | 0:23:54.703-0:24:05.447 (10.7s)
+Frances — A young wife still under the town's lingering judgment on a Sunday street, a shame not yet lifted, gray daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 096 | 0:24:05.447-0:24:18.206 (12.8s)
+A city lawyer with a leather folio riding a road toward a frontier town, carrying a hidden reckoning, gray daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 097 | 0:24:18.206-0:24:30.293 (12.1s)
+A bundle of old letters among a dead man's papers, the leavings of a former partner named Hollis, dim light (text not legible), 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 098 | 0:24:30.293-0:24:46.074 (15.8s)
+Letters in a single unmistakable hand discovered among a dead man's affairs, damning, dim light (text not legible), 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 099 | 0:24:46.074-0:24:59.840 (13.8s)
+A memory of an earlier young woman ruined and abandoned in another town years before, the wolf's first victim, faded dim light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 100 | 0:24:59.840-0:25:10.249 (10.4s)
+Roland Pyke — A cold satisfied man once wrote of managing an unpleasantness to keep his good name, a confession in all but the word, dim light (paper text not legible), 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 101 | 0:25:10.249-0:25:24.015 (13.8s)
+Roland Pyke — A deacon revealed as a wolf with a pattern, a practiced destroyer who had done it before, cold portrait, dim light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 102 | 0:25:24.015-0:25:42.146 (18.1s)
+A city lawyer arrives in the county with papers in hand, an honest man on honest business, gray daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 103 | 0:25:42.146-0:26:07.664 (25.5s)
+A lawyer rides up to a weathered ranch house past the ridge, unknowingly carrying dynamite, gray daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 104 | 0:26:07.664-0:26:24.116 (16.4s)
+Wyatt — A rancher on his porch reads old letters and understands in a held breath that the proof has ridden up to his door, tense daylight (text not legible), 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 105 | 0:26:24.116-0:26:47.283 (23.2s)
+Wyatt — A careful rancher thinks hard rather than act hasty, knowing how a town protects the man it reveres, dim light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 106 | 0:26:47.283-0:27:02.057 (14.8s)
+Wyatt — A rancher resolves to set the wrong right before the whole town in a way past wriggling out of, quiet purpose, warm light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 107 | 0:27:02.057-0:27:24.217 (22.2s)
+Wyatt — A rancher has the lawyer swear to the papers and quietly sends word to find the first ruined girl, careful planning, lamplit desk (text not legible), 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 108 | 0:27:24.217-0:27:40.333 (16.1s)
+The first girl — A steady woman of about thirty reads a rancher's honest letter and is moved to learn she was not the only one, dim light (text not legible), 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 109 | 0:27:40.333-0:27:50.742 (10.4s)
+The first girl — A woman finds a courage she never had, ready at last to speak to spare another, resolute, soft light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 110 | 0:27:50.742-0:28:11.223 (20.5s)
+A great county revival gathering at a frontier church, wagons and folding chairs, Roland Pyke central and resplendent, bright daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 111 | 0:28:11.223-0:28:29.690 (18.5s)
+Wyatt, Frances, the first girl veiled — A rancher and his wife slip into the back of a packed church while a veiled woman stands quiet near the aisle, pale daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 112 | 0:28:29.690-0:28:48.828 (19.1s)
+Roland Pyke — A deacon in his best black coat moves through a huge revival crowd receiving deference, the summit of his life, bright daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 113 | 0:28:48.828-0:29:03.602 (14.8s)
+Roland Pyke — A deacon basks in the deference of half a territory, blind in his certainty, bright daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 114 | 0:29:03.602-0:29:17.368 (13.8s)
+A packed revival church with a smug deacon at the front, oblivious to a rancher, a lawyer, and a veiled woman in the back, pale light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 115 | 0:29:17.368-0:29:39.192 (21.8s)
+Frances — An anxious young wife in a back pew afraid of what standing up in this church will cost, pale light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 116 | 0:29:39.192-0:29:49.265 (10.1s)
+Wyatt, Frances — A memory of the night before: a rancher takes his wife's hand and says it is not about what the town says of her, warm lamplight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 117 | 0:29:49.265-0:30:01.017 (11.8s)
+Wyatt — A rancher speaks earnestly that a wolf will do it again to some other girl unless someone who can stand does, warm dim light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 118 | 0:30:01.017-0:30:12.097 (11.1s)
+Frances — A young wife thinks of the next girl and puts on her good dress with quiet resolve, warm morning light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 119 | 0:30:12.097-0:30:26.199 (14.1s)
+Wyatt — A rancher stands up in the hush of a packed church as the deacon rises to pray, a plain carrying voice, pale window light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 120 | 0:30:26.199-0:30:46.009 (19.8s)
+Delphine — A matron springs up scandalized while the wider county crowd leans in wanting to hear, tense pale light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 121 | 0:30:46.009-0:31:01.789 (15.8s)
+A county crowd regarding a steady sober rancher with new respect, his word carrying weight, pale daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 122 | 0:31:01.789-0:31:12.198 (10.4s)
+Roland Pyke — A deacon at a pulpit unable to command a quieting room, the white flicker at his mouth again, pale light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 123 | 0:31:12.198-0:31:23.950 (11.8s)
+Wyatt — A rancher tells it plain to the church, that his wife was ruined by a man hiding behind the very pulpit, indicting, pale window light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 124 | 0:31:23.950-0:31:40.066 (16.1s)
+Wyatt — A rancher has a city lawyer stand to read out letters in the deacon's own hand, grave, pale daylight (text not legible), 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 125 | 0:31:40.066-0:31:52.153 (12.1s)
+The lawyer reads damning letters aloud to a stunned church, a deacon's own pen exposing him, pale window light (text not legible), 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 126 | 0:31:52.153-0:32:07.598 (15.4s)
+The first girl — A veiled woman rises in the crowd and lifts her veil, saying her name is on one of those letters, steady and unafraid, pale light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 127 | 0:32:07.598-0:32:23.379 (15.8s)
+The first girl — An unveiled woman testifies that everything the rancher says is true, that she carried it alone for eleven years, pale window light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 128 | 0:32:23.379-0:32:34.459 (11.1s)
+Roland Pyke — A cornered deacon begins to bluster as an unveiled woman vows to swear to it before any judge, pale light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 129 | 0:32:34.459-0:32:51.583 (17.1s)
+Roland Pyke — A deacon cries conspiracy and slander, but the room is turning and it is over, like a fever breaking, pale daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 130 | 0:32:51.583-0:33:13.743 (22.2s)
+Frances — A young wife sits in the back pew with her husband's arm around her and her healthy laughing child on her knee, living proof and vindicated, warm pale light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 131 | 0:33:13.743-0:33:25.495 (11.8s)
+A whole church of townsfolk turning their faces slowly and terribly from the wife they judged onto the deacon, pale light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 132 | 0:33:25.495-0:33:45.305 (19.8s)
+Roland Pyke — A deacon under the swung-round faces of the town he once ruled, finished more than any judge could make him, pale light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 133 | 0:33:45.305-0:33:55.377 (10.1s)
+Roland Pyke — A disgraced man leaves town within the month with a loaded wagon, his church seat empty and his wife white-lipped, gray daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 134 | 0:33:55.377-0:34:14.851 (19.5s)
+Frances — A wronged young woman who in the end brought the wolf's whole polished house down, quiet dignity, soft light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 135 | 0:34:14.851-0:34:28.282 (13.4s)
+Frances, the first girl — Two women sit together at a warm ranch kitchen table, both ruined once by the same careful hands, warm lamplight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 136 | 0:34:28.282-0:34:38.355 (10.1s)
+Frances, the first girl — Two women share a quiet understanding, each learning she was never the only one, warm glow, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 137 | 0:34:38.355-0:34:53.800 (15.4s)
+Frances, the first girl — Two women give each other a healing no verdict could, a shame learned to be no fault, warm light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 138 | 0:34:53.800-0:35:04.544 (10.7s)
+The first girl — A woman rides out lighter than she came, freed of an eleven year lie, gray-gold morning, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 139 | 0:35:04.544-0:35:18.646 (14.1s)
+The first girl — A woman departs having learned she was only young and preyed upon and no sinner at all, soft light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 140 | 0:35:18.646-0:35:33.755 (15.1s)
+Townsfolk walking past a certain church pew on a Sunday, made to remember how certain and how wrong they had been, pale light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 141 | 0:35:33.755-0:35:49.200 (15.4s)
+Frances — A townsperson apologizes to a young wife who forgives with a grace beyond the town that made her, warm daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 142 | 0:35:49.200-0:36:00.952 (11.8s)
+Delphine — A diminished matron who led the parade of shame, now scorned, gets what is worse for her kind than punishment, gray light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 143 | 0:36:00.952-0:36:15.054 (14.1s)
+Delphine — A humbled matron living on among people who watched her be righteously wrong, her committee lost, gray daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 144 | 0:36:15.054-0:36:27.812 (12.8s)
+Frances, Wyatt — A woman and a rancher living out their years past the ridge with more children about them, a full good life, golden light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 145 | 0:36:27.812-0:36:39.564 (11.8s)
+Frances — A grown tall kind young man beside his parents, the boy a town once called a sin, never made to feel it, warm daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 146 | 0:36:39.564-0:37:00.045 (20.5s)
+Frances — A new grieving cast-out girl finds her way to a ranch door past the ridge, seeking refuge, gray daylight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 147 | 0:37:00.045-0:37:13.140 (13.1s)
+Frances — A woman settles her own coat around a new grieving girl's shoulders, the kindness passed on, warm light, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 148 | 0:37:13.140-0:37:34.629 (21.5s)
+Frances — A ranch door opening in welcome to the cast out, a voice of refuge, warm glow, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 149 | 0:37:34.629-0:37:47.052 (12.4s)
+Frances, Wyatt, Roland Pyke — The three figures of the tale remembered, the paraded woman, the deacon, and the rancher who took off his coat, warm firelight, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 150 | 0:37:47.052-0:37:59.475 (12.4s)
+A frontier boardwalk and a dusty street, the choice of who to be laid plain, gold long shadows, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
+
+
+SCENE 151 | 0:37:59.475-0:38:15.927 (16.4s)
+A single glowing oil lantern on a plank table with dust drifting in its light against a dark background, the story closing, warm intimate glow, 1880s American Old West frontier, period-accurate frontier clothing and props, no modern objects, no contemporary clothing
