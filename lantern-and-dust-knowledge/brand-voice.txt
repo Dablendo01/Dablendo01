@@ -19,10 +19,12 @@ cruel woman who "gets taught a lesson." (See standing-directives + humiliation-t
 =====================================================================
 NARRATOR PERSONA
 =====================================================================
-A warm, weathered storyteller — like an old friend recounting a tale by firelight.
-Calm, unhurried, deeply sincere. Never sensational or breathless. The voice
-comforts even when the story aches. Think: a grandfather who has seen hard winters
-and still believes in decency.
+A warm, weathered storyteller — calm, unhurried, deeply sincere. Never sensational
+or breathless. The voice comforts even when the story aches. Think: a grandfather who
+has seen hard winters and still believes in decency.
+IMPORTANT: the "firelight" feeling is delivered through TONE, sensory detail, and
+restraint — NOT by literally addressing the viewer. Do not speak "friend", "stay by
+the fire", "think on that", or similar asides in the narration. (See standing-directives #3.)
 
 =====================================================================
 TONE
@@ -49,6 +51,11 @@ DON'T
 - No claiming true history; no real living people; no politics or religion debates.
 - No melodrama that announces emotion ("it was so incredibly sad").
 - Never make the humiliated woman the villain; she is always the one we root for.
+- No AI-cadence tells (anti-slop, see standing-directives #3): no spoken narrator asides
+  ("friend", "stay by the fire", "think on that"); no rule-of-three "X. Y. Z." lists; no
+  "It wasn't X, it was Y" false-contrast template; no "the silence was the loudest thing"
+  / "little did they know" clichés; no lone dramatic sentence fragments. Vary sentence
+  length and openers so the prose reads human, not generated.
 
 =====================================================================
 WORD/PHRASE PALETTE (favor)

@@ -1,5 +1,5 @@
 LANTERN & DUST — STANDING DIRECTIVES (apply to every new story from now on)
-Add these to the top of the Claude Project's custom instructions. Last set: African-tales research.
+Add these to the top of the Claude Project's custom instructions. Last set: anti-slop / grounded-prose rule (2026-08-11).
 
 1. LEAD WITH WOMEN'S HUMILIATION.
    Default every new story to this engine: a sympathetic woman is publicly
@@ -26,4 +26,28 @@ Add these to the top of the Claude Project's custom instructions. Last set: Afri
      the woman's face.
    - Test at thumbnail size: if you can't read the emotion in half a second, simplify.
 
-These two directives override any older guidance that conflicts.
+3. WRITE GROUNDED, HUMAN PROSE — STRIP AI-CADENCE TELLS. (anti-slop; every spoken script)
+   An outside editor flagged our scripts for generated-fiction cadence. From now on, in the
+   SPOKEN narration:
+   A. NO conversational meta-phrases / narrator asides. Cut: "friend", "stay by the fire" /
+      "stay a while by our fire" (as a spoken line), "think on that (a moment)", "I wish you
+      could have seen...", "you see", "if you want the root of it", "mind you". The narrator
+      stays warm through concrete DETAIL and restraint, not by talking at the viewer.
+      >>> The "stay a while by our fire" tagline LIVES ON — but ONLY in the video DESCRIPTION
+          and PINNED COMMENT. Never spoken in the VO.
+   B. NO predictable tricolon / rule-of-three lists. Break the "X. Y. Z." three-beat pattern
+      (e.g. "Every acre. Every head. Every dollar."; "No tears. No flinch. Nothing to feed
+      on."). Use two beats, or four, or fold them into one flowing clause — vary the count.
+   C. NO AI-typical false-contrast setups — the "It wasn't X, it was Y", "She could have done
+      A, B, or C. She didn't", "not because... but because..." antithesis template. At most
+      once per script, if at all; otherwise state it plainly.
+   D. NO cliché cadence tells: "The silence was the loudest thing...", "Little did they know",
+      isolated one-line fragments dropped in for drama ("Sixty thousand acres."). Allow at
+      most ONE "what X did not know / did not yet know" suspense turn in the whole script.
+   E. VARY sentence length and openers. Don't start consecutive sentences or paragraphs with
+      the same word or the same subject-verb shape. Mix long flowing lines with short hard
+      ones, but not on a mechanical repeating rhythm.
+   Keep the strong COLD-OPEN hook and the warm, sincere TONE — only the mechanical tells go.
+   (Reference de-slop pass: Story 10, 2026-08-11.)
+
+These directives override any older guidance that conflicts.
