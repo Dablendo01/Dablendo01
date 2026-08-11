@@ -1,0 +1,124 @@
+LANTERN & DUST — SANDBOX-ESCAPE PLAYBOOK (channel stuck at sub-100 views)
+Written 2026-08-11 against real data: ~88 lifetime views over 7 videos / 6 weeks,
+reach DECLINING (oldest video = most views: 44, 11, 12, 15, 6, 0, 0), both newest
+uploads at 0 views after a day (no ignition), owner analytics NOT connected.
+
+=====================================================================
+THE CORE PRINCIPLE
+=====================================================================
+At sub-100 views the bottleneck is SIGNAL STARVATION, not quality rejection.
+YouTube cannot recommend what it has never successfully tested on a warm seed
+audience. Your subscriber base is too small/inactive to give the initial burst,
+so every new upload starts from a cold zero and never accumulates the retention
+signal YouTube needs to widen. "Make more full videos and wait" is the CURRENT
+trajectory — and it is declining. The job for the next 30-60 days is to MANUFACTURE
+the initial signal yourself, from sources YouTube counts but does NOT gate, while
+making sure the few impressions you earn actually convert.
+
+THE ONE NUMBER: get ONE video to ~1,000 real views by any means (external traffic
+counts). ~1,000 views with decent retention is roughly the threshold where YouTube
+has enough signal to start its own testing loop. Every lever below serves that.
+
+=====================================================================
+LEVER 1 — FIX THE MEASUREMENT (do first, non-negotiable)
+=====================================================================
+You are flying blind. Connect owner analytics before anything else:
+  - NEXTLEV: dashboard.nexlev.io/analytics (its API was erroring 2026-08-11; retry).
+  - vidIQ: currently authorized to wavedigitechs@gmail.com with ZERO channels —
+    re-authorize with the Google account that OWNS Lantern & Dust.
+The moment it connects, pull two numbers on the 44-view video (ucDf-WpvE9s):
+  1. Impressions CTR  →  are people clicking the thumbnail at all?
+  2. First-30-second retention  →  do clickers stay past the open?
+Those two split your entire strategy (CTR problem vs retention problem). Everything
+we prep is guesswork until we see them.
+
+=====================================================================
+LEVER 2 — WIN THE IMPRESSIONS YOU ALREADY GET (re-package existing videos)
+=====================================================================
+The 7 live videos predate the VERIFIED text-free two-hander thumbnail doctrine and
+the quoted-dialogue title format. That is very likely why even the seed didn't
+convert. Re-titling and re-thumbnailing a PUBLISHED video RE-TRIGGERS a fresh
+YouTube impression test — a free at-bat on content already online.
+  - Re-thumbnail + re-title the top 3 existing videos (44, 15, 12 views) with the
+    two-hander format (woman left / man right / charged gap / crowd watching / NO
+    text) and quoted-dialogue titles.
+  - Ship the single strongest version (no A/B at this volume) and watch CTR once
+    analytics is live.
+This is the fastest lever on existing content — do it in Week 1.
+
+=====================================================================
+LEVER 3 — MANUFACTURE EXTERNAL IGNITION (bypass the sandbox gate)
+=====================================================================
+External traffic is counted by YouTube but NOT gated by the recommendation sandbox.
+This is the concrete 0 -> ignition mechanism: a few hundred external viewers who
+actually watch hands YouTube the retention signal it needs to begin testing.
+Your audience (US, 45+, emotional Western / clean wholesome fiction) lives on
+FACEBOOK, not on YouTube search.
+  - Build a Facebook Page "Lantern & Dust." Join 5-10 large groups: Western fiction,
+    old Western movie fans, cowboy/frontier stories, "clean wholesome stories,"
+    bedtime stories for adults. These pools are huge and underserved.
+  - For each story, post a native 60-90s emotional clip (the cold open) to the Page
+    and into groups, with the full-video link in the first pinned comment.
+  - Also cut a vertical 30-60s HOOK clip -> YouTube Shorts + Facebook Reels + TikTok.
+Goal: drive the first ~200-500 real, watching viewers to a video from OUTSIDE, so
+YouTube sees retention and starts its own engine.
+
+=====================================================================
+LEVER 4 — A SHORTS FRONT DOOR (highest-ceiling ignition vehicle)
+=====================================================================
+A single Short that lands can dump thousands of impressions and subscribers onto a
+cold channel in a way long-form CANNOT at this stage. In 2026 this is the fastest
+sandbox-escape vehicle for a channel with zero reach.
+  - Cut the most gripping 30-45s beat from each story into a vertical Short (the
+    wedding-ring reveal, the $3 auction, "no one would touch the dead stranger").
+  - End the Short on the hook, point to the full story (pinned comment + end).
+  - Caveat: Shorts subscribers convert WEAKLY to long-form watch-time. Use Shorts
+    for ignition and subscriber ignition, not as the main product.
+
+=====================================================================
+LEVER 5 — GIVE YOUTUBE A CATALOG IT CAN UNDERSTAND (session + consistency)
+=====================================================================
+  - PLAYLIST: chain every story into "Lantern & Dust — Full Stories" so one view
+    becomes a multi-video SESSION. Session watch-time is what YouTube rewards most.
+  - END SCREENS + pinned "next story" link on every video to manufacture continuation.
+  - CADENCE: metronomic uploads let YouTube pre-seed. BUT at sub-100 views, 3/week
+    can spread your thin seed too thin. Prefer 2/week with FULL packaging over 3/week
+    rushed. Quality of packaging per upload beats raw volume right now.
+  - Keep the catalog DIFFERENTIABLE: vary the humiliation setting and the thumbnail
+    staging so videos don't read as one repeated upload (see standing-directives #1).
+
+=====================================================================
+LEVER 6 — SEED THE FIRST-HOUR ENGAGEMENT SIGNAL
+=====================================================================
+  - Pinned comment with a genuine question on every video (already doing this — good).
+  - Reply to every comment fast; comment velocity in hour one is a widen signal.
+  - The 44-view video already pulled 3 comments (proportionally strong) — the few
+    who find you engage. The problem is reach, not appeal. Do not change the content.
+
+=====================================================================
+30-DAY SEQUENCE
+=====================================================================
+WEEK 1 (fix + package, publish nothing new yet):
+  - Connect owner analytics; record baseline CTR + 30s retention on ucDf-WpvE9s.
+  - Re-thumbnail + re-title the top 3 existing videos (two-hander + quoted title).
+  - Build the "Full Stories" playlist; add end screens + next-links to all 7.
+  - Set up Facebook Page; join 5-10 groups.
+WEEKS 2-4 (ignite):
+  - Publish 2/week with full two-hander packaging + de-slopped scripts (start Story 8,
+    Empty Place — next live).
+  - For EACH: cut a 45-60s vertical hook -> Shorts + FB Reels + native FB-group clip
+    with the full-video link pinned.
+  - Pin an engagement question; link the next story in the playlist.
+CONTINUOUS:
+  - Watch CTR + 30s retention as they come online; pour effort into whichever video
+    is earning the most impressions and iterate its packaging.
+
+=====================================================================
+DO NOT
+=====================================================================
+  - Do NOT keep publishing 38-min videos into the void and wait for the algorithm —
+    that is the current declining trajectory.
+  - Do NOT buy views/subs or use engagement pods — fake signal POISONS the seed and
+    trains YouTube to show you to the wrong people.
+  - Do NOT switch niche or format. The content converts the few who see it; the gap
+    is reach, and reach is an ignition + packaging problem, not a content problem.
