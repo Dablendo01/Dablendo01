@@ -1,0 +1,78 @@
+LANTERN & DUST — RE-PACKAGE THE TOP 3 LIVE VIDEOS (sandbox-escape Lever 2)
+Purpose: swap the thumbnail + title on each to RE-TRIGGER a fresh YouTube impression
+test on content already online. Text-free two-hander thumbnails + quoted-dialogue titles
+(the VERIFIED in-niche winning formula). Ship ONE title (the LEAD) per video; alts are
+backups. All thumbnails: photorealistic film still, 16:9, bright frontier daylight,
+burnt-sienna/gold grade, 1880s American Old West, period-accurate, NO text overlay,
+no modern objects. Woman in ONE saturated color so she pops against dusty browns.
+
+NOTE: these 3 are older live stories without kits; staging is built from each title's
+premise. If a story beat is wrong, tell me and I'll re-cut.
+
+=====================================================================
+VIDEO 1 — 44 views — id ucDf-WpvE9s — 38:39
+Current: "They Called Her Ruined When She Came Home After 13 Years — Two Men Came for What She Knew"
+=====================================================================
+QUOTED-DIALOGUE RETITLES (<=100 chars):
+LEAD:  "She Came Home Ruined" the Whole Town Whispered — Two Men Rode In for the Secret She Carried
+ALT A: "You Never Should Have Come Back" They Told Her — She Knew Something Worth Killing For
+ALT B: "The Ruined Woman's Back" They Sneered — Two Strangers Rode a Long Way to Silence Her
+
+TWO-HANDER THUMBNAIL PROMPT:
+A cinematic medium-wide film still. On the LEFT, a dignified travel-worn frontier woman of
+about 35 in a deep-burgundy modest 1880s dress, a small worn carpet bag in one hand, standing
+at the edge of a dusty frontier town street, chin level, wary but unbroken. On the RIGHT, a
+hard-eyed stranger in a dark long coat and hat facing her across a charged gap down the street,
+a second shadowed man just behind him. In the blurred background, townsfolk on the boardwalk
+turned to stare and whisper behind their hands. Woman left, men right, crowd watching. Bright
+frontier daylight, burnt-sienna and gold grade, photorealistic, 16:9, 1880s American Old West,
+period-accurate clothing, no modern objects, no text.
+
+=====================================================================
+VIDEO 2 — 15 views — id ln3hJa3jaw8 — 38:53
+Current: "Her First Words Saved His Life - Lonely Rancher Paid $3 for the Silent Girl No One Would Bid On"
+=====================================================================
+QUOTED-DIALOGUE RETITLES (<=100 chars):
+LEAD:  "Nobody Wants the Silent One" the Auctioneer Called — One Lonely Rancher Bid $3
+ALT A: "She Can't Even Speak" They Laughed — The Rancher Who Paid $3 for Her Never Once Regretted It
+ALT B: "Won't Somebody Bid?" No Hand Went Up for the Silent Woman — Then One Rancher Raised His
+
+TWO-HANDER THUMBNAIL PROMPT:
+A cinematic medium-wide film still. On the LEFT, a silent young frontier woman of about 20 in a
+faded blue plain dress, standing alone on a low wooden auction platform, head slightly bowed but
+not broken, overlooked and dignified. On the RIGHT, a weathered lonely rancher of about 40 in
+worn work clothes holding his hat to his chest, one hand half-raised in a bid, looking at her
+across a charged gap. Between and behind them, a blurred crowd of indifferent townsfolk and
+bidders, faces turned away or scoffing. Woman left, rancher right, crowd not bidding. Bright
+dusty town-square daylight, burnt-sienna and gold grade, photorealistic, 16:9, 1880s American
+Old West, period-accurate clothing, no modern objects, no text.
+(MINORS-FILTER SAFE: she is an adult young woman, framed as overlooked, never a child in peril.)
+
+=====================================================================
+VIDEO 3 — 12 views — id SsuAvd2YKTs — 32:59
+Current: "She Paid for Flour With Her Wedding Ring — The Name Inside Stopped Him Cold"
+=====================================================================
+QUOTED-DIALOGUE RETITLES (<=100 chars):
+LEAD:  "This Ring Is All I Have Left" She Said — Then He Read the Name Inside and Went Pale
+ALT A: "Take the Ring for the Flour" She Whispered — The Name Engraved Inside Stopped Him Cold
+ALT B: "It's Worth More Than You Know" She Said — He Opened the Ring and Knew the Name Inside
+
+TWO-HANDER THUMBNAIL PROMPT (tighter two-hander across a counter):
+A cinematic film still inside a dim 1880s general store, sacks of flour stacked behind. On the
+LEFT, a gaunt but dignified frontier woman of about 30 in a threadbare shawl over a faded
+deep-green dress, sliding a thin gold wedding ring across a worn wooden counter, her eyes down
+and pleading. On the RIGHT, the storekeeper, about 50, holding the ring up to the light and
+reading the engraving inside, his face struck with stunned recognition, going pale. The ring on
+the counter is the charged gap between them. Warm lamplight on them against cold gray daylight
+through the front window (warm/cold contrast). Woman left, storekeeper right. Photorealistic,
+16:9, 1880s American Old West, period-accurate clothing, no modern objects, no text.
+
+=====================================================================
+HOW TO SWAP (each video, in YouTube Studio)
+=====================================================================
+1. Generate the thumbnail in Flow/your image tool from the prompt above; keep the sharpest
+   take where BOTH figures + the gap read at 168px wide. Regenerate any warped face.
+2. In Studio: replace the thumbnail, replace the title with the LEAD line, save.
+3. Leave the description/tags; the retitle + new thumbnail alone re-trigger the impression test.
+4. Once owner analytics is connected, watch CTR on each for 3-5 days; if one LEAD underperforms,
+   swap in its ALT and compare.
