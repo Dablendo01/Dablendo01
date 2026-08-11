@@ -11,7 +11,7 @@ Reveal figure: Marshal Isaiah Cobb · Ally/witness: old Beatrice (boardinghouse 
 =====================================================================
 Caleb Carraway sent his first wife a wedding invitation to his second wedding.
 
-Think on that a moment. The man who had turned Josephine Ellery out of his house with one trunk and no explanation — who had told the whole town of Larkspur she was cold, and barren, and not the wife he'd bargained for — that same man wrote her name on a fine cream card in his own hand and had it carried to her door. Come to the wedding, it said. There's a seat for you.
+The man who had turned Josephine Ellery out of his house with one trunk and no explanation — who had told the whole town of Larkspur she was cold, and barren, and not the wife he'd bargained for — that same man wrote her name on a fine cream card in his own hand and had it carried to her door. Come to the wedding, it said. There's a seat for you.
 
 And there was a seat. Caleb had made sure of it. He'd had them put a single chair at the very back of the church, behind the servants and the hired hands, where the whole congregation could turn and look at the woman he'd thrown away and have a good laugh at her before he married a richer, younger bride at the front.
 
@@ -19,14 +19,14 @@ Josephine came. In her one good dress, alone, and sat where he'd put her.
 
 (re-hook) What Caleb Carraway did not know — what nobody in that packed church knew — was that a hard-faced man was riding into Larkspur that very morning with a star on his chest and news in his saddlebag. And when that man walked into the church and took off his hat, he was not going to take it off to the groom.
 
-Stay by the fire tonight, friend. This is the story of a woman they sat at the back to shame — and the moment the most powerful man in the territory crossed a silent church to stand at her side.
+What happened when that man crossed the church is the reason they still tell this story in Larkspur — and the reason no one there ever laughed at a poor seat again.
 
 =====================================================================
 [ACT 1] — THE WIFE HE THREW AWAY
 =====================================================================
 Josephine Ellery married Caleb Carraway when she was twenty-two, and for the first year she believed she was loved.
 
-She'd come out to Larkspur an orphan, like so many did, with nothing but a good name from back East that meant nothing out here and a way of carrying herself that Caleb had mistaken, at first, for the manners of money. That was Caleb's whole trouble, if you want the root of it. Caleb Carraway loved money the way some men love whiskey — it was the first thing he thought of in the morning and the last thing he wanted at night, and he could not look at a person without pricing them.
+She'd come out to Larkspur an orphan, like so many did, with nothing but a good name from back East that meant nothing out here and a way of carrying herself that Caleb had mistaken, at first, for the manners of money. That was Caleb's whole trouble. Caleb Carraway loved money the way some men love whiskey — it was the first thing he thought of in the morning and the last thing he wanted at night, and he could not look at a person without pricing them.
 
 He'd married Josephine because he thought she had prospects. Some inheritance back East, some rich uncle, something. And when the first year passed and no money came, and no child came either, Caleb's love — if it had ever been love and not arithmetic — curdled into something cold.
 
@@ -49,7 +49,7 @@ Beatrice had watched a lot of women come up her stairs broken by a lot of men, a
 
 (re-hook) And so she stayed, and she took in sewing, and she walked to church every Sunday and sat where she pleased, and slowly — very slowly — a few of the kinder souls in Larkspur began to notice that the cold barren woman Caleb Carraway had described did not match the quiet, steady, hardworking woman they actually saw. But talk is stronger than sight in a small town. Most folks went on believing Caleb, because Caleb was rich and charming and it was easier.
 
-What none of them knew — what Josephine herself did not know, that whole first year alone — was that far away, on a cattle spread up in the northern part of the territory, an old man was dying. And that old man was Josephine's uncle. The rich uncle Caleb had married her hoping for, and given up on, and thrown her away for lacking.
+And far away, on a cattle spread up in the northern part of the territory — unknown to Josephine, unknown to a living soul in Larkspur — an old man was dying. That old man was Josephine's uncle. The rich uncle Caleb had married her hoping for, and given up on, and thrown her away for lacking.
 
 He was real. Caleb had just been too impatient to wait for him.
 
@@ -91,7 +91,7 @@ Everyone came. The whole of Larkspur in its Sunday best, packed into the pews, b
 
 Josephine walked in on old Beatrice's arm.
 
-The buzzing dropped to a hiss of whispers. Every head turned. And Josephine Ellery walked the length of that aisle to the single chair at the very back — behind the hired hands, behind the servants, in the worst and lowest seat in the whole church — and she sat down in it, and she folded her hands in her lap, and she looked straight ahead with a calm still face, and she gave them nothing. No tears. No flinch. Nothing to feed on.
+The buzzing dropped to a hiss of whispers. Every head turned. And Josephine Ellery walked the length of that aisle to the single chair at the very back — behind the hired hands, behind the servants, in the worst and lowest seat in the whole church — and she sat down in it, and she folded her hands in her lap, and she looked straight ahead with a calm still face, and she gave them nothing they had come there to see.
 
 Up at the front, Caleb Carraway saw her come in, and he smiled. Adelaide, in her fine wedding dress, followed his glance to the back of the church and gave a small satisfied smile of her own. August Vestry, the banker, permitted himself a quiet nod. The stage was set exactly as they'd wanted it.
 
@@ -143,20 +143,18 @@ A murmur went through the church. Ellery. It was her name.
 
 Cobb turned, and he looked down at Josephine, and his hard face gentled.
 
-(re-hook) "He left her everything. Every acre. Every head. Every dollar. And he charged me, personal, to find her and see her safe into it, because he said a woman alone in this country with that much coming to her would have wolves at her door inside a week." The marshal's eyes lifted and moved, slow and cold, across the front of the church — across Caleb, across August Vestry — and everyone in that room understood exactly what kind of wolves he meant.
+(re-hook) "He left her the whole of it, down to the last acre and the last dollar. And he charged me, personal, to find her and see her safe into it, because he said a woman alone in this country with that much coming to her would have wolves at her door inside a week." The marshal's eyes lifted and moved, slow and cold, across the front of the church — across Caleb, across August Vestry — and everyone in that room understood exactly what kind of wolves he meant.
 
 "The niece's name," said Marshal Cobb, "is Josephine Ellery. This woman. Sitting in the worst chair in this church." He set his hat back on his head. "She is, as of this spring, one of the richest landowners in the territory. And I'll be escorting her north to her property whenever she's of a mind to go."
 
-The silence in that church was the loudest thing Larkspur had ever heard.
+Nobody in that church made a sound. Nobody seemed able to.
 
-(re-hook) And then, slowly, every head in the room began to turn — away from the bride in white at the front, away from the groom, toward the woman in the borrowed shawl at the back. The woman they'd all come to laugh at. The cast-off wife. The cold, barren, disappointing bargain.
-
-Sixty thousand acres.
+(re-hook) And then, slowly, every head in the room began to turn — away from the bride in white at the front, away from the groom, toward the woman in the borrowed shawl at the back — the cast-off wife they had all come to laugh at, who owned sixty thousand acres of the northern range.
 
 =====================================================================
 [ACT 3 continued] — THE FACES AT THE FRONT
 =====================================================================
-I wish you could have seen the front of that church.
+The front of that church was a study in ruin.
 
 Caleb Carraway had gone the color of ash. You could watch the arithmetic run across his face — the same cold arithmetic that ran his whole life — as he understood, all at once, the size of the thing he had thrown out onto a porch through a closed door on a gray morning. The rich uncle had been real. The fortune had been real. It had been coming the whole time. And he'd been too greedy and too impatient to wait a single year for it. He'd married the bank when he could have married the range.
 
@@ -175,9 +173,7 @@ She rose from the chair at the back of the church.
 =====================================================================
 Josephine Ellery stood, in her plain good dress and Beatrice's funeral shawl, and the whole church waited on her the way they'd have waited on a queen — because that, it turned out, was near enough what she was.
 
-She could have said anything. She'd earned the right to say anything at all. She could have laughed at Caleb the way they'd all planned to laugh at her. She could have looked at that crowd of people who'd whispered her down for two years and turned every cold word back on them.
-
-She didn't.
+She had earned the right to say anything at all — to laugh at Caleb the way the whole town had come planning to laugh at her, to take the two years of cold whispered talk and turn every word of it back on the people who'd carried it. She did none of that.
 
 Josephine walked up the aisle — slowly, the whole church holding its breath, the same aisle she'd been marched down to be shamed not ten minutes before — and she stopped, not in front of Caleb, but in front of young Adelaide Vestry in her wedding dress.
 
@@ -198,7 +194,7 @@ And she held out her hand to old Beatrice.
 =====================================================================
 Josephine Ellery walked out of that church a landowner, on the arm of a U.S. Marshal, with the one woman who'd been kind to her when it cost something walking proud at her side.
 
-She never married Caleb's kind again. In time — a good long while later, and only when she was sure — she married a plain honest cattleman up north who'd worked her uncle's range for twenty years and loved the land the way she came to love it, and who'd courted her a whole slow year before he ever once mentioned that he knew how much she was worth. She'd learned, you see, to watch for that. To notice the order things came in.
+She never married Caleb's kind again. In time — a good long while later, and only when she was sure — she married a plain honest cattleman up north who'd worked her uncle's range for twenty years and loved the land the way she came to love it, and who'd courted her a whole slow year before he ever once mentioned that he knew how much she was worth. She had learned to watch for that, and to notice the order things came in.
 
 She brought Beatrice north and set her up in a warm house with a window that caught the morning sun, and the old woman lived out her days there, spoiling Josephine's children rotten, telling anyone who'd listen about the morning a marshal took off his hat to a woman they'd sat at the back of a church.
 
@@ -213,9 +209,9 @@ As for Caleb Carraway — the wedding never happened. August Vestry took his dau
 =====================================================================
 They still tell it in Larkspur, and up on the Northern Range where her cattle still graze — the story of the cast-off wife they sat at the back to shame, and the marshal who crossed a silent church to take off his hat to her.
 
-It's an old truth, friend, and a good one to keep by the fire. The world is forever seating people where it thinks they belong — at the back, below the salt, out with the horses, behind the servants. And the world is forever wrong about it. Worth was never the seat they put you in. Worth is how straight you sit in it. Josephine Ellery knew that when she had nothing, which is the only reason she knew how to carry it when she had everything.
+The world is forever seating people where it thinks they belong, and the world is forever wrong about it. Worth was never the seat they put you in; it was how straight you sat in it. Josephine Ellery learned that when she had nothing, which was the only reason she knew how to carry it when she had everything.
 
-So sit up straight, wherever they've put you tonight. Hold your head level. You never do know who's riding four days to find you — or which cold morning is the last one before the whole thing turns.
+You never do know who's riding four days to find you, or which cold morning is the last one before the whole thing turns.
 
 If this tale warmed you, stay a while by our fire, and share it with someone who's sitting in a hard seat right now and doesn't yet know their marshal's on the road.
 
